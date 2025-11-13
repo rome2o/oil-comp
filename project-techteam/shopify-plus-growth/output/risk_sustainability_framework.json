@@ -1,0 +1,160 @@
+{
+  "risk_assessment": {
+    "Scope Creep": {
+      "likelihood": "HIGH",
+      "impact": "HIGH",
+      "severity_score": 9,
+      "description": "Client requests work outside agreed scope",
+      "mitigation": [
+        "\u2713 Defined deliverables in contract",
+        "\u2713 Clear monthly hour caps (20/40/60)",
+        "\u2713 Change order process for out-of-scope work",
+        "\u2713 Monthly utilization reports",
+        "\u2713 Quarterly scope review meetings"
+      ],
+      "owner": "Account Manager"
+    },
+    "Team Overwork": {
+      "likelihood": "MEDIUM",
+      "impact": "HIGH",
+      "severity_score": 8,
+      "description": "Team members work beyond allocated hours",
+      "mitigation": [
+        "\u2713 Hour tracking & monitoring (weekly)",
+        "\u2713 Workload alerts when approaching 80% utilization",
+        "\u2713 Escalation to Account Manager at 100%",
+        "\u2713 No unpaid overages (triggers change order)",
+        "\u2713 Team capacity planning meetings"
+      ],
+      "owner": "Operations Manager"
+    },
+    "Results Not Meeting Expectations": {
+      "likelihood": "MEDIUM",
+      "impact": "MEDIUM",
+      "severity_score": 6,
+      "description": "Revenue improvements don't match projections",
+      "mitigation": [
+        "\u2713 Performance guarantees (10-35% improvement in 90 days)",
+        "\u2713 Conservative projections in contracts",
+        "\u2713 Monthly performance reviews & course corrections",
+        "\u2713 Transparent reporting with context",
+        "\u2713 Flexibility to adjust strategy based on data"
+      ],
+      "owner": "Strategy Lead"
+    },
+    "Client Communication Breakdown": {
+      "likelihood": "LOW",
+      "impact": "MEDIUM",
+      "severity_score": 4,
+      "description": "Misalignment on priorities and progress",
+      "mitigation": [
+        "\u2713 Defined review cadence (bi-weekly for Growth tier)",
+        "\u2713 Monthly strategic planning calls",
+        "\u2713 Automated reporting dashboard",
+        "\u2713 Dedicated account manager",
+        "\u2713 Slack channel for quick communication"
+      ],
+      "owner": "Account Manager"
+    },
+    "Technology/Platform Issues": {
+      "likelihood": "MEDIUM",
+      "impact": "MEDIUM",
+      "severity_score": 5,
+      "description": "Shopify platform changes, app conflicts, outages",
+      "mitigation": [
+        "\u2713 Regular platform monitoring",
+        "\u2713 Test environment for changes",
+        "\u2713 Staying current with Shopify releases",
+        "\u2713 Network of Shopify experts for consultation",
+        "\u2713 Risk clause in contract (force majeure)"
+      ],
+      "owner": "Technical Lead"
+    },
+    "Team Turnover": {
+      "likelihood": "LOW",
+      "impact": "MEDIUM",
+      "severity_score": 4,
+      "description": "Key team member leaves mid-engagement",
+      "mitigation": [
+        "\u2713 Competitive compensation & margins support this",
+        "\u2713 Knowledge documentation & handoff procedures",
+        "\u2713 Cross-training on key accounts",
+        "\u2713 2-week transition period for new team member",
+        "\u2713 Client communication plan for transitions"
+      ],
+      "owner": "HR/Management"
+    }
+  },
+  "workload_guardrails": {
+    "Tier": [
+      "Starter",
+      "Growth",
+      "Plus"
+    ],
+    "Monthly Hours": [
+      20,
+      40,
+      60
+    ],
+    "Weekly Hours": [
+      5,
+      10,
+      15
+    ],
+    "Daily Hours Cap": [
+      2,
+      3,
+      4
+    ],
+    "Hour Carryover Policy": [
+      "Max 5 hrs",
+      "Max 10 hrs",
+      "Max 15 hrs"
+    ],
+    "Utilization Alerts": [
+      "80% = yellow",
+      "90% = orange",
+      "100%+ = red"
+    ],
+    "Over-Hours Process": [
+      "Change Order",
+      "Change Order",
+      "Change Order"
+    ]
+  },
+  "performance_guarantees": {
+    "Starter": {
+      "guarantee": "10% improvement in key metrics within 90 days",
+      "metrics": [
+        "Conversion rate improvement: +5% minimum",
+        "OR AOV improvement: +3% minimum",
+        "OR bounce rate reduction: -5% minimum"
+      ],
+      "guarantee_period": "90 days from start",
+      "if_not_met": "Additional month at 50% discount to achieve metrics",
+      "exclusions": "No traffic/sales decline due to external market factors"
+    },
+    "Growth": {
+      "guarantee": "20% improvement in revenue metrics within 90 days",
+      "metrics": [
+        "Conversion rate: +8% minimum",
+        "AND overall revenue: +15% minimum",
+        "OR combination of: (CRO + AOV + retention growth)"
+      ],
+      "guarantee_period": "90 days from start",
+      "if_not_met": "Additional month at 50% discount OR service adjustment",
+      "exclusions": "No traffic decline beyond market conditions"
+    },
+    "Plus": {
+      "guarantee": "35% improvement in revenue within 90 days",
+      "metrics": [
+        "Overall revenue increase: +25% minimum",
+        "AND conversion or traffic: +10% minimum",
+        "Comprehensive growth across multiple KPIs"
+      ],
+      "guarantee_period": "90 days from start",
+      "if_not_met": "Service strategy reviewed & adjusted at no cost",
+      "exclusions": "Major market disruption or external factors"
+    }
+  }
+}

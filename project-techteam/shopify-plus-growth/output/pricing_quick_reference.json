@@ -1,0 +1,23 @@
+{
+  "Starter": {
+    "monthly_price": 1500,
+    "monthly_hours": 20,
+    "annual_cost": 18000,
+    "expected_roi": -14089.59,
+    "payback_days": 999
+  },
+  "Growth": {
+    "monthly_price": 2900,
+    "monthly_hours": 40,
+    "annual_cost": 34800,
+    "expected_roi": -24310.17,
+    "payback_days": 999
+  },
+  "Plus": {
+    "monthly_price": 4400,
+    "monthly_hours": 60,
+    "annual_cost": 52800,
+    "expected_roi": -35420.399999999994,
+    "payback_days": 999
+  }
+}

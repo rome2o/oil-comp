@@ -1,0 +1,341 @@
+{
+  "checkout_conversion_rate_over_time": {
+    "records": 13,
+    "columns": [
+      "Month",
+      "Sessions that reached checkout",
+      "Sessions that completed checkout",
+      "Checkout conversion rate",
+      "Month (previous_period)",
+      "Sessions that reached checkout (previous_period)",
+      "Sessions that completed checkout (previous_period)",
+      "Checkout conversion rate (previous_period)",
+      "Sessions that reached checkout (previous_period)",
+      "Sessions that completed checkout (previous_period)",
+      "Checkout conversion rate (previous_period)"
+    ],
+    "date_range": "Nov 2024 - Nov 2025",
+    "sample_data": [
+      {
+        "Month": "2024-11-01",
+        "Sessions that reached checkout": 258,
+        "Sessions that completed checkout": 129,
+        "Checkout conversion rate": 0.5,
+        "Month (previous_period)": "2023-11-01",
+        "Sessions that reached checkout (previous_period)": 0.3891050583657587,
+        "Sessions that completed checkout (previous_period)": -2.272727272727273,
+        "Checkout conversion rate (previous_period)": -2.6515151515151425
+      },
+      {
+        "Month": "2024-12-01",
+        "Sessions that reached checkout": 351,
+        "Sessions that completed checkout": 183,
+        "Checkout conversion rate": 0.5213675213675214,
+        "Month (previous_period)": "2023-12-01",
+        "Sessions that reached checkout (previous_period)": 15.84158415841584,
+        "Sessions that completed checkout (previous_period)": 14.375,
+        "Checkout conversion rate (previous_period)": -1.2660256410256252
+      },
+      {
+        "Month": "2025-01-01",
+        "Sessions that reached checkout": 416,
+        "Sessions that completed checkout": 237,
+        "Checkout conversion rate": 0.5697115384615384,
+        "Month (previous_period)": "2024-01-01",
+        "Sessions that reached checkout (previous_period)": 24.924924924924923,
+        "Sessions that completed checkout (previous_period)": 22.797927461139896,
+        "Checkout conversion rate (previous_period)": -1.7026205659625455
+      }
+    ]
+  },
+  "total_sales_by_product": {
+    "records": 537,
+    "columns": [
+      "Product title",
+      "Product vendor",
+      "Product type",
+      "Net items sold",
+      "Gross sales",
+      "Discounts",
+      "Returns",
+      "Net sales",
+      "Taxes",
+      "Total sales"
+    ],
+    "date_range": "Nov 2024 - Nov 2025",
+    "sample_data": [
+      {
+        "Product title": "Lavender 40/42 Essential Oil",
+        "Product vendor": "HBNO inc",
+        "Product type": "Blend",
+        "Net items sold": 435,
+        "Gross sales": 71573.29,
+        "Discounts": -438.93,
+        "Returns": -5.4,
+        "Net sales": 71128.96,
+        "Taxes": 1620.73,
+        "Total sales": 72749.69
+      },
+      {
+        "Product title": "Peppermint Essential Oil",
+        "Product vendor": "HBNO inc",
+        "Product type": "essential oil",
+        "Net items sold": 321,
+        "Gross sales": 68366.09,
+        "Discounts": -244.44,
+        "Returns": -934.5,
+        "Net sales": 67187.15,
+        "Taxes": 1387.85,
+        "Total sales": 68575.0
+      },
+      {
+        "Product title": "Rosemary Essential Oil",
+        "Product vendor": "HBNO inc",
+        "Product type": "essential oil",
+        "Net items sold": 251,
+        "Gross sales": 53201.98,
+        "Discounts": -412.16,
+        "Returns": 0.0,
+        "Net sales": 52789.82,
+        "Taxes": 1511.36,
+        "Total sales": 54301.18
+      }
+    ]
+  },
+  "sessions_by_referrer": {
+    "records": 478,
+    "columns": [
+      "Referrer source",
+      "Referrer name",
+      "Online store visitors",
+      "Sessions"
+    ],
+    "date_range": "Nov 2024 - Nov 2025",
+    "sample_data": [
+      {
+        "Referrer source": "direct",
+        "Referrer name": NaN,
+        "Online store visitors": 111423,
+        "Sessions": 140554
+      },
+      {
+        "Referrer source": "search",
+        "Referrer name": "google",
+        "Online store visitors": 78491,
+        "Sessions": 92386
+      },
+      {
+        "Referrer source": "search",
+        "Referrer name": "duckduckgo",
+        "Online store visitors": 3884,
+        "Sessions": 4461
+      }
+    ]
+  },
+  "conversion_rate_breakdown": {
+    "records": 91,
+    "columns": [
+      "Day",
+      "Sessions",
+      "Sessions with cart additions",
+      "Sessions that reached checkout",
+      "Sessions that completed checkout",
+      "Conversion rate",
+      "Day (previous_period)",
+      "Sessions (previous_period)",
+      "Sessions with cart additions (previous_period)",
+      "Sessions that reached checkout (previous_period)",
+      "Sessions that completed checkout (previous_period)",
+      "Conversion rate (previous_period)",
+      "Sessions (previous_period)",
+      "Sessions with cart additions (previous_period)",
+      "Sessions that reached checkout (previous_period)",
+      "Sessions that completed checkout (previous_period)",
+      "Conversion rate (previous_period)"
+    ],
+    "date_range": "Nov 2024 - Nov 2025",
+    "sample_data": [
+      {
+        "Day": "2025-08-15",
+        "Sessions": 843,
+        "Sessions with cart additions": 21,
+        "Sessions that reached checkout": 15,
+        "Sessions that completed checkout": 10,
+        "Conversion rate": 0.0118623962040332,
+        "Day (previous_period)": "2025-05-16",
+        "Sessions (previous_period)": 136.79775280898878,
+        "Sessions with cart additions (previous_period)": 0.0,
+        "Sessions that reached checkout (previous_period)": 25.0,
+        "Sessions that completed checkout (previous_period)": 66.66666666666667,
+        "Conversion rate (previous_period)": -29.616449189402925
+      },
+      {
+        "Day": "2025-08-16",
+        "Sessions": 528,
+        "Sessions with cart additions": 17,
+        "Sessions that reached checkout": 12,
+        "Sessions that completed checkout": 4,
+        "Conversion rate": 0.0075757575757575,
+        "Day (previous_period)": "2025-05-17",
+        "Sessions (previous_period)": 87.90035587188612,
+        "Sessions with cart additions (previous_period)": 21.428571428571427,
+        "Sessions that reached checkout (previous_period)": 50.0,
+        "Sessions that completed checkout (previous_period)": -42.85714285714285,
+        "Conversion rate (previous_period)": -69.58874458874459
+      },
+      {
+        "Day": "2025-08-17",
+        "Sessions": 584,
+        "Sessions with cart additions": 20,
+        "Sessions that reached checkout": 12,
+        "Sessions that completed checkout": 4,
+        "Conversion rate": 0.0068493150684931,
+        "Day (previous_period)": "2025-05-18",
+        "Sessions (previous_period)": 85.98726114649682,
+        "Sessions with cart additions (previous_period)": 42.85714285714285,
+        "Sessions that reached checkout (previous_period)": 71.42857142857143,
+        "Sessions that completed checkout (previous_period)": 0.0,
+        "Conversion rate (previous_period)": -46.232876712328775
+      }
+    ]
+  },
+  "bounce_rate_over_time": {
+    "records": 13,
+    "columns": [
+      "Month",
+      "Bounce rate",
+      "Month (previous_period)",
+      "Bounce rate (previous_period)",
+      "Bounce rate (previous_period)"
+    ],
+    "date_range": "Nov 2024 - Nov 2025",
+    "sample_data": [
+      {
+        "Month": "2024-11-01",
+        "Bounce rate": 0.8118343195266272,
+        "Month (previous_period)": "2023-11-01",
+        "Bounce rate (previous_period)": 34.34310096890545
+      },
+      {
+        "Month": "2024-12-01",
+        "Bounce rate": 0.6434243656788688,
+        "Month (previous_period)": "2023-12-01",
+        "Bounce rate (previous_period)": 1.0314637451294577
+      },
+      {
+        "Month": "2025-01-01",
+        "Bounce rate": 0.7604345657114351,
+        "Month (previous_period)": "2024-01-01",
+        "Bounce rate (previous_period)": 34.811580139166495
+      }
+    ]
+  },
+  "customer_behavior": {
+    "records": 1,
+    "columns": [
+      "Sessions with cart additions",
+      "Sessions that reached checkout",
+      "Sessions that completed checkout"
+    ],
+    "date_range": "Nov 2024 - Nov 2025",
+    "sample_data": [
+      {
+        "Sessions with cart additions": 8026,
+        "Sessions that reached checkout": 5234,
+        "Sessions that completed checkout": 2610
+      }
+    ]
+  },
+  "sales_attributed_to_marketing": {
+    "records": 41,
+    "columns": [
+      "Referring channel",
+      "Referring medium",
+      "Orders",
+      "Total sales",
+      "Gross sales",
+      "Net sales",
+      "Orders (previous_period)",
+      "Total sales (previous_period)",
+      "Gross sales (previous_period)",
+      "Net sales (previous_period)",
+      "Orders (previous_period)",
+      "Total sales (previous_period)",
+      "Gross sales (previous_period)",
+      "Net sales (previous_period)"
+    ],
+    "date_range": "Nov 2024 - Nov 2025",
+    "sample_data": [
+      {
+        "Referring channel": "google",
+        "Referring medium": "search",
+        "Orders": 622,
+        "Total sales": 275925.99,
+        "Gross sales": 278811.1,
+        "Net sales": 265887.64,
+        "Orders (previous_period)": -20.256410256410252,
+        "Total sales (previous_period)": -14.956,
+        "Gross sales (previous_period)": -14.612,
+        "Net sales (previous_period)": -15.061
+      },
+      {
+        "Referring channel": "shopify",
+        "Referring medium": NaN,
+        "Orders": 42,
+        "Total sales": 30253.43,
+        "Gross sales": 30589.48,
+        "Net sales": 28750.91,
+        "Orders (previous_period)": 2000.0,
+        "Total sales (previous_period)": 1542.422,
+        "Gross sales (previous_period)": 1574.301,
+        "Net sales (previous_period)": 1473.667
+      },
+      {
+        "Referring channel": "bing",
+        "Referring medium": "search",
+        "Orders": 70,
+        "Total sales": 27154.7,
+        "Gross sales": 26636.68,
+        "Net sales": 26138.7,
+        "Orders (previous_period)": -4.109589041095891,
+        "Total sales (previous_period)": -43.485,
+        "Gross sales (previous_period)": -43.276,
+        "Net sales (previous_period)": -42.548
+      }
+    ]
+  },
+  "sessions_by_location": {
+    "records": 13705,
+    "columns": [
+      "Session country",
+      "Session region",
+      "Session city",
+      "Online store visitors",
+      "Sessions"
+    ],
+    "date_range": "Nov 2024 - Nov 2025",
+    "sample_data": [
+      {
+        "Session country": "United States",
+        "Session region": "Virginia",
+        "Session city": "Ashburn",
+        "Online store visitors": 31820,
+        "Sessions": 31849
+      },
+      {
+        "Session country": "United States",
+        "Session region": "Iowa",
+        "Session city": "Council Bluffs",
+        "Online store visitors": 12093,
+        "Sessions": 12096
+      },
+      {
+        "Session country": "United States",
+        "Session region": NaN,
+        "Session city": NaN,
+        "Online store visitors": 7268,
+        "Sessions": 7508
+      }
+    ]
+  }
+}

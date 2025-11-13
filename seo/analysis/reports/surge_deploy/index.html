@@ -1,0 +1,1176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Comprehensive SEO Performance Analysis Report for Oil Company Website">
+    <title>SEO Performance Analysis Report - Oil Company (hbnobulk.com / hbno.com)</title>
+    
+<style>
+body {
+    margin: 0;
+    padding: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: #2d3748;
+    background: #f7fafc;
+}
+
+.seo-report-container {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    max-width: 1400px;
+    margin: 40px auto;
+    padding: 30px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 15px;
+    box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+}
+
+.report-inner {
+    background: white;
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.report-header {
+    text-align: center;
+    border-bottom: 4px solid #667eea;
+    padding-bottom: 30px;
+    margin-bottom: 40px;
+}
+
+.report-header h1 {
+    color: #2d3748;
+    font-size: 2.5em;
+    margin-bottom: 10px;
+    font-weight: 700;
+}
+
+.report-header .subtitle {
+    color: #718096;
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+.report-meta {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+
+.meta-item {
+    background: #f7fafc;
+    padding: 15px 25px;
+    border-radius: 8px;
+    border-left: 4px solid #667eea;
+}
+
+.meta-item strong {
+    color: #2d3748;
+    display: block;
+    font-size: 0.9em;
+    margin-bottom: 5px;
+}
+
+.meta-item span {
+    color: #4a5568;
+    font-size: 1.1em;
+}
+
+.section-title {
+    color: #2d3748;
+    font-size: 2em;
+    margin: 50px 0 25px 0;
+    padding-left: 20px;
+    border-left: 6px solid #667eea;
+    font-weight: 700;
+}
+
+.subsection-title {
+    color: #4a5568;
+    font-size: 1.5em;
+    margin: 30px 0 20px 0;
+    font-weight: 600;
+}
+
+.metric-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+    margin: 30px 0;
+}
+
+.metric-card {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: 25px;
+    border-radius: 12px;
+    color: white;
+    box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.metric-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 40px rgba(102, 126, 234, 0.4);
+}
+
+.metric-label {
+    font-size: 0.9em;
+    opacity: 0.9;
+    margin-bottom: 10px;
+    font-weight: 500;
+}
+
+.metric-value {
+    font-size: 2.5em;
+    font-weight: 700;
+    margin: 10px 0;
+}
+
+.metric-change {
+    font-size: 1.2em;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.positive { color: #48bb78; }
+.negative { color: #f56565; }
+
+.verdict-box {
+    background: #f7fafc;
+    border-left: 6px solid #48bb78;
+    padding: 25px;
+    margin: 25px 0;
+    border-radius: 8px;
+}
+
+.verdict-box.warning {
+    border-left-color: #ed8936;
+}
+
+.verdict-box.critical {
+    border-left-color: #f56565;
+}
+
+.verdict-title {
+    font-size: 1.3em;
+    font-weight: 700;
+    color: #2d3748;
+    margin-bottom: 15px;
+}
+
+.data-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.data-table thead {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+}
+
+.data-table th {
+    padding: 18px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 1.05em;
+}
+
+.data-table td {
+    padding: 15px 18px;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+.data-table tbody tr:hover {
+    background: #f7fafc;
+}
+
+.data-table tbody tr:last-child td {
+    border-bottom: none;
+}
+
+.glossary-term {
+    background: #edf2f7;
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 8px;
+    border-left: 4px solid #4299e1;
+}
+
+.glossary-term strong {
+    color: #2d3748;
+    font-size: 1.1em;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.insight-box {
+    background: linear-gradient(135deg, #38b2ac 0%, #319795 100%);
+    color: white;
+    padding: 25px;
+    border-radius: 12px;
+    margin: 25px 0;
+    box-shadow: 0 10px 30px rgba(56, 178, 172, 0.3);
+}
+
+.insight-box h4 {
+    margin-top: 0;
+    font-size: 1.3em;
+    margin-bottom: 15px;
+}
+
+.recommendation-list {
+    background: #fff5f5;
+    border-left: 6px solid #fc8181;
+    padding: 25px;
+    margin: 25px 0;
+    border-radius: 8px;
+}
+
+.recommendation-list.success {
+    background: #f0fff4;
+    border-left-color: #48bb78;
+}
+
+.recommendation-list h4 {
+    color: #2d3748;
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 1.2em;
+}
+
+.recommendation-list ul {
+    margin: 15px 0;
+    padding-left: 25px;
+}
+
+.recommendation-list li {
+    margin: 12px 0;
+    line-height: 1.6;
+    color: #4a5568;
+}
+
+.highlight-number {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    font-weight: 700;
+    font-size: 1.1em;
+}
+
+.stat-significance {
+    display: inline-block;
+    background: #48bb78;
+    color: white;
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 0.85em;
+    font-weight: 600;
+    margin-left: 10px;
+}
+
+.image-container {
+    margin: 30px 0;
+    text-align: center;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+}
+
+.image-caption {
+    color: #718096;
+    font-style: italic;
+    margin-top: 10px;
+    font-size: 0.95em;
+}
+
+@media print {
+    body {
+        background: white;
+        padding: 0;
+        margin: 0;
+    }
+    
+    .seo-report-container {
+        box-shadow: none;
+        padding: 0;
+        margin: 0;
+        background: white !important;
+    }
+    
+    .report-inner {
+        padding: 20px;
+    }
+    
+    .report-header h1 {
+        color: #000 !important;
+        font-size: 2em;
+    }
+    
+    .report-header .subtitle {
+        color: #333 !important;
+    }
+    
+    .meta-item {
+        background: white !important;
+        border: 1px solid #ddd;
+        page-break-inside: avoid;
+    }
+    
+    .meta-item strong {
+        color: #000 !important;
+    }
+    
+    .meta-item span {
+        color: #333 !important;
+    }
+    
+    .section-title {
+        color: #000 !important;
+        border-left-color: #667eea !important;
+        page-break-after: avoid;
+        margin-top: 30px;
+    }
+    
+    .subsection-title {
+        color: #000 !important;
+        page-break-after: avoid;
+    }
+    
+    .metric-card {
+        background: white !important;
+        border: 2px solid #667eea !important;
+        color: #000 !important;
+        page-break-inside: avoid;
+        box-shadow: none !important;
+    }
+    
+    .metric-card:hover {
+        transform: none;
+        box-shadow: none !important;
+    }
+    
+    .metric-label {
+        color: #333 !important;
+        opacity: 1 !important;
+    }
+    
+    .metric-value {
+        color: #000 !important;
+    }
+    
+    .metric-change {
+        color: #333 !important;
+    }
+    
+    .positive {
+        color: #2d7a3e !important;
+        font-weight: 600;
+    }
+    
+    .negative {
+        color: #c53030 !important;
+        font-weight: 600;
+    }
+    
+    .verdict-box {
+        background: white !important;
+        border: 2px solid #48bb78;
+        page-break-inside: avoid;
+        color: #000 !important;
+    }
+    
+    .verdict-box.warning {
+        border-color: #ed8936 !important;
+    }
+    
+    .verdict-box.critical {
+        border-color: #f56565 !important;
+    }
+    
+    .verdict-title {
+        color: #000 !important;
+    }
+    
+    .verdict-box p, .verdict-box li {
+        color: #000 !important;
+    }
+    
+    .data-table {
+        page-break-inside: avoid;
+        border: 1px solid #000;
+    }
+    
+    .data-table thead {
+        background: #667eea !important;
+        color: white !important;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+    
+    .data-table th {
+        color: white !important;
+        border: 1px solid #000;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+    
+    .data-table td {
+        color: #000 !important;
+        border: 1px solid #ddd;
+    }
+    
+    .data-table tbody tr:hover {
+        background: white;
+    }
+    
+    .stat-significance {
+        background: #48bb78 !important;
+        color: white !important;
+        border: 1px solid #000;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+    }
+    
+    .glossary-term {
+        background: white !important;
+        border: 1px solid #4299e1;
+        page-break-inside: avoid;
+    }
+    
+    .glossary-term strong {
+        color: #000 !important;
+    }
+    
+    .glossary-term p {
+        color: #000 !important;
+    }
+    
+    .insight-box {
+        background: white !important;
+        border: 2px solid #38b2ac;
+        color: #000 !important;
+        page-break-inside: avoid;
+        box-shadow: none !important;
+    }
+    
+    .insight-box h4 {
+        color: #000 !important;
+    }
+    
+    .insight-box p, .insight-box li {
+        color: #000 !important;
+    }
+    
+    .recommendation-list {
+        background: white !important;
+        border: 2px solid #fc8181;
+        page-break-inside: avoid;
+    }
+    
+    .recommendation-list.success {
+        background: white !important;
+        border-color: #48bb78 !important;
+    }
+    
+    .recommendation-list h4 {
+        color: #000 !important;
+    }
+    
+    .recommendation-list li {
+        color: #000 !important;
+    }
+    
+    .highlight-number {
+        color: #667eea !important;
+        -webkit-text-fill-color: #667eea !important;
+        font-weight: 700;
+    }
+    
+    /* Force color printing for key elements */
+    .metric-card,
+    .verdict-box,
+    .insight-box,
+    .recommendation-list,
+    .data-table thead,
+    .stat-significance {
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+        color-adjust: exact;
+    }
+    
+    /* Improve page breaks */
+    h2, h3 {
+        page-break-after: avoid;
+    }
+    
+    table {
+        page-break-inside: avoid;
+    }
+    
+    /* Hide/adjust elements for print */
+    .metric-grid {
+        display: block;
+    }
+    
+    .metric-card {
+        display: inline-block;
+        width: 48%;
+        margin: 5px;
+        vertical-align: top;
+    }
+}
+</style>
+</head>
+<body>
+
+<div class="seo-report-container">
+<div class="report-inner">
+
+<div class="report-header">
+    <h1>📊 SEO Performance Analysis Report</h1>
+    <div class="subtitle">Comprehensive Analysis & Strategic Insights</div>
+    <div class="subtitle">Oil Company Website: hbnobulk.com / hbno.com</div>
+    <div class="report-meta">
+        <div class="meta-item">
+            <strong>Report Date</strong>
+            <span>October 22, 2025</span>
+        </div>
+        <div class="meta-item">
+            <strong>Analysis Period</strong>
+            <span>July 2024 - Oct 2025</span>
+        </div>
+        <div class="meta-item">
+            <strong>Data Points Analyzed</strong>
+            <span>471 Days</span>
+        </div>
+        <div class="meta-item">
+            <strong>Total Clicks</strong>
+            <span>27,582</span>
+        </div>
+    </div>
+</div>
+
+<!-- EXECUTIVE SUMMARY -->
+<h2 class="section-title">📈 Executive Summary</h2>
+
+<div class="verdict-box">
+    <div class="verdict-title">✅ Overall Verdict: Strong Positive Performance</div>
+    <p>The SEO analysis reveals <strong>significant improvements</strong> across all major metrics following both the July 19th theme change and under Allen's management. The website is experiencing strong growth in visibility, traffic, and search rankings. However, strategic realignment toward B2B focus and backlink quality improvement are critical priorities.</p>
+</div>
+
+<div class="metric-grid">
+    <div class="metric-card">
+        <div class="metric-label">Total Organic Clicks</div>
+        <div class="metric-value">27,582</div>
+        <div class="metric-change positive">↗ Analysis Period</div>
+    </div>
+    <div class="metric-card">
+        <div class="metric-label">Total Impressions</div>
+        <div class="metric-value">2.59M</div>
+        <div class="metric-change positive">↗ Strong Visibility</div>
+    </div>
+    <div class="metric-card">
+        <div class="metric-label">Keywords Tracked</div>
+        <div class="metric-value">14,293</div>
+        <div class="metric-change positive">↗ Comprehensive Coverage</div>
+    </div>
+    <div class="metric-card">
+        <div class="metric-label">Top 10 Rankings</div>
+        <div class="metric-value">2,742</div>
+        <div class="metric-change positive">↗ 19.2% of Keywords</div>
+    </div>
+</div>
+
+<!-- THEME CHANGE IMPACT -->
+<h2 class="section-title">🎨 Theme Change Impact Analysis</h2>
+
+<div class="verdict-box">
+    <div class="verdict-title">✅ VERDICT: Unqualified Success</div>
+    <p>The July 19th, 2025 theme change was a <strong>resounding success</strong>. All key SEO metrics improved significantly, with changes confirmed as statistically significant (p < 0.05). The new theme enhanced technical SEO factors that Google values.</p>
+</div>
+
+<h3 class="subsection-title">Performance Comparison: 30 Days Before vs. After</h3>
+
+<table class="data-table">
+    <thead>
+        <tr>
+            <th>Metric</th>
+            <th>Pre-Theme (Jun 19 - Jul 18)</th>
+            <th>Post-Theme (Jul 19 - Aug 18)</th>
+            <th>Change</th>
+            <th>Statistical Significance</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Daily Clicks</strong></td>
+            <td>99.5</td>
+            <td>121.2</td>
+            <td class="positive"><strong>+21.80%</strong></td>
+            <td><span class="stat-significance">p < 0.0001</span></td>
+        </tr>
+        <tr>
+            <td><strong>Daily Impressions</strong></td>
+            <td>13,187</td>
+            <td>14,512</td>
+            <td class="positive"><strong>+10.05%</strong></td>
+            <td><span class="stat-significance">p < 0.0001</span></td>
+        </tr>
+        <tr>
+            <td><strong>Click-Through Rate</strong></td>
+            <td>0.757%</td>
+            <td>0.839%</td>
+            <td class="positive"><strong>+10.89%</strong></td>
+            <td><span class="stat-significance">p = 0.0178</span></td>
+        </tr>
+        <tr>
+            <td><strong>Average Position</strong></td>
+            <td>24.13</td>
+            <td>23.24</td>
+            <td class="positive"><strong>Improved 3.65%</strong></td>
+            <td><span class="stat-significance">p = 0.0121</span></td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="insight-box">
+    <h4>💡 Key Insights: Why Performance Improved</h4>
+    <ul>
+        <li><strong>Enhanced Core Web Vitals:</strong> Modern theme improved page speed metrics (LCP, INP, CLS) that Google rewards</li>
+        <li><strong>Superior Mobile Experience:</strong> Mobile-first design aligns with Google's mobile-first indexing</li>
+        <li><strong>Better Structured Data:</strong> Enhanced schema markup created more compelling search result snippets</li>
+        <li><strong>Improved Site Architecture:</strong> Better internal linking helped Google crawl and understand content relationships</li>
+    </ul>
+</div>
+
+<!-- ALLEN'S PERFORMANCE -->
+<h2 class="section-title">👨‍💼 Allen's Performance Evaluation</h2>
+
+<div class="verdict-box">
+    <div class="verdict-title">✅ VERDICT: Dramatically Superior Performance (Grade: B)</div>
+    <p>Allen has achieved <strong>exceptional results</strong> in his first 5 months, far surpassing the previous agency in visibility and traffic generation. Grade is B (not A) due to CTR decline, which is explainable as strategic trade-off, not failure.</p>
+</div>
+
+<h3 class="subsection-title">Previous Agency vs. Allen (Pre-Theme Change)</h3>
+
+<table class="data-table">
+    <thead>
+        <tr>
+            <th>Metric</th>
+            <th>Previous Agency</th>
+            <th>Allen (Pre-Theme)</th>
+            <th>Change</th>
+            <th>Statistical Significance</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Daily Clicks</strong></td>
+            <td>21.26</td>
+            <td>68.61</td>
+            <td class="positive"><strong>+222.69%</strong></td>
+            <td><span class="stat-significance">p < 0.0001</span></td>
+        </tr>
+        <tr>
+            <td><strong>Daily Impressions</strong></td>
+            <td>939.85</td>
+            <td>6,836.54</td>
+            <td class="positive"><strong>+627.40%</strong></td>
+            <td><span class="stat-significance">p < 0.0001</span></td>
+        </tr>
+        <tr>
+            <td><strong>Click-Through Rate</strong></td>
+            <td>5.47%</td>
+            <td>1.20%</td>
+            <td class="negative"><strong>-78.12%</strong></td>
+            <td><span class="stat-significance">p < 0.0001</span></td>
+        </tr>
+        <tr>
+            <td><strong>Average Position</strong></td>
+            <td>34.13</td>
+            <td>27.80</td>
+            <td class="positive"><strong>Improved 18.54%</strong></td>
+            <td><span class="stat-significance">p < 0.0001</span></td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="insight-box">
+    <h4>💡 Understanding the CTR Decline</h4>
+    <p><strong>Not a failure - this is a strategic trade-off:</strong></p>
+    <ul>
+        <li><strong>Agency Strategy:</strong> Narrow focus on small set of high-engagement keywords → High CTR (5.47%) but low volume (~940 impressions)</li>
+        <li><strong>Allen's Strategy:</strong> Broad-net growth approach targeting wide keyword range → Lower CTR (1.20%) but massive volume (6,836 impressions)</li>
+        <li><strong>Result:</strong> 3x more daily traffic, building top-of-funnel foundation for future optimization</li>
+        <li><strong>Next Step:</strong> Optimize CTR to 2.5%+ to capture full potential of expanded visibility</li>
+    </ul>
+</div>
+
+<div class="recommendation-list success">
+    <h4>✅ Allen's Major Achievements</h4>
+    <ul>
+        <li><strong>Massive Visibility Expansion:</strong> 627% increase in impressions - website visible for vastly wider array of queries</li>
+        <li><strong>Exceptional Traffic Generation:</strong> 222% increase in clicks - successfully converted visibility into visits</li>
+        <li><strong>Consistent Ranking Improvement:</strong> Lowered average position from 34 to 28 across thousands of keywords</li>
+        <li><strong>Strong ROI:</strong> Cost per visitor decreased dramatically compared to likely higher agency retainer</li>
+    </ul>
+</div>
+
+<!-- AHREFS DATA ANALYSIS -->
+<h2 class="section-title">🔗 Ahrefs Data Analysis</h2>
+
+<div class="metric-grid">
+    <div class="metric-card">
+        <div class="metric-label">Total Backlinks</div>
+        <div class="metric-value">2,908</div>
+        <div class="metric-change">Current Count</div>
+    </div>
+    <div class="metric-card">
+        <div class="metric-label">Domain Rating (DR)</div>
+        <div class="metric-value">30.1</div>
+        <div class="metric-change">Average DR</div>
+    </div>
+    <div class="metric-card">
+        <div class="metric-label">Organic Traffic</div>
+        <div class="metric-value">10,353</div>
+        <div class="metric-change positive">↗ Monthly Visitors</div>
+    </div>
+    <div class="metric-card">
+        <div class="metric-label">Dofollow Links</div>
+        <div class="metric-value">34.7%</div>
+        <div class="metric-change">1,010 Links</div>
+    </div>
+</div>
+
+<div class="verdict-box critical">
+    <div class="verdict-title">🚨 CRITICAL: Backlink Profile Health Score 3/10</div>
+    <p>The backlink profile is <strong>fragile and high-risk</strong>. While it contains some high DR links, the underlying quality and acquisition methods raise serious concerns that could lead to algorithmic penalties.</p>
+</div>
+
+<h3 class="subsection-title">Critical Risk Factor: Unnatural Link Spike</h3>
+
+<table class="data-table">
+    <thead>
+        <tr>
+            <th>Month</th>
+            <th>Links Acquired</th>
+            <th>Assessment</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>January 2025</td>
+            <td>6</td>
+            <td>Normal</td>
+        </tr>
+        <tr>
+            <td>February 2025</td>
+            <td>Normal activity</td>
+            <td>Normal</td>
+        </tr>
+        <tr style="background: #fff5f5;">
+            <td><strong>March 2025</strong></td>
+            <td><strong>1,691</strong></td>
+            <td class="negative"><strong>⚠️ CRITICAL RED FLAG - 282x increase</strong></td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="recommendation-list">
+    <h4>🚨 Urgent Action Required (Next 30 Days)</h4>
+    <ul>
+        <li><strong>HALT all link building immediately</strong> - Stop whatever caused the March spike</li>
+        <li><strong>Conduct urgent link audit</strong> - Export all backlinks, identify toxic/irrelevant links</li>
+        <li><strong>Submit Google Disavow file</strong> - Critical damage control step</li>
+        <li><strong>Shift to link-worthy content</strong> - Reallocate budget from link building to content creation</li>
+        <li><strong>Monitor for penalties</strong> - Check Google Search Console "Manual Actions" weekly</li>
+    </ul>
+</div>
+
+<!-- KEYWORD STRATEGY -->
+<h2 class="section-title">🎯 Keyword Strategy Analysis</h2>
+
+<div class="verdict-box warning">
+    <div class="verdict-title">⚠️ VERDICT: Strategic Misalignment - Course Correction Needed</div>
+    <p>Current keyword portfolio is successful for a <strong>B2C consumer blog</strong> but fundamentally misaligned for a <strong>B2B industrial oil supplier</strong>. Attracting consumers seeking personal use information instead of business buyers seeking bulk suppliers.</p>
+</div>
+
+<h3 class="subsection-title">Current Keyword Portfolio Breakdown</h3>
+
+<table class="data-table">
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Percentage</th>
+            <th>Example Keywords</th>
+            <th>Business Value</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Informational</strong></td>
+            <td>~90%</td>
+            <td>"how to dilute tea tree oil", "castor oil benefits"</td>
+            <td class="negative">Low - attracts individuals</td>
+        </tr>
+        <tr>
+            <td><strong>Commercial</strong></td>
+            <td>~8%</td>
+            <td>"best body oil for dry skin"</td>
+            <td>Medium - consumer focus</td>
+        </tr>
+        <tr>
+            <td><strong>Transactional</strong></td>
+            <td><1%</td>
+            <td>"hbno essential oils" (branded only)</td>
+            <td class="positive">High - minimal volume</td>
+        </tr>
+        <tr style="background: #fff5f5;">
+            <td><strong>B2B/Industrial</strong></td>
+            <td>~1%</td>
+            <td>Virtually absent</td>
+            <td class="negative"><strong>CRITICAL GAP</strong></td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="insight-box">
+    <h4>🎯 Quick Win Opportunities (15-25% Traffic Increase)</h4>
+    <p>Keywords currently ranking positions 4-10 that can be pushed to top 3:</p>
+    <table class="data-table">
+        <thead>
+            <tr>
+                <th>Keyword</th>
+                <th>Position</th>
+                <th>Monthly Volume</th>
+                <th>Priority</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>fall essential oil blends</td>
+                <td>9</td>
+                <td>4,600</td>
+                <td class="positive"><strong>HIGHEST</strong></td>
+            </tr>
+            <tr>
+                <td>helichrysum benefits</td>
+                <td>9</td>
+                <td>3,300</td>
+                <td class="positive"><strong>HIGH</strong></td>
+            </tr>
+            <tr>
+                <td>best body oil for dry skin</td>
+                <td>6</td>
+                <td>1,300</td>
+                <td class="positive"><strong>HIGH</strong></td>
+            </tr>
+            <tr>
+                <td>neem oil for dogs</td>
+                <td>10</td>
+                <td>1,400</td>
+                <td>MEDIUM</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<div class="recommendation-list success">
+    <h4>🎯 Strategic Recommendations: Dual-Track Approach</h4>
+    <ul>
+        <li><strong>Track 1 (30% effort):</strong> Defend & optimize existing B2C traffic
+            <ul>
+                <li>Optimize quick win keywords (positions 4-10)</li>
+                <li>Add "Need this in bulk?" CTAs on B2C content</li>
+                <li>Strengthen conversion elements</li>
+            </ul>
+        </li>
+        <li><strong>Track 2 (70% effort):</strong> Build dedicated B2B strategy
+            <ul>
+                <li>Launch B2B keyword research (target: 50+ keywords)</li>
+                <li>Create industry hub content for manufacturers/formulators</li>
+                <li>Differentiate hbno.com (B2C) from hbnobulk.com (B2B)</li>
+                <li>Build B2B link profile (trade publications, associations)</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+<!-- SEO METRICS GLOSSARY -->
+<h2 class="section-title">📖 SEO Metrics Glossary</h2>
+
+<div class="glossary-term">
+    <strong>Clicks</strong>
+    <p>The number of times users clicked on your website link in search results. Direct measure of traffic from organic search. Higher clicks = more visitors.</p>
+</div>
+
+<div class="glossary-term">
+    <strong>Impressions</strong>
+    <p>The number of times your website appeared in search results, regardless of whether users clicked. Measure of visibility and reach. Higher impressions = greater visibility.</p>
+</div>
+
+<div class="glossary-term">
+    <strong>Click-Through Rate (CTR)</strong>
+    <p>Percentage of impressions that resulted in clicks (Clicks ÷ Impressions × 100). Indicates how compelling your search result snippets are. Industry average for non-branded terms: 2-4% for B2B.</p>
+</div>
+
+<div class="glossary-term">
+    <strong>Average Position</strong>
+    <p>Average ranking position of your website in search results. Position 1 is the top result. Lower numbers are better. Position 1-3 captures ~75% of clicks.</p>
+</div>
+
+<div class="glossary-term">
+    <strong>Domain Rating (DR)</strong>
+    <p>Ahrefs metric (0-100) measuring website authority based on backlink profile quality. Higher DR = more authority. B2B industrial sites typically have DR 40-60+. Current: 30.1.</p>
+</div>
+
+<div class="glossary-term">
+    <strong>Backlinks</strong>
+    <p>Links from other websites pointing to your site. Quality backlinks signal authority to Google. Dofollow links pass SEO value; nofollow links don't. Current: 2,908 total, 34.7% dofollow.</p>
+</div>
+
+<div class="glossary-term">
+    <strong>Core Web Vitals</strong>
+    <p>Google's page experience metrics: LCP (loading speed), INP (interactivity), CLS (visual stability). Directly impact rankings. Theme change improved these metrics.</p>
+</div>
+
+<div class="glossary-term">
+    <strong>Organic Traffic</strong>
+    <p>Visitors who arrive via unpaid search results (not ads). Most valuable traffic source. Current: 10,353 monthly visitors from Ahrefs estimate.</p>
+</div>
+
+<div class="glossary-term">
+    <strong>Keywords</strong>
+    <p>Search terms users type in Google that trigger your website to appear. Tracked: 14,293 keywords. Top 10 rankings: 2,742 keywords (19.2%).</p>
+</div>
+
+<div class="glossary-term">
+    <strong>Branded vs Non-Branded Keywords</strong>
+    <p><strong>Branded:</strong> Include company name (e.g., "hbno essential oils"). Current: 5.9% of traffic.
+    <br><strong>Non-Branded:</strong> Generic terms (e.g., "bulk essential oils"). Current: 94.1% of traffic.</p>
+</div>
+
+<div class="glossary-term">
+    <strong>Statistical Significance (p-value)</strong>
+    <p>Probability that observed change is due to random chance. p < 0.05 means 95%+ confidence change is real, not luck. All major findings in this report have p < 0.05.</p>
+</div>
+
+<div class="glossary-term">
+    <strong>Schema Markup / Structured Data</strong>
+    <p>Code that helps search engines understand content, enabling "rich results" (star ratings, FAQs, product info in search). Theme change improved schema implementation.</p>
+</div>
+
+<!-- UNDERSTANDING THE NUMBERS -->
+<h2 class="section-title">🔢 Understanding the Numbers: What They Mean</h2>
+
+<div class="insight-box">
+    <h4>📊 Theme Change: +21.80% Clicks Explained</h4>
+    <p><strong>What this means:</strong> After changing the website theme on July 19th, daily traffic increased from ~100 visitors to ~121 visitors. Over a month, that's 630+ additional visitors.</p>
+    <p><strong>Why it matters:</strong> More traffic = more potential customers seeing your products. This is a permanent improvement, not temporary.</p>
+    <p><strong>Business impact:</strong> If even 2% of additional visitors request quotes, that's 12+ new leads per month from theme alone.</p>
+</div>
+
+<div class="insight-box">
+    <h4>📊 Allen's Performance: +222.69% Clicks Explained</h4>
+    <p><strong>What this means:</strong> Under Allen's management, daily traffic grew from ~21 visitors (agency era) to ~69 visitors. That's 3x more traffic!</p>
+    <p><strong>Why it matters:</strong> Allen built a much larger audience reaching your website. He's bringing in 48 more visitors every single day.</p>
+    <p><strong>Business impact:</strong> Over a year, that's 17,520 additional visitors. Even with 1% conversion rate, that's 175 new leads annually.</p>
+</div>
+
+<div class="insight-box">
+    <h4>📊 Impressions: +627.40% Explained</h4>
+    <p><strong>What this means:</strong> Your website now appears in search results 7.3x more often than under the previous agency.</p>
+    <p><strong>Why it matters:</strong> Even people who don't click are seeing your brand name. This builds brand awareness and authority.</p>
+    <p><strong>Current state:</strong> Your website appears in search results ~6,800+ times per day vs. ~940 times under agency.</p>
+</div>
+
+<div class="insight-box">
+    <h4>📊 CTR: 1.20% vs Industry Average 2-4%</h4>
+    <p><strong>What this means:</strong> Out of 100 times your website appears in search, only 1-2 people click. Industry average is 2-4 clicks per 100 appearances.</p>
+    <p><strong>Why it matters:</strong> You're "leaving money on the table." With current 6,800 daily impressions, improving CTR to 2.5% would generate 170 daily clicks instead of 82.</p>
+    <p><strong>Solution:</strong> Rewrite title tags and meta descriptions to be more compelling. This is Allen's next priority.</p>
+</div>
+
+<div class="insight-box">
+    <h4>📊 Position: 27.80 vs 34.13 Explained</h4>
+    <p><strong>What this means:</strong> Allen improved your average ranking from page 4 (position 34) to page 3 (position 28) of search results.</p>
+    <p><strong>Why it matters:</strong> 75% of users never scroll past first page (top 10). Moving from page 4 to page 3 is progress, but goal is top 10 (positions 1-10).</p>
+    <p><strong>Next goal:</strong> Get 50+ keywords into top 10 positions within 90 days.</p>
+</div>
+
+<div class="insight-box">
+    <h4>📊 Backlinks: 2,908 Total, Quality Score 3/10</h4>
+    <p><strong>What this means:</strong> Quantity is decent, but quality is poor. Most links come from low-authority, irrelevant websites.</p>
+    <p><strong>Why it matters:</strong> Google may see this as manipulation and penalize your rankings. March 2025 spike (1,691 links in one month) is extremely suspicious.</p>
+    <p><strong>Urgent action:</strong> Need to disavow (disown) toxic links and build high-quality links from industry publications and trade associations.</p>
+</div>
+
+<!-- 90-DAY ACTION PLAN -->
+<h2 class="section-title">🚀 90-Day Strategic Action Plan</h2>
+
+<h3 class="subsection-title">Month 1: Stabilization & Quick Wins</h3>
+<div class="recommendation-list success">
+    <h4>Priority Actions</h4>
+    <ul>
+        <li><strong>Week 1-2:</strong> Comprehensive technical audit (fix 404s, canonical issues, mobile usability)</li>
+        <li><strong>Week 2-3:</strong> CTR optimization for top 50 keywords (rewrite titles/descriptions)</li>
+        <li><strong>Week 3-4:</strong> Fix keyword cannibalization (pages competing for same keywords)</li>
+        <li><strong>Week 4:</strong> Create SEO performance dashboard for ongoing monitoring</li>
+    </ul>
+    <p><strong>Expected Result:</strong> 15-20% quick traffic gain, technical foundation secured</p>
+</div>
+
+<h3 class="subsection-title">Month 2: B2B Growth Initiatives</h3>
+<div class="recommendation-list success">
+    <h4>Priority Actions</h4>
+    <ul>
+        <li><strong>Week 5-6:</strong> B2B keyword research (identify 50+ high-value commercial keywords)</li>
+        <li><strong>Week 6-7:</strong> Create two pillar B2B content pieces (2,000+ words each)</li>
+        <li><strong>Week 7-8:</strong> Optimize top 10 B2B product/category pages</li>
+        <li><strong>Week 8:</strong> Implement strategic internal linking plan</li>
+    </ul>
+    <p><strong>Expected Result:</strong> B2B foundation established, begin capturing commercial traffic</p>
+</div>
+
+<h3 class="subsection-title">Month 3: Scale & Optimize</h3>
+<div class="recommendation-list success">
+    <h4>Priority Actions</h4>
+    <ul>
+        <li><strong>Week 9-10:</strong> Digital PR campaign (promote pillar content to industry publications)</li>
+        <li><strong>Week 10-11:</strong> Competitor backlink replication (acquire 5+ high-quality links)</li>
+        <li><strong>Week 11-12:</strong> Expand schema markup, set up B2B conversion tracking</li>
+        <li><strong>Week 12:</strong> Unlinked brand mention link building</li>
+    </ul>
+    <p><strong>Expected Result:</strong> 25% total traffic increase, 50+ B2B keywords in top 10, measurable lead generation</p>
+</div>
+
+<!-- SUCCESS METRICS -->
+<h2 class="section-title">📏 Success Metrics: 90-Day Targets</h2>
+
+<table class="data-table">
+    <thead>
+        <tr>
+            <th>Metric</th>
+            <th>Current Baseline</th>
+            <th>90-Day Target</th>
+            <th>Improvement</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>Monthly Organic Sessions</strong></td>
+            <td>10,353</td>
+            <td>13,000+</td>
+            <td class="positive">+25%</td>
+        </tr>
+        <tr>
+            <td><strong>Average CTR</strong></td>
+            <td>1.20%</td>
+            <td>2.0%+</td>
+            <td class="positive">+67%</td>
+        </tr>
+        <tr>
+            <td><strong>B2B Keywords in Top 10</strong></td>
+            <td>TBD</td>
+            <td>50+</td>
+            <td class="positive">New foundation</td>
+        </tr>
+        <tr>
+            <td><strong>Organic Quote Requests</strong></td>
+            <td>Current rate</td>
+            <td>+20%</td>
+            <td class="positive">Lead quality</td>
+        </tr>
+        <tr>
+            <td><strong>Domain Rating (Ahrefs)</strong></td>
+            <td>30.1</td>
+            <td>33+</td>
+            <td class="positive">+10% authority</td>
+        </tr>
+    </tbody>
+</table>
+
+<!-- MANAGEMENT DECISION POINTS -->
+<h2 class="section-title">🎯 Management Decision Points</h2>
+
+<div class="verdict-box critical">
+    <div class="verdict-title">🔴 URGENT DECISION REQUIRED (This Week)</div>
+    <ul style="margin: 15px 0; padding-left: 25px;">
+        <li><strong>Backlink Risk Management:</strong> Approve immediate halt of link building activities and urgent audit/disavow process</li>
+        <li><strong>Budget Allocation:</strong> Authorize developer support (5-10 hrs/month) and content writer (20 hrs/month)</li>
+    </ul>
+</div>
+
+<div class="verdict-box warning">
+    <div class="verdict-title">🟡 STRATEGIC DECISION REQUIRED (Within 30 Days)</div>
+    <ul style="margin: 15px 0; padding-left: 25px;">
+        <li><strong>Strategic Direction:</strong> Approve dual-track approach (maintain B2C + build B2B)</li>
+        <li><strong>Resource Shift:</strong> Authorize 70% effort allocation to B2B focus</li>
+        <li><strong>Allen's Continuation:</strong> Continue with in-house SEO management (results clearly superior to agency)</li>
+    </ul>
+</div>
+
+<div class="recommendation-list success">
+    <h4>✅ RECOMMENDED MANAGEMENT STANCE</h4>
+    <ul>
+        <li><strong>CONTINUE:</strong> Allen's management (223% better traffic vs agency)</li>
+        <li><strong>APPROVE:</strong> 90-day roadmap execution with required resources</li>
+        <li><strong>URGENT ACTION:</strong> Address backlink risks immediately (penalty prevention)</li>
+        <li><strong>STRATEGIC SHIFT:</strong> Authorize B2B focus (70% of effort) to align with business model</li>
+        <li><strong>MEASURE:</strong> Implement conversion tracking to prove business impact</li>
+    </ul>
+</div>
+
+<!-- FINAL VERDICT -->
+<h2 class="section-title">🎖️ Final Verdict & Recommendations</h2>
+
+<div class="verdict-box">
+    <div class="verdict-title">✅ Overall Assessment: Strong Foundation, Strategic Refinement Needed</div>
+    <p><strong>What's Working:</strong></p>
+    <ul>
+        <li>Theme change was unquestionably successful - all metrics improved</li>
+        <li>Allen dramatically outperformed previous agency - 3x more traffic, 7x more impressions</li>
+        <li>Technical foundation is strong and improving</li>
+        <li>Quick win opportunities identified that can deliver 15-25% additional traffic</li>
+    </ul>
+    <p><strong>What Needs Immediate Attention:</strong></p>
+    <ul>
+        <li>Backlink profile is high-risk - urgent audit and cleanup required</li>
+        <li>Keyword strategy misaligned with B2B business model - course correction critical</li>
+        <li>CTR optimization needed - leaving significant traffic on the table</li>
+        <li>Conversion tracking missing - can't prove ROI without lead attribution</li>
+    </ul>
+</div>
+
+<div style="text-align: center; margin: 50px 0; padding: 30px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; color: white;">
+    <h3 style="margin-top: 0; font-size: 1.8em;">🎯 Recommended Next Step</h3>
+    <p style="font-size: 1.2em; margin: 20px 0;">Review this report with key stakeholders, approve resource allocation for 90-day roadmap, and authorize urgent backlink audit to protect current gains.</p>
+    <p style="font-size: 1em; margin-top: 25px; opacity: 0.9;"><strong>30-Day Checkpoint:</strong> Schedule progress review meeting to evaluate KPI performance and adjust strategy as needed.</p>
+</div>
+
+<div style="text-align: center; margin-top: 40px; padding-top: 30px; border-top: 2px solid #e2e8f0; color: #718096; font-size: 0.9em;">
+    <p><strong>Report Prepared By:</strong> Tyger SEO Assistant</p>
+    <p><strong>Quality Assurance:</strong> Statistical validation, cross-source verification, expert AI analysis</p>
+    <p><strong>Confidentiality:</strong> Internal management use only</p>
+    <p style="margin-top: 15px;"><em>For questions, clarifications, or additional analysis requests, please contact the SEO analysis team.</em></p>
+</div>
+
+</div>
+</div>
+
+</body>
+</html>

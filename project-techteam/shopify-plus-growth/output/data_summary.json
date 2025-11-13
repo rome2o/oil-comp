@@ -1,0 +1,21 @@
+{
+  "datasets_loaded": 14,
+  "dataset_names": [
+    "Average order value over time - 2024-11-13 - 2025-11-13",
+    "Bounce rate over time - 2024-11-13 - 2025-11-13",
+    "Checkout conversion rate over time - 2024-11-13 - 2025-11-13",
+    "Conversion rate breakdown - 2025-08-15 - 2025-11-13",
+    "Customer behavior - 2024-11-13 - 2025-11-13",
+    "New customer sales over time - 2024-11-13 - 2025-11-13",
+    "New customers over time - 2024-11-13 - 2025-11-13",
+    "New vs returning customer sales - 2024-11-13 - 2025-11-13",
+    "New vs returning customers - 2024-11-13 - 2025-11-13",
+    "Returning customer rate over time - 2024-11-13 - 2025-11-13",
+    "Sales attributed to marketing - 2024-11-13 - 2025-11-13",
+    "Sessions by location - 2024-11-13 - 2025-11-13",
+    "Sessions by referrer - 2024-11-13 - 2025-11-13",
+    "Total sales by product - 2024-11-13 - 2025-11-13"
+  ],
+  "analysis_outputs_loaded": 7,
+  "total_kpis_extracted": 5
+}

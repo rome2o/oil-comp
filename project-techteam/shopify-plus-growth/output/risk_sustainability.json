@@ -1,0 +1,196 @@
+{
+  "risks": {
+    "Scope Creep - Client Requests Beyond Allocation": {
+      "probability": "HIGH",
+      "impact": "HIGH",
+      "risk_level": "CRITICAL",
+      "description": "Client requests work outside defined scope/hours",
+      "consequences": [
+        "Team overwork",
+        "Reduced profitability",
+        "Quality decline",
+        "Employee burnout"
+      ],
+      "mitigation_strategies": [
+        "Clear written scope document included in contract",
+        "Monthly hour tracking reports sent to client",
+        "Firm adherence to hour allocation boundaries",
+        "Change Order process for any out-of-scope work",
+        "Quarterly scope review meetings"
+      ],
+      "early_warning_signs": [
+        "Client frequently requests 'quick changes'",
+        "Monthly hours approaching allocation limit by week 2",
+        "Team reporting stress or overtime requests"
+      ]
+    },
+    "Staff Availability & Illness": {
+      "probability": "MEDIUM",
+      "impact": "MEDIUM",
+      "risk_level": "MODERATE",
+      "description": "Key team member becomes unavailable during engagement",
+      "consequences": [
+        "Project delays",
+        "Service quality drop",
+        "Client dissatisfaction"
+      ],
+      "mitigation_strategies": [
+        "Cross-training team on all client accounts",
+        "Maintain backup resource pool for emergency coverage",
+        "Document all processes and client specifics",
+        "Backup coverage plan in Service Level Agreement",
+        "Stagger team members' time off"
+      ],
+      "early_warning_signs": [
+        "Team member absent",
+        "Project timeline compression"
+      ]
+    },
+    "Results Not Meeting Expectations": {
+      "probability": "LOW",
+      "impact": "HIGH",
+      "risk_level": "HIGH",
+      "description": "Implementation doesn't produce projected results",
+      "consequences": [
+        "Client unhappiness",
+        "Contract termination",
+        "Reputation damage"
+      ],
+      "mitigation_strategies": [
+        "Clear performance guarantees (10-35% improvement in 90 days)",
+        "Monthly performance reporting against benchmarks",
+        "Contingency optimization fund (2-3% of hours) for pivots",
+        "Data-driven decision making & course correction",
+        "Transparent communication about external factors affecting results"
+      ],
+      "early_warning_signs": [
+        "Metrics not tracking expected progress by day 30",
+        "Technical implementation delays",
+        "Client website traffic declining"
+      ]
+    },
+    "Technology/Platform Changes": {
+      "probability": "MEDIUM",
+      "impact": "MEDIUM",
+      "risk_level": "MODERATE",
+      "description": "Shopify or third-party tools make breaking changes",
+      "consequences": [
+        "Work needs to be redone",
+        "Timeline delays",
+        "Extra hours required"
+      ],
+      "mitigation_strategies": [
+        "Monitor Shopify release notes and updates",
+        "Test changes in staging environment first",
+        "Maintain flexibility in technical approach",
+        "Include buffer hours for technical pivots",
+        "Build on stable, core Shopify features not experimental tools"
+      ],
+      "early_warning_signs": [
+        "Shopify announces API deprecation",
+        "Integration tests start failing",
+        "Third-party tool compatibility issues"
+      ]
+    },
+    "Team Burnout & Attrition": {
+      "probability": "MEDIUM",
+      "impact": "HIGH",
+      "risk_level": "HIGH",
+      "description": "Team becomes overworked and leaves during engagement",
+      "consequences": [
+        "Service disruption",
+        "Client unhappiness",
+        "Replacement costs"
+      ],
+      "mitigation_strategies": [
+        "Strict hour allocation enforcement",
+        "No unpaid overtime - all extra work triggers Change Order",
+        "Regular team check-ins (weekly pulse surveys)",
+        "Competitive compensation based on profitability margins",
+        "Professional development opportunities",
+        "Clear work-life boundaries and schedule"
+      ],
+      "early_warning_signs": [
+        "Team members requesting reduced hours",
+        "Increased sick days or PTO requests",
+        "Declining code/work quality",
+        "Team member starts job searching"
+      ]
+    },
+    "Client Churn/Early Termination": {
+      "probability": "LOW",
+      "impact": "HIGH",
+      "risk_level": "MODERATE",
+      "description": "Client terminates contract early",
+      "consequences": [
+        "Lost revenue",
+        "Stranded team resources",
+        "Negative reference"
+      ],
+      "mitigation_strategies": [
+        "Strong onboarding and communication in Month 1",
+        "Clear results milestones at Day 30, 60, 90",
+        "Monthly business reviews with stakeholders",
+        "Termination clause: 30-day notice required",
+        "Client success program with dedicated account manager",
+        "Quarterly strategy reviews and planning"
+      ],
+      "early_warning_signs": [
+        "Client missing meetings or delaying approvals",
+        "Reduced communication from client",
+        "Leadership changes at client",
+        "Negative feedback in monthly reviews"
+      ]
+    }
+  },
+  "workload_guardrails": {
+    "Hour Allocation System": {
+      "Starter": "20 hours/month (5 hours/week)",
+      "Growth": "40 hours/month (10 hours/week)",
+      "Plus": "60 hours/month (15 hours/week)",
+      "Rule": "Hard cap - no unpaid overages allowed"
+    },
+    "Monthly Tracking & Reporting": {
+      "Frequency": "Weekly time tracking, monthly summary report",
+      "Deliverable": "Hours used vs allocated, by initiative/team member",
+      "Action": "If approaching limit, discuss with client immediately",
+      "Escalation": "At 75% of hours, notify client; at 100%, pause work until approval"
+    },
+    "Ad-Hoc Request Limits": {
+      "Starter": "4 ad-hoc requests/month (~5 hours each)",
+      "Growth": "8 ad-hoc requests/month (~5 hours each)",
+      "Plus": "Unlimited ad-hoc (covered within 60 hours)",
+      "Process": "Email request \u2192 review for scope \u2192 approval \u2192 execution \u2192 tracking"
+    },
+    "Change Order Protocol": {
+      "Trigger": "Any work outside defined scope or exceeding hour allocation",
+      "Process": [
+        "1. Client submits change request",
+        "2. Devkind estimates hours and cost",
+        "3. Change Order document created and signed",
+        "4. Only after approval, work begins",
+        "5. Time tracked separately from retainer hours"
+      ],
+      "Pricing": "Project-based rate ($150-250/hour depending on complexity)",
+      "Rush Fee": "+20% for expedited completion"
+    },
+    "Quarterly Scope Review": {
+      "Frequency": "Every 90 days (aligned with renewal)",
+      "Participants": "Client stakeholders, Devkind account manager, delivery lead",
+      "Agenda": [
+        "Review of completed initiatives",
+        "Assessment of results vs. expectations",
+        "Analysis of hour utilization",
+        "Scope adjustment discussion",
+        "Planning for next quarter"
+      ],
+      "Outcome": "Signed agreement on scope for next quarter"
+    },
+    "Buffer Hours & Contingency": {
+      "Buffer Policy": "2-3% of monthly hours reserved for pivots/emergencies",
+      "Example": "For Growth tier (40 hrs/month), 1 hour reserved for unexpected issues",
+      "Usage": "Technical issues, client emergencies, emergency optimizations",
+      "Carry-over": "Unused buffer hours do NOT carry to next month"
+    }
+  }
+}

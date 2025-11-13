@@ -1,0 +1,155 @@
+{
+  "service_tiers": {
+    "Starter": {
+      "monthly_hours": 20,
+      "review_frequency": "Monthly",
+      "focus": "Foundation & Quick Wins",
+      "deliverables": [
+        "Monthly performance review",
+        "2 conversion optimization tests",
+        "1 A/B testing initiative",
+        "Product analytics review",
+        "Monthly reporting dashboard"
+      ],
+      "initiatives": [
+        "Product Mix Optimization",
+        "Mobile Optimization"
+      ],
+      "included_support": "Email support within 48 hours",
+      "max_requests": "Up to 4 ad-hoc requests/month",
+      "best_for": "Companies wanting to start optimization with quick wins"
+    },
+    "Growth": {
+      "monthly_hours": 40,
+      "review_frequency": "Bi-weekly",
+      "focus": "Scale & Multiple Initiatives",
+      "deliverables": [
+        "Bi-weekly optimization reviews",
+        "4 conversion optimization tests",
+        "2 campaign initiatives",
+        "Email marketing automation setup",
+        "Customer retention analysis",
+        "Bi-weekly reporting with insights",
+        "Monthly strategy session"
+      ],
+      "initiatives": [
+        "Conversion Rate Optimization",
+        "Average Order Value Increase",
+        "Customer Retention",
+        "Product Mix Optimization",
+        "Mobile Optimization"
+      ],
+      "included_support": "Email support within 24 hours + Slack integration",
+      "max_requests": "Up to 8 ad-hoc requests/month",
+      "best_for": "Companies ready to scale and implement multiple initiatives"
+    },
+    "Plus": {
+      "monthly_hours": 60,
+      "review_frequency": "Weekly",
+      "focus": "Full-Service Growth & Strategic Initiatives",
+      "deliverables": [
+        "Weekly optimization reviews",
+        "6 conversion optimization tests",
+        "3 strategic campaign initiatives",
+        "Full marketing automation implementation",
+        "Customer journey mapping",
+        "Geographic expansion analysis",
+        "SEO audit & content strategy",
+        "Weekly reporting + Monthly deep-dive",
+        "Dedicated growth strategist",
+        "Priority technical implementation support"
+      ],
+      "initiatives": [
+        "Conversion Rate Optimization",
+        "Average Order Value Increase",
+        "Traffic Growth & SEO",
+        "Customer Retention",
+        "Geographic Expansion",
+        "Product Mix Optimization",
+        "Automation & Tech Stack",
+        "Mobile Optimization"
+      ],
+      "included_support": "Slack + Phone support within 4 hours + monthly planning calls",
+      "max_requests": "Unlimited ad-hoc requests",
+      "best_for": "Enterprise clients wanting full-service growth optimization"
+    }
+  },
+  "comparison_matrix": {
+    "Starter": {
+      "Monthly Hours Included": "20",
+      "Review Cadence": "Monthly",
+      "Conversion Tests/Month": "2",
+      "Campaign Initiatives": "1",
+      "Email Marketing": "Basic Setup",
+      "SEO & Content Strategy": "\u2717",
+      "Analytics Dashboard": "\u2713",
+      "Dedicated Strategist": "\u2717",
+      "Slack/Chat Support": "\u2717",
+      "Phone Support": "\u2717",
+      "Strategic Planning Calls": "Quarterly",
+      "Ad-Hoc Requests": "4/month",
+      "Performance Guarantee": "10% improvement in 90 days"
+    },
+    "Growth": {
+      "Monthly Hours Included": "40",
+      "Review Cadence": "Bi-weekly",
+      "Conversion Tests/Month": "4",
+      "Campaign Initiatives": "2",
+      "Email Marketing": "Full Setup + Automation",
+      "SEO & Content Strategy": "Basic",
+      "Analytics Dashboard": "\u2713 Advanced",
+      "Dedicated Strategist": "\u2717",
+      "Slack/Chat Support": "\u2713",
+      "Phone Support": "\u2717",
+      "Strategic Planning Calls": "Monthly",
+      "Ad-Hoc Requests": "8/month",
+      "Performance Guarantee": "20% improvement in 90 days"
+    },
+    "Plus": {
+      "Monthly Hours Included": "60",
+      "Review Cadence": "Weekly",
+      "Conversion Tests/Month": "6",
+      "Campaign Initiatives": "3+",
+      "Email Marketing": "Full Automation Suite",
+      "SEO & Content Strategy": "\u2713 Full Service",
+      "Analytics Dashboard": "\u2713 Enterprise",
+      "Dedicated Strategist": "\u2713",
+      "Slack/Chat Support": "\u2713 Priority",
+      "Phone Support": "\u2713 Available",
+      "Strategic Planning Calls": "Bi-weekly",
+      "Ad-Hoc Requests": "Unlimited",
+      "Performance Guarantee": "35% improvement in 90 days"
+    }
+  },
+  "out_of_scope": {
+    "\u274c NOT INCLUDED": [
+      "Website design/redesign (separate service)",
+      "Shopify theme customization beyond optimization",
+      "Custom app development",
+      "24/7 emergency support (scheduled support only)",
+      "Work beyond monthly hour allocation",
+      "Paid advertising management (separate service)",
+      "Full content creation (strategy yes, copywriting no)",
+      "Unlimited API integrations",
+      "Client staff training (1 session per tier included)",
+      "Phone support outside of Plus tier"
+    ],
+    "\u26a1 ADDITIONAL SERVICES (Out of Scope / Project-Based)": [
+      "Website Redesign: $X,XXX - $XX,XXX",
+      "Custom Shopify App Development: Starting $XX,XXX",
+      "Managed Advertising Campaigns: $X,XXX+/month",
+      "Content Creation Services: $XX/hour",
+      "Premium Support (24/7): $X,XXX/month add-on",
+      "Extra Hours Beyond Monthly Allocation: $XXX/hour",
+      "Advanced Analytics Dashboard: $X,XXX one-time"
+    ]
+  },
+  "workload_protection": {
+    "starter_max_hours": 20,
+    "growth_max_hours": 40,
+    "plus_max_hours": 60,
+    "hour_carryover_policy": "Max 10 hours/month",
+    "change_order_process": "Required for out-of-scope work",
+    "time_tracking": "Monthly reports sent to client"
+  }
+}

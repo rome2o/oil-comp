@@ -1,0 +1,235 @@
+{
+  "checkout_conversion_rate_over_time": {
+    "records": 13,
+    "columns": [
+      "Month",
+      "Sessions that reached checkout",
+      "Sessions that completed checkout",
+      "Checkout conversion rate",
+      "Month (previous_period)",
+      "Sessions that reached checkout (previous_period)",
+      "Sessions that completed checkout (previous_period)",
+      "Checkout conversion rate (previous_period)",
+      "Sessions that reached checkout (previous_period)",
+      "Sessions that completed checkout (previous_period)",
+      "Checkout conversion rate (previous_period)"
+    ],
+    "date_range": "Nov 2024 - Nov 2025",
+    "key_insights": "Customer lifecycle and revenue optimization data",
+    "business_impact": "High - enables comprehensive revenue optimization strategy"
+  },
+  "total_sales_by_product": {
+    "records": 537,
+    "columns": [
+      "Product title",
+      "Product vendor",
+      "Product type",
+      "Net items sold",
+      "Gross sales",
+      "Discounts",
+      "Returns",
+      "Net sales",
+      "Taxes",
+      "Total sales"
+    ],
+    "date_range": "Nov 2024 - Nov 2025",
+    "key_insights": "Customer lifecycle and revenue optimization data",
+    "business_impact": "High - enables comprehensive revenue optimization strategy"
+  },
+  "sessions_by_referrer": {
+    "records": 478,
+    "columns": [
+      "Referrer source",
+      "Referrer name",
+      "Online store visitors",
+      "Sessions"
+    ],
+    "date_range": "Nov 2024 - Nov 2025",
+    "key_insights": "Customer lifecycle and revenue optimization data",
+    "business_impact": "High - enables comprehensive revenue optimization strategy"
+  },
+  "conversion_rate_breakdown": {
+    "records": 91,
+    "columns": [
+      "Day",
+      "Sessions",
+      "Sessions with cart additions",
+      "Sessions that reached checkout",
+      "Sessions that completed checkout",
+      "Conversion rate",
+      "Day (previous_period)",
+      "Sessions (previous_period)",
+      "Sessions with cart additions (previous_period)",
+      "Sessions that reached checkout (previous_period)",
+      "Sessions that completed checkout (previous_period)",
+      "Conversion rate (previous_period)",
+      "Sessions (previous_period)",
+      "Sessions with cart additions (previous_period)",
+      "Sessions that reached checkout (previous_period)",
+      "Sessions that completed checkout (previous_period)",
+      "Conversion rate (previous_period)"
+    ],
+    "date_range": "Nov 2024 - Nov 2025",
+    "key_insights": "Customer lifecycle and revenue optimization data",
+    "business_impact": "High - enables comprehensive revenue optimization strategy"
+  },
+  "bounce_rate_over_time": {
+    "records": 13,
+    "columns": [
+      "Month",
+      "Bounce rate",
+      "Month (previous_period)",
+      "Bounce rate (previous_period)",
+      "Bounce rate (previous_period)"
+    ],
+    "date_range": "Nov 2024 - Nov 2025",
+    "key_insights": "Customer lifecycle and revenue optimization data",
+    "business_impact": "High - enables comprehensive revenue optimization strategy"
+  },
+  "customer_behavior": {
+    "records": 1,
+    "columns": [
+      "Sessions with cart additions",
+      "Sessions that reached checkout",
+      "Sessions that completed checkout"
+    ],
+    "date_range": "Nov 2024 - Nov 2025",
+    "key_insights": "Customer lifecycle and revenue optimization data",
+    "business_impact": "High - enables comprehensive revenue optimization strategy"
+  },
+  "sales_attributed_to_marketing": {
+    "records": 41,
+    "columns": [
+      "Referring channel",
+      "Referring medium",
+      "Orders",
+      "Total sales",
+      "Gross sales",
+      "Net sales",
+      "Orders (previous_period)",
+      "Total sales (previous_period)",
+      "Gross sales (previous_period)",
+      "Net sales (previous_period)",
+      "Orders (previous_period)",
+      "Total sales (previous_period)",
+      "Gross sales (previous_period)",
+      "Net sales (previous_period)"
+    ],
+    "date_range": "Nov 2024 - Nov 2025",
+    "key_insights": "Customer lifecycle and revenue optimization data",
+    "business_impact": "High - enables comprehensive revenue optimization strategy"
+  },
+  "sessions_by_location": {
+    "records": 13705,
+    "columns": [
+      "Session country",
+      "Session region",
+      "Session city",
+      "Online store visitors",
+      "Sessions"
+    ],
+    "date_range": "Nov 2024 - Nov 2025",
+    "key_insights": "Customer lifecycle and revenue optimization data",
+    "business_impact": "High - enables comprehensive revenue optimization strategy"
+  },
+  "average_order_value_over_time": {
+    "records": 13,
+    "columns": [
+      "Month",
+      "Gross sales",
+      "Discounts",
+      "Orders",
+      "Average order value",
+      "Month (previous_period)",
+      "Gross sales (previous_period)",
+      "Discounts (previous_period)",
+      "Orders (previous_period)",
+      "Average order value (previous_period)",
+      "Gross sales (previous_period)",
+      "Discounts (previous_period)",
+      "Orders (previous_period)",
+      "Average order value (previous_period)"
+    ],
+    "date_range": "Nov 2024 - Nov 2025",
+    "key_insights": "Customer lifecycle and revenue optimization data",
+    "business_impact": "High - enables comprehensive revenue optimization strategy"
+  },
+  "new_vs_returning_customer_sales": {
+    "records": 26,
+    "columns": [
+      "New or returning customer",
+      "Month",
+      "Customers",
+      "Orders",
+      "Total sales",
+      "Month (previous_period)",
+      "Customers (previous_period)",
+      "Orders (previous_period)",
+      "Total sales (previous_period)",
+      "Customers (previous_period)",
+      "Orders (previous_period)",
+      "Total sales (previous_period)"
+    ],
+    "date_range": "Nov 2024 - Nov 2025",
+    "key_insights": "Customer lifecycle and revenue optimization data",
+    "business_impact": "High - enables comprehensive revenue optimization strategy"
+  },
+  "new_customers_over_time": {
+    "records": 13,
+    "columns": [
+      "Month",
+      "Customers",
+      "Orders",
+      "Total sales",
+      "Month (previous_period)",
+      "Customers (previous_period)",
+      "Orders (previous_period)",
+      "Total sales (previous_period)",
+      "Customers (previous_period)",
+      "Orders (previous_period)",
+      "Total sales (previous_period)"
+    ],
+    "date_range": "Nov 2024 - Nov 2025",
+    "key_insights": "Customer lifecycle and revenue optimization data",
+    "business_impact": "High - enables comprehensive revenue optimization strategy"
+  },
+  "new_customer_sales_over_time": {
+    "records": 13,
+    "columns": [
+      "New or returning customer",
+      "Month",
+      "Customers",
+      "Orders",
+      "Total sales",
+      "Month (previous_period)",
+      "Customers (previous_period)",
+      "Orders (previous_period)",
+      "Total sales (previous_period)",
+      "Customers (previous_period)",
+      "Orders (previous_period)",
+      "Total sales (previous_period)"
+    ],
+    "date_range": "Nov 2024 - Nov 2025",
+    "key_insights": "Customer lifecycle and revenue optimization data",
+    "business_impact": "High - enables comprehensive revenue optimization strategy"
+  },
+  "returning_customer_rate_over_time": {
+    "records": 13,
+    "columns": [
+      "Month",
+      "Returning customers",
+      "Customers",
+      "Returning customer rate",
+      "Month (previous_period)",
+      "Returning customers (previous_period)",
+      "Customers (previous_period)",
+      "Returning customer rate (previous_period)",
+      "Returning customers (previous_period)",
+      "Customers (previous_period)",
+      "Returning customer rate (previous_period)"
+    ],
+    "date_range": "Nov 2024 - Nov 2025",
+    "key_insights": "Customer lifecycle and revenue optimization data",
+    "business_impact": "High - enables comprehensive revenue optimization strategy"
+  }
+}

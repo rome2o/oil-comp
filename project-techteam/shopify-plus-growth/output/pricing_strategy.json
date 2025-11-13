@@ -1,0 +1,175 @@
+{
+  "team_costs": {
+    "SEO/Growth Specialist": {
+      "annual_salary": 65000,
+      "monthly_capacity": 160,
+      "billable_rate": 200
+    },
+    "Conversion Optimization Specialist": {
+      "annual_salary": 60000,
+      "monthly_capacity": 160,
+      "billable_rate": 185
+    },
+    "Analytics/Data Specialist": {
+      "annual_salary": 55000,
+      "monthly_capacity": 160,
+      "billable_rate": 175
+    },
+    "Project Manager": {
+      "annual_salary": 50000,
+      "monthly_capacity": 160,
+      "billable_rate": 150
+    }
+  },
+  "monthly_costs": {
+    "payroll": 19166.666666666668,
+    "overhead": 6708.333333333333,
+    "total": 25875.0,
+    "hourly_fully_loaded": 40.4296875
+  },
+  "pricing_models": {
+    "Conservative (35% margin)": {
+      "Starter": {
+        "hours": 20,
+        "cost": 808.59375,
+        "price": 1200,
+        "margin": 0.326171875,
+        "margin_dollars": 391.40625
+      },
+      "Growth": {
+        "hours": 40,
+        "cost": 1617.1875,
+        "price": 2500,
+        "margin": 0.353125,
+        "margin_dollars": 882.8125
+      },
+      "Plus": {
+        "hours": 60,
+        "cost": 2425.78125,
+        "price": 3700,
+        "margin": 0.34438344594594594,
+        "margin_dollars": 1274.21875
+      }
+    },
+    "Standard (45% margin)": {
+      "Starter": {
+        "hours": 20,
+        "cost": 808.59375,
+        "price": 1500,
+        "margin": 0.4609375,
+        "margin_dollars": 691.40625
+      },
+      "Growth": {
+        "hours": 40,
+        "cost": 1617.1875,
+        "price": 2900,
+        "margin": 0.4423491379310345,
+        "margin_dollars": 1282.8125
+      },
+      "Plus": {
+        "hours": 60,
+        "cost": 2425.78125,
+        "price": 4400,
+        "margin": 0.44868607954545453,
+        "margin_dollars": 1974.21875
+      }
+    },
+    "Premium (60% margin)": {
+      "Starter": {
+        "hours": 20,
+        "cost": 808.59375,
+        "price": 2000,
+        "margin": 0.595703125,
+        "margin_dollars": 1191.40625
+      },
+      "Growth": {
+        "hours": 40,
+        "cost": 1617.1875,
+        "price": 4000,
+        "margin": 0.595703125,
+        "margin_dollars": 2382.8125
+      },
+      "Plus": {
+        "hours": 60,
+        "cost": 2425.78125,
+        "price": 6100,
+        "margin": 0.6023309426229508,
+        "margin_dollars": 3674.21875
+      }
+    }
+  },
+  "recommended_pricing": {
+    "Starter": {
+      "hours": 20,
+      "cost": 808.59375,
+      "price": 1500,
+      "margin": 0.4609375,
+      "margin_dollars": 691.40625
+    },
+    "Growth": {
+      "hours": 40,
+      "cost": 1617.1875,
+      "price": 2900,
+      "margin": 0.4423491379310345,
+      "margin_dollars": 1282.8125
+    },
+    "Plus": {
+      "hours": 60,
+      "cost": 2425.78125,
+      "price": 4400,
+      "margin": 0.44868607954545453,
+      "margin_dollars": 1974.21875
+    }
+  },
+  "roi_analysis": {
+    "Starter": {
+      "monthly_cost": 1500,
+      "expected_monthly_roi": 325.8675,
+      "payback_days": 999,
+      "annual_cost": 18000,
+      "annual_revenue_impact": 3910.41,
+      "annual_roi": -14089.59,
+      "roi_percentage": -78.2755
+    },
+    "Growth": {
+      "monthly_cost": 2900,
+      "expected_monthly_roi": 874.1525000000001,
+      "payback_days": 999,
+      "annual_cost": 34800,
+      "annual_revenue_impact": 10489.830000000002,
+      "annual_roi": -24310.17,
+      "roi_percentage": -69.85681034482758
+    },
+    "Plus": {
+      "monthly_cost": 4400,
+      "expected_monthly_roi": 1448.3000000000002,
+      "payback_days": 999,
+      "annual_cost": 52800,
+      "annual_revenue_impact": 17379.600000000002,
+      "annual_roi": -35420.399999999994,
+      "roi_percentage": -67.0840909090909
+    }
+  },
+  "market_benchmarks": {
+    "SEO Agencies (SEO only)": {
+      "Starter": "$2,000-3,500/month",
+      "Growth": "$4,000-7,000/month",
+      "Plus": "$8,000-15,000/month"
+    },
+    "Conversion Rate Optimization": {
+      "Starter": "$2,500-4,000/month",
+      "Growth": "$5,000-8,000/month",
+      "Plus": "$10,000-20,000/month"
+    },
+    "Full-Service E-commerce Agencies": {
+      "Starter": "$3,500-5,000/month",
+      "Growth": "$7,000-12,000/month",
+      "Plus": "$15,000-30,000/month"
+    },
+    "Devkind RECOMMENDED PRICING": {
+      "Starter": "$1,500/month",
+      "Growth": "$2,900/month",
+      "Plus": "$4,400/month"
+    }
+  }
+}

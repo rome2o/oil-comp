@@ -1,0 +1,302 @@
+{
+  "roadmap": {
+    "Month 1: Foundation & Quick Wins": {
+      "theme": "Baseline Assessment & Immediate Optimization",
+      "goals": [
+        "Establish performance baseline with accurate tracking",
+        "Implement 2 high-impact quick wins",
+        "Build trust with initial results"
+      ],
+      "initiatives": {
+        "Week 1-2: Audit & Analysis": {
+          "deliverables": [
+            "Complete Shopify audit (checkout funnel, product pages, navigation)",
+            "Set up comprehensive analytics tracking (GA4, Shopify native)",
+            "Analyze top traffic sources and customer journey",
+            "Identify conversion leaks and friction points"
+          ],
+          "hours": 12,
+          "owner": "Analytics & CRO Lead"
+        },
+        "Week 2-3: Quick Win #1 - Product Page Optimization": {
+          "deliverables": [
+            "Analyze top 10 products for optimization",
+            "Redesign product pages for conversion (images, copy, CTAs)",
+            "Implement mobile-responsive improvements",
+            "Deploy changes to production"
+          ],
+          "hours": 10,
+          "owner": "CRO Specialist",
+          "expected_impact": "8-12% conversion lift"
+        },
+        "Week 3-4: Quick Win #2 - Checkout Funnel": {
+          "deliverables": [
+            "Audit checkout flow (form fields, payment options, shipping)",
+            "Reduce friction: simplify form, add trust signals",
+            "Implement one-click upsell (post-purchase)",
+            "A/B test changes"
+          ],
+          "hours": 8,
+          "owner": "CRO Specialist",
+          "expected_impact": "5-8% checkout completion improvement"
+        },
+        "Week 4: Planning & Reporting": {
+          "deliverables": [
+            "Month 1 performance report",
+            "Plan Month 2 initiatives based on data",
+            "Monthly strategy call with client"
+          ],
+          "hours": 2,
+          "owner": "Account Manager"
+        }
+      },
+      "total_hours": 32,
+      "expected_outcomes": {
+        "conversion_rate_improvement": "8-15%",
+        "revenue_impact": "$4,000-8,000 incremental"
+      }
+    },
+    "Month 2: Scale & Multi-Channel": {
+      "theme": "Expand Initiatives & Customer Retention",
+      "goals": [
+        "Scale winning strategies from Month 1",
+        "Launch retention and AOV initiatives",
+        "Begin organic growth foundations"
+      ],
+      "initiatives": {
+        "Week 1: Email Marketing Automation": {
+          "deliverables": [
+            "Set up email marketing platform integration",
+            "Create welcome series (5-email sequence)",
+            "Build abandoned cart recovery flows",
+            "Set up product recommendation engine"
+          ],
+          "hours": 10,
+          "owner": "Growth Specialist",
+          "expected_impact": "20-30% improvement in email engagement"
+        },
+        "Week 2: Average Order Value Optimization": {
+          "deliverables": [
+            "Analyze product correlation and bundles",
+            "Create strategic product bundles (15-20% discount)",
+            "Implement upsell recommendation rules",
+            "Test cross-sell positioning on product pages"
+          ],
+          "hours": 8,
+          "owner": "CRO Specialist",
+          "expected_impact": "8-12% AOV increase"
+        },
+        "Week 3: Mobile Experience Deep Dive": {
+          "deliverables": [
+            "Mobile-specific UX audit",
+            "Optimize mobile checkout (mobile wallet integration)",
+            "Speed optimization (Core Web Vitals)",
+            "Mobile app consideration analysis"
+          ],
+          "hours": 8,
+          "owner": "Technical Lead",
+          "expected_impact": "15-20% mobile conversion improvement"
+        },
+        "Week 4: SEO & Content Foundation": {
+          "deliverables": [
+            "Keyword research for top product categories",
+            "SEO audit of top pages",
+            "Create content calendar (3-month outlook)",
+            "Set up blog infrastructure"
+          ],
+          "hours": 6,
+          "owner": "SEO Specialist"
+        }
+      },
+      "total_hours": 32,
+      "expected_outcomes": {
+        "aov_improvement": "8-15%",
+        "email_revenue": "$2,000-4,000 monthly recurring",
+        "revenue_impact": "$6,000-12,000 incremental"
+      }
+    },
+    "Month 3: Strategic Growth & Scale": {
+      "theme": "Compound Results & Strategic Initiatives",
+      "goals": [
+        "Compound results from Months 1-2",
+        "Launch strategic growth initiatives",
+        "Prepare for ongoing optimization"
+      ],
+      "initiatives": {
+        "Week 1-2: Paid Advertising Strategy": {
+          "deliverables": [
+            "Audit current advertising (if applicable)",
+            "Develop paid strategy aligned with organic",
+            "Campaign framework for retargeting",
+            "Budget allocation recommendations"
+          ],
+          "hours": 8,
+          "owner": "Growth Specialist",
+          "note": "(Management only; execution separate)"
+        },
+        "Week 2-3: Customer Retention Program": {
+          "deliverables": [
+            "Design loyalty/VIP program",
+            "Build SMS marketing workflows",
+            "Create referral incentive structure",
+            "Set up win-back campaigns for inactive customers"
+          ],
+          "hours": 10,
+          "owner": "Growth Specialist",
+          "expected_impact": "25-35% improvement in repeat purchase rate"
+        },
+        "Week 3: Competitive Analysis & Positioning": {
+          "deliverables": [
+            "Deep competitive analysis (3-5 competitors)",
+            "Gap analysis vs. competitors",
+            "Positioning recommendations",
+            "Content differentiation strategy"
+          ],
+          "hours": 6,
+          "owner": "Strategic Analyst"
+        },
+        "Week 4: Q2 Planning & Reporting": {
+          "deliverables": [
+            "90-day performance report & analysis",
+            "Success metrics dashboard",
+            "Q2 growth plan & resource allocation",
+            "Executive business review"
+          ],
+          "hours": 8,
+          "owner": "Account Manager"
+        }
+      },
+      "total_hours": 32,
+      "expected_outcomes": {
+        "compound_conversion_improvement": "15-30%",
+        "retention_improvement": "25-35%",
+        "revenue_impact": "$8,000-15,000+ incremental"
+      }
+    }
+  },
+  "success_metrics": {
+    "Day 30 Checkpoint": {
+      "Primary Metrics": {
+        "Checkout Conversion Rate": "\u2191 5-8% vs. baseline",
+        "Product Page Engagement": "\u2191 10-15% vs. baseline",
+        "Mobile Conversion": "\u2191 8-12% vs. baseline"
+      },
+      "Revenue Impact": "$4,000-8,000 incremental",
+      "Validation": "Month 1 quick wins live and tracking"
+    },
+    "Day 60 Checkpoint": {
+      "Primary Metrics": {
+        "Conversion Rate": "\u2191 12-18% vs. baseline",
+        "Average Order Value": "\u2191 8-12% vs. baseline",
+        "Email Engagement": "\u2191 20%+ vs. baseline",
+        "Repeat Purchase Rate": "\u2191 10-15% vs. baseline"
+      },
+      "Revenue Impact": "$8,000-14,000 incremental",
+      "Validation": "Multiple initiatives live & producing results"
+    },
+    "Day 90 Checkpoint": {
+      "Primary Metrics": {
+        "Overall Conversion": "\u2191 15-30% vs. baseline",
+        "AOV": "\u2191 12-20% vs. baseline",
+        "Customer LTV": "\u2191 20-35% vs. baseline",
+        "Revenue": "\u2191 25-40% vs. baseline (Month-over-month)",
+        "Organic Traffic": "\u2191 5-15% (foundation set)"
+      },
+      "Revenue Impact": "$12,000-25,000+ incremental",
+      "ROI Achievement": "Payback achieved; ongoing optimization plan in place"
+    }
+  },
+  "kpi_template": {
+    "Traffic & Engagement": [
+      "Total Sessions",
+      "Unique Visitors",
+      "Pages per Session",
+      "Avg Session Duration",
+      "Bounce Rate",
+      "Return Visitor %"
+    ],
+    "Conversion": [
+      "Conversion Rate (%)",
+      "Add-to-Cart Rate",
+      "Checkout Completion %",
+      "Mobile Conversion Rate",
+      "Desktop Conversion Rate"
+    ],
+    "Average Order Value & Revenue": [
+      "Average Order Value",
+      "Total Revenue",
+      "Revenue per Visit",
+      "Revenue per Customer",
+      "Product Bundle %"
+    ],
+    "Customer": [
+      "New Customers",
+      "Repeat Purchase Rate",
+      "Customer Retention %",
+      "Customer LTV",
+      "Email Engagement Rate"
+    ],
+    "Strategic Growth": [
+      "Organic Search Traffic %",
+      "Email Revenue %",
+      "Top 5 Products Revenue %",
+      "Geographic Mix",
+      "Mobile Revenue %"
+    ]
+  },
+  "team_allocation": {
+    "Account Manager (Dedicated)": {
+      "month_1_hours": 2,
+      "month_2_hours": 2,
+      "month_3_hours": 8,
+      "role": "Client communication, quarterly planning, performance reporting"
+    },
+    "CRO Specialist": {
+      "month_1_hours": 18,
+      "month_2_hours": 8,
+      "month_3_hours": 8,
+      "role": "Checkout optimization, product page optimization, A/B testing"
+    },
+    "Growth Specialist": {
+      "month_1_hours": 6,
+      "month_2_hours": 18,
+      "month_3_hours": 12,
+      "role": "Email marketing, customer retention, AOV optimization, loyalty program"
+    },
+    "Analytics Specialist": {
+      "month_1_hours": 12,
+      "month_2_hours": 4,
+      "month_3_hours": 4,
+      "role": "Baseline tracking, analytics setup, reporting"
+    },
+    "SEO/Technical Specialist": {
+      "month_1_hours": 2,
+      "month_2_hours": 8,
+      "month_3_hours": 8,
+      "role": "Mobile optimization, speed, SEO strategy"
+    }
+  },
+  "months_breakdown": {
+    "Month 1": {
+      "Account Manager (Dedicated)": 2,
+      "CRO Specialist": 18,
+      "Growth Specialist": 6,
+      "Analytics Specialist": 12,
+      "SEO/Technical Specialist": 2
+    },
+    "Month 2": {
+      "Account Manager (Dedicated)": 2,
+      "CRO Specialist": 8,
+      "Growth Specialist": 18,
+      "Analytics Specialist": 4,
+      "SEO/Technical Specialist": 8
+    },
+    "Month 3": {
+      "Account Manager (Dedicated)": 8,
+      "CRO Specialist": 8,
+      "Growth Specialist": 12,
+      "Analytics Specialist": 4,
+      "SEO/Technical Specialist": 8
+    }
+  }
+}
