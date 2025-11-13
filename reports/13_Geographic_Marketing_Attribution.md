@@ -1,6 +1,6 @@
 # 🌍 Geographic & Marketing Attribution Analysis
 
-**Generated:** November 14, 2025 at 02:35 AM  
+**Generated:** November 14, 2025 at 03:27 AM  
 **Data Source:** HBNO Shopify Store Analytics
 
 ---
@@ -56,7 +56,7 @@
 
 ## 📋 Data Completeness Assessment
 
-**Loaded Reports:** 13
+**Loaded Reports:** 8
 
 ✅ **Critical Performance Data Available:**
 - Checkout Conversion Rate Over Time
@@ -67,11 +67,6 @@
 - Customer Behavior
 - Sales Attributed To Marketing
 - Sessions By Location
-- Average Order Value Over Time
-- New Vs Returning Customer Sales
-- New Customers Over Time
-- New Customer Sales Over Time
-- Returning Customer Rate Over Time
 
 ---
 
