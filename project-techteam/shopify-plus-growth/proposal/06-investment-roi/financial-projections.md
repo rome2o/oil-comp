@@ -138,24 +138,24 @@ Product pages can be optimized quickly (8-12 per month), but traffic quality imp
 
 ## 💸 Cash Flow Analysis
 
-### Monthly Cash Flow (After Reaching 5.0% in Month 3)
+### Monthly Cash Flow (Phased Timeline Model)
 
 | Month | Revenue Gain | Investment | Net Cash Flow | Cumulative Cash |
 |-------|--------------|------------|---------------|-----------------|
-| 1 | +$45,000 | -$9,500 | +$35,500 | +$35,500 |
-| 2 | +$85,000 | -$9,500 | +$75,500 | +$111,000 |
-| 3 | +$165,000 | -$9,500 | +$155,500 | +$266,500 |
-| 4 | +$165,000 | -$9,500 | +$155,500 | +$422,000 |
-| 5 | +$175,000 | -$9,500 | +$165,500 | +$587,500 |
-| 6 | +$185,000 | -$9,500 | +$175,500 | +$763,000 |
-| 7 | +$195,000 | -$9,500 | +$185,500 | +$948,500 |
-| 8 | +$205,000 | -$9,500 | +$195,500 | +$1,144,000 |
-| 9 | +$215,000 | -$9,500 | +$205,500 | +$1,349,500 |
-| 10 | +$225,000 | -$9,500 | +$215,500 | +$1,565,000 |
-| 11 | +$235,000 | -$9,500 | +$225,500 | +$1,790,500 |
-| 12 | +$245,000 | -$9,500 | +$235,500 | +$2,026,000 |
+| 1 | +$33,000 | -$11,500 | +$21,500 | +$21,500 |
+| 2 | +$55,000 | -$11,500 | +$43,500 | +$65,000 |
+| 3 | +$77,000 | -$11,500 | +$65,500 | +$130,500 |
+| 4 | +$90,000 | -$11,500 | +$78,500 | +$209,000 |
+| 5 | +$105,000 | -$11,500 | +$93,500 | +$302,500 |
+| 6 | +$135,000 | -$11,500 | +$123,500 | +$426,000 |
+| 7 | +$145,000 | -$11,500 | +$133,500 | +$559,500 |
+| 8 | +$150,000 | -$11,500 | +$138,500 | +$698,000 |
+| 9 | +$155,000 | -$11,500 | +$143,500 | +$841,500 |
+| 10 | +$160,000 | -$11,500 | +$148,500 | +$990,000 |
+| 11 | +$162,000 | -$11,500 | +$150,500 | +$1,140,500 |
+| 12 | +$165,000 | -$11,500 | +$153,500 | +$1,294,000 |
 
-**Positive cash flow from Day 1** - every month generates 4-25x the monthly investment.
+**Positive cash flow from Day 1** - every month generates 1.9-14.4x the monthly investment.
 
 ---
 
@@ -187,45 +187,45 @@ Month 12 (Year-End): $365K █████████████████�
 
 ## 🔄 Year 2-3 Projections
 
-### Year 2 (Optimization Mode - Starter Tier $6,500/month)
+### Year 2 (Optimization Mode - Starter Tier $7,500/month)
 
 **Assumptions:**
-- Maintain 5.8% add-to-cart rate from Year 1 end
+- Maintain 5.5% add-to-cart rate from Year 1 end
 - Continue B2B SEO momentum
-- Optimize 2-3 products per month
+- Optimize 4-6 products per month
 - Lower investment tier (maintenance mode)
 
 | Metric | Year 2 Projection |
 |--------|-------------------|
-| **Average Monthly Revenue** | $370,000 |
-| **Annual Revenue** | $4,440,000 |
-| **Revenue vs Original Baseline** | +$3,000,000/year |
-| **Investment** | $78,000 ($6,500/month) |
-| **Net Profit (Year 2 only)** | +$2,922,000 |
-| **ROI (Year 2)** | 38.5x |
+| **Average Monthly Revenue** | $360,000 |
+| **Annual Revenue** | $4,320,000 |
+| **Revenue vs Original Baseline** | +$2,880,000/year |
+| **Investment** | $90,000 ($7,500/month) |
+| **Net Profit (Year 2 only)** | +$2,790,000 |
+| **ROI (Year 2)** | 32.0x |
 
 ### Year 3 (Compounding B2B Growth)
 
 **Assumptions:**
 - B2B traffic continues to grow (SEO authority compounds)
-- Add-to-cart improves to 6.0-6.5% (ongoing optimization)
+- Add-to-cart improves to 5.8-6.0% (ongoing optimization)
 - Wholesale B2B program generates additional revenue
 
 | Metric | Year 3 Projection |
 |--------|-------------------|
-| **Average Monthly Revenue** | $420,000 |
-| **Annual Revenue** | $5,040,000 |
-| **Revenue vs Original Baseline** | +$3,600,000/year |
-| **Investment** | $78,000 ($6,500/month) |
-| **Net Profit (Year 3 only)** | +$3,522,000 |
-| **ROI (Year 3)** | 46.2x |
+| **Average Monthly Revenue** | $390,000 |
+| **Annual Revenue** | $4,680,000 |
+| **Revenue vs Original Baseline** | +$3,240,000/year |
+| **Investment** | $90,000 ($7,500/month) |
+| **Net Profit (Year 3 only)** | +$3,150,000 |
+| **ROI (Year 3)** | 36.0x |
 
 ### 3-Year Cumulative Impact
 
-**Total 3-Year Investment:** $270,000  
-**Total 3-Year Revenue Gain:** $9,600,000  
-**Total 3-Year Net Profit:** $9,330,000  
-**3-Year ROI:** 35.6x
+**Total 3-Year Investment:** $318,000 ($138K Y1 + $90K Y2 + $90K Y3)  
+**Total 3-Year Revenue Gain:** $8,100,000  
+**Total 3-Year Net Profit:** $7,782,000  
+**3-Year ROI:** 25.5x
 
 ---
 
@@ -301,6 +301,6 @@ Month 12 (Year-End): $365K █████████████████�
 1. **Review Projections** - Validate assumptions with your team
 2. **Check Cash Flow** - Ensure positive cash flow from Month 1
 3. **Plan for Year 2** - Decide on optimization mode or growth mode
-4. **Sign Agreement** - Lock in Growth Tier pricing ($9,500/month)
+4. **Sign Agreement** - Lock in Growth Tier pricing ($11,500/month)
 
 [Review ROI Scenarios](./roi-scenarios.md) | [Check Payback Analysis](./payback-analysis.md) | [Get Started](../08-terms-next-steps/timeline.md)

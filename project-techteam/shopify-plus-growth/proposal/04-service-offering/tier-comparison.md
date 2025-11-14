@@ -167,7 +167,7 @@ The sweet spot for most businesses. Balanced investment with systematic optimiza
 
 ### Overview
 
-Maximum velocity optimization for businesses wanting rapid transformation and full catalog coverage within 90 days, with 5.0%+ results by 6 months.
+Maximum velocity optimization for businesses wanting rapid transformation and full catalog coverage within 6 months, with 5.0%+ results by 9-12 months.
 
 ### What's Included
 
@@ -177,7 +177,7 @@ Maximum velocity optimization for businesses wanting rapid transformation and fu
 - Advanced SEO + content strategy (comprehensive commercial keyword targeting + B2B content creation)
 - Aggressive A/B testing (4-6 tests running simultaneously)
 - Weekly analytics reports + optimization sprints
-- Bi-weekly strategic planning calls
+- Weekly strategic planning calls
 - Quarterly comprehensive audits (free)
 
 **Advanced Features:**
@@ -269,8 +269,8 @@ Maximum velocity optimization for businesses wanting rapid transformation and fu
 ### Choose Plus If
 
 ✅ Maximum velocity priority  
-✅ Large catalog (60+ products) needing full coverage in 90 days  
-✅ Want 4.0% A2C in 90 days, 5.0%+ in 6 months  
+✅ Large catalog (60+ products) needing full coverage quickly  
+✅ Want 3.8% A2C in 90 days, 6.0%+ in 12 months  
 ✅ Competitive market requiring rapid execution  
 ✅ Enterprise-level features needed
 

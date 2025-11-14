@@ -207,27 +207,27 @@ Product pages can be optimized quickly, but traffic quality improvements compoun
 
 ### Metric 8: Return on Investment (ROI)
 
-**Target:** 17.4x (Year 1 annualized)
+**Target:** 11.9x (Year 1 annualized)
 
 **Monthly Tracking:**
 | Month | Cumulative Investment | Cumulative Revenue Gain | Net Profit | ROI |
 |-------|----------------------|------------------------|------------|-----|
-| Month 1 | $9,500 | $45,000 | $35,500 | 4.7x |
-| Month 2 | $19,000 | $130,000 | $111,000 | 6.8x |
-| Month 3 | $28,500 | $295,000 | $266,500 | 10.4x |
-| Month 6 | $57,000 | $820,000 | $763,000 | 14.4x |
-| Month 12 | $114,000 | $1,980,000 | $1,866,000 | 17.4x ✅ |
+| Month 1 | $11,500 | $33,000 | $21,500 | 2.9x |
+| Month 2 | $23,000 | $88,000 | $65,000 | 3.8x |
+| Month 3 | $34,500 | $165,000 | $130,500 | 4.8x |
+| Month 6 | $69,000 | $495,000 | $426,000 | 7.2x |
+| Month 12 | $138,000 | $1,980,000 | $1,842,000 | 14.3x ✅ |
 
 **Success Criteria:**
-- ✅ Green: ≥12x ROI (Year 1)
-- ⚠️ Yellow: 8-12x ROI
-- 🚫 Red: <8x ROI
+- ✅ Green: ≥10x ROI (Year 1)
+- ⚠️ Yellow: 7-10x ROI
+- 🚫 Red: <7x ROI
 
 ---
 
 ### Metric 9: Payback Period
 
-**Target:** ≤20 days
+**Target:** ≤10 days
 
 **Measurement:** Days until cumulative revenue gain exceeds cumulative investment
 

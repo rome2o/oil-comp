@@ -291,7 +291,7 @@
 
 **Before Week 0:**
 - [ ] Agreement signed by authorized party
-- [ ] Initial payment submitted ($9,500)
+- [ ] Initial payment submitted ($11,500)
 - [ ] Primary contact designated (email, phone)
 - [ ] Internal stakeholders notified
 
@@ -399,7 +399,7 @@
 **Next Steps:**
 
 1. **Sign Agreement:** [Download Service Agreement](./engagement-terms.md)
-2. **Submit Payment:** $9,500 (first month) via invoice
+2. **Submit Payment:** $11,500 (first month) via invoice
 3. **Complete Onboarding:** Wait for onboarding email (within 24hr of payment)
 
 **Questions?** Review [FAQ](./faq.md) or contact us directly.

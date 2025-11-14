@@ -408,8 +408,8 @@ This roadmap executes a **dual-track optimization strategy** that addresses both
 - Month 1 review: Pivot strategy if <50% of target achieved
 - Continuous A/B testing ensures we double down on winners, kill losers
 
-**Hour Cap Protection:**
-- Growth Tier: 65 hours/month maximum
+**Deliverable-Based Approach:**
+- Growth Tier: 8-12 product pages optimized per month
 - Scope-controlled to prevent overages
 - Prioritization framework ensures highest-value work always executes first
 
@@ -417,9 +417,9 @@ This roadmap executes a **dual-track optimization strategy** that addresses both
 
 ## 🚀 Post-90-Day Roadmap
 
-**If Targets Achieved (5.0% add-to-cart):**
+**If 90-Day Targets Achieved (3.5% add-to-cart):**
 
-**Option A: Optimization Mode** ($6,500/month - Starter Tier)
+**Option A: Optimization Mode** ($7,500/month - Starter Tier)
 - Maintain improvements
 - Continue testing and refinement
 - Monitor performance and iterate

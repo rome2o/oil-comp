@@ -13,9 +13,9 @@
 
 **The Solution:** Systematic product page optimization focused on add-to-cart conversion
 
-**The Outcome:** 10x ROI with 35-day payback | +$97K/month revenue potential
+**The Outcome:** 11.9x ROI at 12 months | +$77K/month at 90 days, +$165K/month at 12 months
 
-**The Investment:** $9,500/month (Growth Tier - Recommended)
+**The Investment:** $11,500/month (Growth Tier - Recommended)
 
 ---
 
@@ -51,7 +51,7 @@
    - Why this approach works
 
 6. **[Tier Comparison](./04-service-offering/tier-comparison.md)**
-   - Starter ($6,500) | Growth ($9,500) ⭐ | Plus ($15,000)
+   - Starter ($7,500) | Growth ($11,500) ⭐ | Plus ($17,500)
    - Deliverables matrix: What you get per tier
    - Which tier is right for you?
 
@@ -74,7 +74,7 @@
 
 10. **[Financial Projections](./06-investment-roi/financial-projections.md)**
     - 12-month revenue impact model
-    - Payback analysis: 35-56 days depending on tier
+    - Payback analysis: 10 days (Growth Tier)
 
 ### Risk Management & Terms
 
@@ -114,25 +114,26 @@ Your checkout is performing excellently (53.3% conversion). The problem is that 
 
 ### The Opportunity
 
-By improving add-to-cart rate from 2.03% → 4.0% (still below industry average of 8-10%):
-- Additional 379 orders/month
-- **+$97,000 monthly revenue**
-- **+$1.16M annual revenue**
-- **10.2x ROI** on $9,500/month investment
-- **35-day payback period**
+By improving add-to-cart rate through phased approach:
+- 90 days: 2.03% → 3.5% (+$77K/month)
+- 6 months: 3.5% → 4.5% (+$135K/month)
+- 12 months: 4.5% → 5.0% (+$165K/month)
+- **+$1.98M annual revenue at 12 months**
+- **11.9x ROI** on $11,500/month investment
+- **10-day payback period**
 
 ---
 
 ## 🎯 Recommended Engagement
 
 **Service:** Product Page Growth Tier  
-**Investment:** $9,500/month  
-**Hours:** 40-50 hours/month (HARD CAP for scope protection)  
-**Duration:** 6-month initial engagement, month-to-month thereafter  
+**Investment:** $11,500/month  
+**Deliverables:** 8-12 product pages optimized/month  
+**Duration:** Month-to-month (no long-term contract)  
 **Team:** Strategist + Designer + Developer
 
-**Deliverables:**
-- 4-5 product page optimizations/month
+**Monthly Deliverables:**
+- 8-12 product page optimizations
 - 2-3 A/B tests running continuously
 - Bi-weekly analytics reports
 - Advanced trust signal implementation

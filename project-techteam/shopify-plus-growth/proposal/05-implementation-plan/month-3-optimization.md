@@ -487,18 +487,20 @@
 - Monthly revenue: $205,000
 
 **Month 3 Target:**
-- Add-to-cart: 5.0%
-- Monthly revenue: $285,000
-- **Revenue increase: +$80K additional (+$165K cumulative)**
+- Add-to-cart: 3.5%
+- Monthly revenue: $197,000
+- **Revenue increase: +$22K additional (+$77K cumulative)**
 
 ### 90-Day Investment vs Return
 
-**Total Investment:** $28,500 (3 months × $9,500)  
-**Total Return:** $165,000/month ongoing  
-**ROI:** 5.8x  
-**Annualized Return:** $1.98M  
-**Annual ROI:** 17.4x  
-**Payback Period:** 20 days (Month 1)
+**Total Investment:** $34,500 (3 months × $11,500)  
+**Total Return:** $77,000/month ongoing at 90 days  
+**90-Day ROI:** 2.2x  
+**6-Month Target:** $135,000/month (+6.7x cumulative)  
+**12-Month Target:** $165,000/month (+11.9x cumulative)  
+**Annualized 12M Return:** $1.98M  
+**Annual ROI:** 11.9x  
+**Payback Period:** 10 days (Month 1)
 
 ---
 
@@ -521,16 +523,18 @@
    - B2B authority established
 
 3. **Product Page Optimization Results**
-   - Add-to-cart improvement: 2.03% → 5.0%
-   - Products optimized: 15-20 (70%+ revenue)
-   - Mobile experience: 85% → 55% bounce rate
+   - Add-to-cart improvement: 2.03% → 3.5% at 90 days
+   - Products optimized: 24-36 (covering major revenue products)
+   - Mobile experience: 85% → 60% bounce rate
    - Trust signals and conversion tactics validated
+   - Clear roadmap to 5.0% at 12 months
 
 4. **Financial Performance**
    - Month-by-month revenue growth
-   - ROI analysis (17.4x annualized)
-   - Payback period (20 days)
-   - Projected 12-month impact ($1.98M)
+   - 90-day ROI: 2.2x
+   - Payback period: 10 days
+   - Projected 6-month impact: +$135K/month
+   - Projected 12-month impact: +$165K/month ($1.98M annual)
 
 5. **Key Learnings & Best Practices**
    - What worked (winning tactics)
@@ -556,23 +560,23 @@
 - [ ] 5 B2B content assets published
 - [ ] B2B email lead magnet created and launched
 - [ ] Products #6-8 optimized (Jojoba, Frankincense, Sweet Almond)
-- [ ] Mobile experience refined (65% → 55% bounce)
+- [ ] Mobile experience refined (70% → 60% bounce)
 - [ ] Personalization tests running
-- [ ] Add-to-cart: 3.9% → 4.4%
-- [ ] Commercial traffic: 20% → 25%
+- [ ] Add-to-cart: 3.0% → 3.3%
+- [ ] Commercial traffic: 15% → 20%
 
-### Week 11-12: Authority & Scale ✅
+### Week 11-12: Authority & 90-Day Milestone ✅
 
 - [ ] Comprehensive B2B buyer's guide published
 - [ ] 10 high-authority backlinks acquired
 - [ ] 50+ long-tail commercial keywords targeted
 - [ ] Quarterly industry report released
-- [ ] 10-15 additional products optimized
+- [ ] 8-12 additional products optimized
 - [ ] Product page templates created
 - [ ] AI recommendations deployed
 - [ ] Advanced personalization live
-- [ ] Add-to-cart: 4.4% → 5.0% ✅ TARGET HIT
-- [ ] Commercial traffic: 25% → 35-40%
+- [ ] Add-to-cart: 3.3% → 3.5% ✅ 90-DAY TARGET HIT
+- [ ] Commercial traffic: 20% → 25%
 - [ ] 90-Day Comprehensive Report delivered
 
 ---
@@ -581,53 +585,53 @@
 
 ### Potential Challenges
 
-**Challenge 1: 5.0% target more difficult than expected**
+**Challenge 1: 3.5% target more difficult than expected**
 - Mitigation: Focus on highest-leverage tactics (top products, mobile, personalization)
-- Backup: Accept 4.8% as "close enough" (+136% vs +146% target)
+- Backup: Accept 3.2-3.3% as strong progress (+58-63% vs +72% target)
+- Reality: Traffic quality takes 6-12 months, 90-day focus is foundation
 
 **Challenge 2: Authority content may not drive immediate results**
 - Expectation: B2B authority is 6-12 month investment, not 90-day
 - Justification: Sets foundation for 2026 growth
 
-**Challenge 3: Optimizing 10-15 additional products is time-intensive**
+**Challenge 3: Optimizing 8-12 additional products is time-intensive**
 - Mitigation: Use templates and automation
 - Backup: Optimize top-revenue products first, defer long-tail
 
-### Hour Cap Protection
+### Deliverable-Based Scope
 
-**Month 3 Hour Budget: 65 hours (Growth Tier)**
+**Month 3 Growth Tier Deliverables: 8-12 product pages optimized**
 
-- Week 9-10: 55 hours (Refinement)
-- Week 11-12: 45 hours (Authority + Report)
-- **Total: 100 hours estimated**
+- Week 9-10: Refinement (optimize 8-12 pages with advanced tactics)
+- Week 11-12: Authority building + comprehensive 90-day report
 
-**Overage Management:**
-- Report creation uses in-house time, not client hours
-- Defer nice-to-have optimizations if approaching cap
-- Prioritize hitting 5.0% target above all else
+**Prioritization:**
+- Report creation uses in-house time, not client deliverables
+- Focus on hitting 3.5% 90-day milestone
+- Templates enable efficient scaling to additional products
 
 ---
 
 ## 🚀 Post-90-Day Options
 
-### Option A: Optimization Mode - $6,500/month (Starter Tier)
+### Option A: Optimization Mode - $7,500/month (Starter Tier)
 
 **Focus:** Maintain improvements, continue testing
 
 **Activities:**
 - Ongoing A/B testing and iteration
 - Monitor performance and fix issues
-- Optimize 2-3 additional products per month
+- Optimize 4-6 additional products per month
 - Maintain B2B content and SEO
 
-**Best For:** If satisfied with 5.0% and want to maintain
+**Best For:** If satisfied with 3.5% at 90 days and want to maintain while traffic quality shifts
 
-### Option B: New Growth Initiatives - $9,500/month (Growth Tier)
+### Option B: Growth Acceleration - $11,500/month (Growth Tier)
 
-**Focus:** Expand to new opportunities
+**Focus:** Accelerate toward 5.0% at 12 months
 
 **Activities:**
-- International B2B market expansion
+- Continue 8-12 product optimizations per month
 - Wholesale program optimization and automation
 - Scale to full product catalog (80+ products)
 - Advanced B2B marketing (email, content, partnerships)

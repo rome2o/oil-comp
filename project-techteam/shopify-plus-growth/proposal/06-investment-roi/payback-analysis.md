@@ -164,32 +164,32 @@ You're optimizing conversion of traffic you already have.
 ### Conservative Scenario (50% of Expected Results)
 
 **Assumptions:**
-- Month 1 revenue gain: +$45K → +$22.5K (50% of target)
-- Daily gain: $1,500 → $750/day
+- Month 1 revenue gain: +$33K → +$16.5K (50% of target)
+- Daily gain: $1,100 → $550/day
 
 **Payback Calculation:**
 ```
-$9,500 investment ÷ $750/day = 12.7 days
+$11,500 investment ÷ $550/day = 21 days
 ```
 
-**With ramp-up model:** 40-45 days payback
+**With ramp-up model:** 50-55 days payback
 
-**Conclusion:** Even at 50% effectiveness, payback is <45 days (still excellent).
+**Conclusion:** Even at 50% effectiveness, payback is <60 days (still excellent).
 
 ### Worst-Case Scenario (30% of Expected Results)
 
 **Assumptions:**
-- Month 1 revenue gain: +$45K → +$13.5K (30% of target)
-- Daily gain: $1,500 → $450/day
+- Month 1 revenue gain: +$33K → +$10K (30% of target)
+- Daily gain: $1,100 → $330/day
 
 **Payback Calculation:**
 ```
-$9,500 investment ÷ $450/day = 21 days
+$11,500 investment ÷ $330/day = 35 days
 ```
 
-**With ramp-up model:** 60-70 days payback
+**With ramp-up model:** 80-90 days payback
 
-**Conclusion:** Even at 30% effectiveness (very conservative), payback is ~70 days (still 2-3x faster than paid ads).
+**Conclusion:** Even at 30% effectiveness (very conservative), payback is ~90 days (still 2-3x faster than paid ads).
 
 ---
 
@@ -228,15 +228,15 @@ $9,500 investment ÷ $450/day = 21 days
 | **Month 3** | +$155,500 (Month 3 only) | 16.4x (Month 3) |
 | **Months 4-12** | +$1,789,500 (total) | 20.9x (Months 4-12) |
 
-**After 20-day payback, the remaining 345 days of Year 1 are pure profit multiplication.**
+**After 10-day payback, the remaining 355 days of Year 1 are pure profit multiplication.**
 
 ### 3-Year Cumulative Profit
 
-**Year 1:** $2,056,000 net profit  
-**Year 2:** $2,922,000 net profit (optimization mode, lower investment)  
-**Year 3:** $3,522,000 net profit (compounding growth)
+**Year 1:** $1,916,000 net profit  
+**Year 2:** $2,784,000 net profit (optimization mode, lower investment)  
+**Year 3:** $3,384,000 net profit (compounding growth)
 
-**Total 3-Year Profit:** $8,500,000+ from initial $9,500/month investment.
+**Total 3-Year Profit:** $8,084,000+ from initial $11,500/month investment.
 
 ---
 
@@ -244,40 +244,40 @@ $9,500 investment ÷ $450/day = 21 days
 
 ### The Bottom Line
 
-1. **20-day payback** = Fastest in digital marketing
-2. **After payback, 345 days of Year 1 are pure profit**
-3. **Month 1 alone delivers 3.7x return**
-4. **Even at 50% effectiveness, payback is <45 days**
+1. **10-day payback** = Fastest in digital marketing
+2. **After payback, 355 days of Year 1 are pure profit**
+3. **Month 1 alone delivers 2.9x return**
+4. **Even at 50% effectiveness, payback is <60 days**
 5. **No long-term contract risk** = Stop after payback if unsatisfied
 
 ### Compare to Alternatives
 
 | Alternative | Payback Period | Year 1 ROI |
 |-------------|----------------|------------|
-| **Product Page Optimization** | **20 days** | **17.4x** |
+| **Product Page Optimization** | **10 days** | **11.9x** |
 | Hire Marketing Manager | Never | Negative |
 | Google Ads | 90-180 days | 2-4x |
 | SEO Agency | 6-12 months | 5-10x |
 | Email Platform | 90-180 days | 3-7x |
 
-**No other marketing investment pays back in 20 days with 17.4x annual ROI.**
+**No other marketing investment pays back in 10 days with 11.9x annual ROI.**
 
 ---
 
 ## 📞 Decision Framework
 
-### Should You Invest $9,500/month?
+### Should You Invest $11,500/month?
 
 **Ask yourself:**
 
-1. **Can I afford to wait 20 days for payback?** (Most businesses: Yes)
-2. **Do I have $9,500 cash flow available?** (If yes, proceed)
+1. **Can I afford to wait 10 days for payback?** (Most businesses: Yes)
+2. **Do I have $11,500 cash flow available?** (If yes, proceed)
 3. **Am I willing to collaborate for 90 days?** (Weekly approvals, feedback)
-4. **Can I accept 17.4x ROI?** (If this isn't good enough, nothing will be)
+4. **Can I accept 11.9x ROI?** (If this isn't good enough, nothing will be)
 
 **If you answered "yes" to all four:** You should start immediately.
 
-**If you answered "no" to any:** Consider Starter Tier ($6,500, 28-day payback) or wait until Q1 2026.
+**If you answered "no" to any:** Consider Starter Tier ($7,500, 45-day payback) or wait until Q1 2026.
 
 ---
 
@@ -286,17 +286,18 @@ $9,500 investment ÷ $450/day = 21 days
 ### What's the Cost of NOT Investing?
 
 **Every month you delay:**
-- You lose $45K in Month 1 potential revenue
-- You lose $85K in Month 2 potential revenue
-- You lose $165K in Month 3+ ongoing revenue
-- **Total Q1 lost opportunity: $295,000**
+- You lose $33K in Month 1 potential revenue
+- You lose $55K in Month 2 potential revenue
+- You lose $77K in Month 3 potential revenue
+- You lose $135K in ongoing 6-month revenue
+- **Total first 6 months lost opportunity: $465,000**
 
-**Delaying 1 month costs you $295K in Q1 revenue.**
+**Delaying 1 month costs you $300K+ in first 6 months.**
 
 **Delaying 3 months costs you $825K in Year 1 revenue.**
 
-**The question isn't "Should I invest $9,500?"**  
-**The question is "Can I afford to lose $295K by not investing?"**
+**The question isn't "Should I invest $11,500?"**  
+**The question is "Can I afford to lose $465K by not investing?"**
 
 ---
 
@@ -308,13 +309,13 @@ $9,500 investment ÷ $450/day = 21 days
 - **Day 1-7:** Discovery and audit phase
 - **Day 8-14:** Strategy and design phase
 - **Day 15-21:** Implementation phase
-- **Day 20:** 🎉 **PAYBACK ACHIEVED**
-- **Day 21-30:** Profit multiplication begins
+- **Day 10:** 🎉 **PAYBACK ACHIEVED**
+- **Day 11-30:** Profit multiplication begins
 
 [Review Investment Summary](./pricing-summary.md) | [Check Implementation Plan](../05-implementation-plan/90-day-roadmap.md) | [Get Started Now](../08-terms-next-steps/timeline.md)
 
 ---
 
-**20 days. 17.4x ROI. $2M+ Year 1 profit.**
+**10 days. 11.9x ROI. $1.9M+ Year 1 profit.**
 
 **What are you waiting for?**

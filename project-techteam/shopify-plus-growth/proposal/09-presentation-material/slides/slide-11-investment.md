@@ -83,37 +83,37 @@
 > Growth Tier is $11,500/month. That's **$1,500 more** than you're spending right now. But instead of going backwards, you're moving forward."
 
 **Step 6: Show Contrast (Starter)**
-> "Now, if budget is tight, there's Starter Tier at $6,500/month. But here's the trade-off: Starter takes 6 months to hit 5% add-to-cart vs 90 days with Growth. That's 3 extra months of losing $165K/month—a $495K cost to save $3K/month. Plus, you want fast movement—Starter is slow by design."
+> "Now, if budget is tight, there's Starter Tier at $7,500/month. But here's the trade-off: Starter optimizes fewer pages per month (4-6 vs 8-12) and takes longer to reach targets. That's slower progress when you want fast movement."
 
 **Step 7: The Close**
-> "So here's what I recommend: **Growth Tier at $9,500/month, with the $2,500 audit waived.** You're getting:
-> - $12,000 worth of value for $9,500/month
-> - $500/month savings vs your current Upwork spend
-> - 90-day timeline to $165K/month additional revenue
-> - 17.4x ROI by Month 3
-> - Hard hour caps and no long-term lock-in
+> "So here's what I recommend: **Growth Tier at $11,500/month.** You're getting:
+> - 8-12 product pages optimized monthly (deliverable-based, not hour-based)
+> - 90-day timeline to 3.5% add-to-cart (+$77K/month additional revenue)
+> - 12-month timeline to 5.0% add-to-cart (+$165K/month)
+> - 11.9x ROI by 12 months
+> - Deliverable-focused scope and no long-term lock-in
 >
-> This is the fastest path to results without overspending. Does this make sense for where you want to take HBNO?"
+> This is the fastest path to results with proven deliverables. Does this make sense for where you want to take HBNO?"
 
 ---
 
 ## 👥 Audience-Specific Positioning
 
 **For Jonida:**
-> "Growth Tier is the sweet spot—fast enough to see results in 90 days, affordable enough to justify easily."
+> "Growth Tier is the sweet spot—realistic timeline to see 3.5% in 90 days and 5.0% in 12 months, with clear deliverables each month."
 
 **For Josef:**
-> "You're already spending $10K/month getting hurt. This is $500 less per month to grow instead of shrink. Plus I'm waiving the $2,500 audit—that's $2,500 you win right there."
+> "You're already spending $10K/month getting hurt. This is $1,500 more per month to grow instead of shrink, with deliverable-based scope so you know exactly what you're getting."
 
 ---
 
 ## ⚠️ Delivery Notes
 
 **Critical Pause Points:**
-1. After saying "Plus Tier is $15,000/month" - let it sink in
-2. After saying "Growth Tier normally includes a $2,500 audit fee" - slight pause before reveal
-3. After saying "I'm going to waive that $2,500 audit fee" - pause, smile
-4. After saying "You're currently spending $10,000/month on Upwork" - let the comparison register
+1. After saying "Plus Tier is $17,500/month" - let it sink in
+2. After explaining "Growth Tier: 8-12 pages per month" - emphasize deliverables
+3. After saying "You're currently spending $10,000/month on Upwork" - let the comparison register
+4. After stating 90-day vs 12-month targets - emphasize realistic timeline
 
 **Tone:**
 - Confident (not apologetic about pricing)

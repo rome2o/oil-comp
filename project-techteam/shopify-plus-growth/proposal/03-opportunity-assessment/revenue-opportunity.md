@@ -421,9 +421,9 @@ This is the multiplier effect: 6x (better traffic) × 3x (better page) = **18x i
 
 ## Investment vs. Opportunity
 
-### Growth Tier: $9,500/month
+### Growth Tier: $11,500/month
 
-**Annual Investment:** $114,000
+**Annual Investment:** $138,000
 
 **Year 1 Revenue Gain (Conservative):** $1.98M
 
@@ -434,8 +434,8 @@ This is the multiplier effect: 6x (better traffic) × 3x (better page) = **18x i
 **Net Profit Impact (Assuming 30% margin):**
 - Additional revenue: $1.98M
 - Gross profit: $594K
-- Less investment: $114K
-- **Net gain: $480K in year 1**
+- Less investment: $138K
+- **Net gain: $456K in year 1**
 
 ### Comparison to Current Spend
 

@@ -394,17 +394,17 @@
 - Monthly revenue: $165,000
 
 **Month 2 Target:**
-- Add-to-cart: 3.9%
-- Monthly revenue: $205,000
-- **Revenue increase: +$40K additional (+$85K cumulative)**
+- Add-to-cart: 3.2%
+- Monthly revenue: $175,000
+- **Revenue increase: +$22K additional (+$55K cumulative)**
 
 ### Investment vs Return
 
-**Month 2 Investment:** $9,500 (Growth Tier)  
-**Cumulative Investment:** $19,000  
-**Cumulative Return:** $85,000  
-**ROI:** 4.5x  
-**Payback:** Achieved in Month 1, Month 2 is pure profit acceleration
+**Month 2 Investment:** $11,500 (Growth Tier)  
+**Cumulative Investment:** $23,000  
+**Cumulative Return:** $55,000  
+**ROI:** 2.4x  
+**Payback:** Achieved in Month 1, Month 2 accelerates profit
 
 ---
 
@@ -449,18 +449,17 @@
 - Mitigation: Track assisted conversions, not just direct
 - Expectation: B2B content is long-term investment, product pages drive short-term revenue
 
-### Hour Cap Protection
+### Deliverable-Based Scope
 
-**Month 2 Hour Budget: 65 hours (Growth Tier)**
+**Month 2 Growth Tier Deliverables: 8-12 product pages optimized**
 
-- Week 5-6: 65 hours (Scale phase - aggressive)
-- Week 7-8: 55 hours (Authority building)
-- **Total: 120 hours estimated**
+- Week 5-6: Scale winning tactics from Month 1 to 8-12 additional products
+- Week 7-8: Authority building with B2B content and commercial keyword expansion
 
-**Overage Management:**
-- Defer advanced testing (video, comparison tool) to Month 3 if needed
+**Prioritization:**
+- Use proven templates from Month 1, minimize custom design
 - Focus on core work: Product optimization + commercial keywords
-- Track hours weekly to stay on budget
+- Track deliverables weekly to ensure 8-12 page target met
 
 ---
 
@@ -468,15 +467,15 @@
 
 **By End of Month 2, You Should See:**
 
-✅ Add-to-cart rate: 2.8% → 3.9% (+39%)  
-✅ 5 products fully optimized (covering $47K/month revenue)  
-✅ Commercial traffic: <5% → 20%  
-✅ Organic CTR: 1.40% → 1.90%  
+✅ Add-to-cart rate: 2.5% → 3.2% (+28%)  
+✅ 16-24 products fully optimized (covering major revenue)  
+✅ Commercial traffic: <5% → 15%  
+✅ Organic CTR: 1.40% → 1.80%  
 ✅ B2B authority content: 1,000+ views/month  
-✅ Revenue increase: +$85K/month cumulative  
-✅ Clear path to 5.0% target in Month 3  
+✅ Revenue increase: +$55K/month cumulative  
+✅ Clear path to 3.5% target in Month 3  
 
-**If these indicators are met, Month 3 will focus on refinement, authority, and hitting the 5.0% target.**
+**If these indicators are met, Month 3 will focus on refinement and hitting the 90-day milestone.**
 
 ---
 

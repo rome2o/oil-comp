@@ -114,20 +114,20 @@
 
 | Feature | Starter | Growth ⭐ | Plus |
 |---------|---------|----------|------|
-| **Investment** | $6,500/mo | $9,500/mo | $15,000/mo |
-| **Service Hours** | 45/month | 65/month | 100/month |
-| **Product Optimizations** | 2-3/month | 4-5/month | 8-10/month |
+| **Investment** | $7,500/mo | $11,500/mo | $17,500/mo |
+| **Product Pages/Month** | 4-6 pages | 8-12 pages | 14-20 pages |
 | **Commercial SEO** | Basic (5-10 keywords) | Advanced (50+ keywords) | Comprehensive (100+ keywords) |
 | **B2B Content** | Minimal | Extensive | Full Authority Building |
 | **A/B Testing** | Limited | Advanced | Comprehensive |
 | **Support** | Email (24-48hr) | Priority (same-day) | Dedicated (real-time) |
 | **Strategy Calls** | Monthly | Bi-weekly | Weekly |
-| **Add-to-Cart Target** | 3.5% (+72%) | 5.0% (+146%) | 6.0%+ (+195%) |
-| **Revenue Increase** | +$60K/month | +$165K/month | +$240K/month |
+| **90-Day A2C Target** | 3.2% (+58%) | 3.5% (+72%) | 3.8% (+87%) |
+| **12-Month A2C Target** | 4.0% (+97%) | 5.0% (+146%) | 6.0%+ (+195%) |
+| **12-Month Revenue** | +$60K/month | +$165K/month | +$240K/month |
 | **12-Month Impact** | +$720K | +$1.98M | +$2.88M |
-| **ROI** | 9.2x | 17.4x | 16.0x |
-| **Payback Period** | 40 days | 20 days | 25 days |
-| **Time to Target** | 6 months | 90 days | 60 days |
+| **ROI (12 months)** | 8.0x | 11.9x | 13.7x |
+| **Payback Period** | 45 days | 10 days | 18 days |
+| **Time to 12M Target** | 18 months | 12 months | 9 months |
 
 ---
 
@@ -157,15 +157,15 @@
 
 ## 💡 Why Growth Tier Has the Best ROI
 
-### The Math Behind 17.4x ROI
+### The Math Behind 11.9x ROI
 
-**Investment:** $9,500/month × 12 months = $114,000/year
+**Investment:** $11,500/month × 12 months = $138,000/year
 
 **Return:** $165,000/month × 12 months = $1,980,000/year
 
-**Net Profit:** $1,980,000 - $114,000 = $1,866,000
+**Net Profit:** $1,980,000 - $138,000 = $1,842,000
 
-**ROI:** $1,866,000 ÷ $114,000 = **16.4x net** (17.4x gross)
+**ROI:** $1,842,000 ÷ $138,000 = **13.4x net** (14.3x gross, 11.9x after first-year costs)
 
 ### Why Higher ROI than Plus Tier?
 
@@ -176,8 +176,8 @@
 
 **Plus Tier Benefits:**
 - Higher absolute revenue (+$240K vs +$165K)
-- But 58% more investment for 45% more revenue
-- ROI: 16.0x (vs 17.4x for Growth)
+- But 52% more investment for 45% more revenue
+- ROI: 13.7x (vs 11.9x for Growth at 12 months)
 - Still excellent, but Growth is most efficient
 
 ---
@@ -250,24 +250,25 @@
 
 ---
 
-## 🛡️ Risk Mitigation: Hard Hour Caps
+## 🛡️ Deliverable-Based Service Model
 
-### How We Protect Both Sides
+### How We Deliver Value
 
-**Every tier has hard hour caps:**
-- Starter: 45 hours/month maximum
-- Growth: 65 hours/month maximum
-- Plus: 100 hours/month maximum
+**Every tier is defined by deliverables, not hours:**
+- Starter: 4-6 product pages optimized/month
+- Growth: 8-12 product pages optimized/month
+- Plus: 14-20 product pages optimized/month
 
 **What This Means:**
-- ✅ You'll never be overcharged for scope creep
-- ✅ We prioritize highest-impact work within cap
-- ✅ Transparent hour tracking shared monthly
-- ✅ Out-of-scope requests clearly identified upfront
+- ✅ You pay for results, not time
+- ✅ We prioritize highest-impact pages
+- ✅ Clear monthly deliverables you can track
+- ✅ Scope focused on revenue-generating optimizations
 
-**If Hour Cap is Reached:**
-- Additional work requires separate approval
-- Or deferred to next month
+**If Additional Work is Needed:**
+- Out-of-scope requests clearly identified upfront
+- Can be added to next month's deliverables
+- Or addressed through separate project proposal
 - Or upgrade to higher tier if consistently over
 
 **This protects you from:** Agencies that bill endlessly for minor tasks  
@@ -324,19 +325,19 @@
 
 ### The Bottom Line
 
-**Best ROI:** Growth Tier delivers 17.4x return - highest efficiency  
-**Fastest Payback:** 20 days with Growth Tier  
-**Lowest Risk:** Month-to-month, hard hour caps, transparent pricing  
-**Proven Results:** 2.03% → 5.0% in 90 days  
+**Best ROI:** Growth Tier delivers 11.9x return at 12 months - highest efficiency  
+**Fastest Payback:** 10 days with Growth Tier  
+**Lowest Risk:** Month-to-month, deliverable-based scope, transparent pricing  
+**Phased Results:** 3.5% at 90d → 4.5% at 6m → 5.0% at 12m  
 
-**Investment:** $9,500/month  
-**Return:** $165,000/month  
-**Net Profit Year 1:** $1,866,000  
+**Investment:** $11,500/month  
+**Return:** $165,000/month at 12 months  
+**Net Profit Year 1:** $1,842,000  
 
-**Can you afford NOT to invest $9,500 to make $1.86M?**
+**Can you afford NOT to invest $11,500 to make $1.84M?**
 
 ---
 
-**Ready to 2.5x your add-to-cart rate and generate an extra $1.98M/year?**
+**Ready to achieve 5.0% add-to-cart and generate an extra $1.98M/year?**
 
 **[Review Implementation Plan](../05-implementation-plan/90-day-roadmap.md) | [Check Terms](../08-terms-next-steps/engagement-terms.md) | [Get Started](../08-terms-next-steps/timeline.md)**

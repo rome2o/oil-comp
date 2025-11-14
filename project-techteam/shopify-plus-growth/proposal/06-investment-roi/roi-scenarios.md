@@ -235,14 +235,14 @@ Even if you only achieve **50% of target:**
 
 ### Year 2-3 Projections (Assuming Expected Scenario)
 
-**Year 2 (Optimization Mode - $6,500/month Starter Tier):**
+**Year 2 (Optimization Mode - $7,500/month Starter Tier):**
 - Maintain 5.0% add-to-cart rate
 - Continue B2B SEO momentum
-- Add 1-2 product optimizations per month
-- Investment: $78,000
+- Add 4-6 product optimizations per month
+- Investment: $90,000
 - Revenue: $3.42M (maintain Year 1 level)
-- Net profit (Year 2 only): $3.34M
-- ROI: 43.8x
+- Net profit (Year 2 only): $3.33M
+- ROI: 37.0x
 
 **Year 3 (Compounding B2B Growth):**
 - B2B traffic compounds (SEO authority builds)
@@ -314,6 +314,6 @@ Even if you only achieve **50% of target:**
 
 **Bottom Line:** Even in the conservative scenario, you get 12.1x ROI. Expected scenario delivers 17.4x. Aggressive delivers 25.3x. All three are excellent investments.
 
-**Ready to commit to $9,500/month to generate $1.98M/year?**
+**Ready to commit to $11,500/month to generate $1.98M/year?**
 
 [Review Implementation Plan](../05-implementation-plan/90-day-roadmap.md) | [Check Pricing](./pricing-summary.md) | [Get Started](../08-terms-next-steps/timeline.md)

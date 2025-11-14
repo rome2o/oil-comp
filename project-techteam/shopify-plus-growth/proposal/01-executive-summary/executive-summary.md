@@ -387,13 +387,13 @@ Our ROI projections are conservative:
 
 **Solution:** Dual-track program targeting traffic quality AND product page optimization
 
-**Investment:** $9,500/month (Growth Tier recommended)
+**Investment:** $11,500/month (Growth Tier recommended)
 
-**Outcome:** +$165K/month revenue | 17.4x ROI | 20-day payback
+**Outcome:** +$77K/month at 90 days, +$165K/month at 12 months | 11.9x ROI | 10-day payback
 
-**Timeline:** 90-day roadmap with measurable milestones
+**Timeline:** Phased approach - 3.5% at 90d, 4.5% at 6m, 5.0% at 12m
 
-**Protection:** Hard hour caps, clear scope, month-to-month flexibility after initial 6 months
+**Protection:** Deliverable-based scope, clear outcomes, month-to-month flexibility
 
 **Next Step:** Review proposal, schedule discussion call, select tier
 

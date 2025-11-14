@@ -423,16 +423,16 @@
 - Monthly revenue: $120,000
 
 **Month 1 Target:**
-- Add-to-cart: 2.8%
-- Monthly revenue: $165,000
-- **Revenue increase: +$45,000/month**
+- Add-to-cart: 2.5%
+- Monthly revenue: $153,000
+- **Revenue increase: +$33,000/month**
 
 ### Investment vs Return
 
-**Investment:** $9,500 (Growth Tier)  
-**Return:** $45,000  
-**ROI:** 4.7x  
-**Payback:** 20-21 days
+**Investment:** $11,500 (Growth Tier)  
+**Return:** $33,000  
+**ROI:** 2.9x  
+**Payback:** 10-11 days
 
 ---
 
@@ -484,20 +484,20 @@
 - Mitigation: Rapid iteration—deploy Variation C if Variation B underperforms
 - Learning: Document what didn't work to avoid in Month 2
 
-### Hour Cap Protection
+### Deliverable-Based Scope
 
-**Month 1 Hour Budget: 65 hours (Growth Tier)**
+**Month 1 Growth Tier Deliverables: 8-12 product pages optimized**
 
-- Week 1: 40 hours (Discovery & Audit)
-- Week 2: 35 hours (Strategy & Design)
-- Week 3: 40 hours (Implementation)
-- Week 4: 25 hours (Measurement & Reporting)
-- **Total: 140 hours estimated**
+- Week 1: Discovery & audit (comprehensive keyword and UX analysis)
+- Week 2: Strategy & design (create optimization templates and guidelines)
+- Week 3: Implementation (optimize 8-12 product pages with proven tactics)
+- Week 4: Measurement & reporting (validate improvements and plan Month 2)
 
-**Overage Management:**
-- Prioritize highest-impact work first
-- Defer nice-to-have elements to Month 2 if approaching cap
-- Weekly hour tracking to stay on budget
+**Prioritization:**
+- Focus on highest-revenue products first
+- Use data-driven optimization tactics
+- Deploy winning variations quickly
+- Track performance weekly to stay on target
 
 ---
 
