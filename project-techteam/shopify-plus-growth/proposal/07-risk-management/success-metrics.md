@@ -10,86 +10,120 @@
 ### Metric 1: Add-to-Cart Rate (PRIMARY GOAL)
 
 **Baseline:** 2.03%  
-**90-Day Target:** 5.0%  
+**90-Day Target:** 3.5%  
+**6-Month Target:** 4.5%  
+**12-Month Target:** 5.0%+  
 **Measurement:** (Add-to-Cart Events ÷ Sessions) × 100
 
 **Monthly Targets:**
+
 | Month | Target | Improvement vs Baseline |
 |-------|--------|------------------------|
 | Month 0 (Baseline) | 2.03% | — |
-| Month 1 | 2.8% | +37% |
-| Month 2 | 3.9% | +92% |
-| Month 3 | 5.0% | +146% ✅ TARGET |
+| Month 1 | 2.8% | +38% |
+| Month 2 | 3.2% | +58% |
+| Month 3 | 3.5% | +72% ✅ 90-DAY TARGET |
+| Month 6 | 4.5% | +122% ✅ 6-MONTH TARGET |
+| Month 12 | 5.0% | +146% ✅ 12-MONTH TARGET |
 
 **Success Criteria:**
+
 - ✅ Green: ≥ Target
 - ⚠️ Yellow: 90-99% of target
 - 🚫 Red: <90% of target
 
 **If Red in Month 1:** Immediate strategy review and course correction
 
+**Why Phased Timeline?**
+
+Traffic quality transformation takes 6-12 months due to:
+
+1. 1,621 toxic backlinks requiring Google processing (3-6 months)
+2. Content ranking shifts from informational to commercial (4-6 months)
+3. New transactional content establishing authority (2-4 months)
+
+Product pages can be optimized quickly, but traffic quality improvements compound gradually.
+
 ---
 
 ### Metric 2: Monthly Revenue
 
 **Baseline:** $120,000/month  
-**90-Day Target:** $285,000/month  
+**90-Day Target:** $197,000/month (+$77K)  
+**6-Month Target:** $255,000/month (+$135K)  
+**12-Month Target:** $285,000/month (+$165K)  
 **Measurement:** Shopify sales reports
 
 **Monthly Targets:**
+
 | Month | Target Revenue | Increase vs Baseline |
 |-------|---------------|---------------------|
 | Month 0 | $120,000 | — |
-| Month 1 | $165,000 | +$45,000 |
-| Month 2 | $205,000 | +$85,000 |
-| Month 3 | $285,000 | +$165,000 ✅ |
+| Month 1 | $153,000 | +$33,000 |
+| Month 2 | $175,000 | +$55,000 |
+| Month 3 | $197,000 | +$77,000 ✅ 90-DAY TARGET |
+| Month 6 | $255,000 | +$135,000 ✅ 6-MONTH TARGET |
+| Month 12 | $285,000 | +$165,000 ✅ 12-MONTH TARGET |
 
 **Success Criteria:**
-- ✅ Green: ≥ $155K increase (Month 3)
-- ⚠️ Yellow: $120K-$155K increase
-- 🚫 Red: <$120K increase
+
+- ✅ Green: ≥ $70K increase (Month 3), ≥ $125K (Month 6), ≥ $155K (Month 12)
+- ⚠️ Yellow: 80-99% of target
+- 🚫 Red: <80% of target
 
 ---
 
 ### Metric 3: Commercial Traffic Percentage
 
 **Baseline:** <1% (almost entirely informational traffic)  
-**90-Day Target:** 30-40%  
+**90-Day Target:** 15-20%  
+**6-Month Target:** 25-30%  
+**12-Month Target:** 35-40%+  
 **Measurement:** Keyword intent classification from GSC data
 
 **Monthly Targets:**
+
 | Month | Target | Shift Required |
 |-------|--------|----------------|
 | Month 0 | <1% | — |
 | Month 1 | 5-8% | 5-8x increase |
-| Month 2 | 15-20% | 15-20x increase |
-| Month 3 | 30-40% | 30-40x increase ✅ |
+| Month 2 | 10-12% | 10-12x increase |
+| Month 3 | 15-20% | 15-20x increase ✅ 90-DAY TARGET |
+| Month 6 | 25-30% | 25-30x increase ✅ 6-MONTH TARGET |
+| Month 12 | 35-40% | 35-40x increase ✅ 12-MONTH TARGET |
 
 **Success Criteria:**
-- ✅ Green: ≥ 25% (Month 3)
-- ⚠️ Yellow: 15-25%
-- 🚫 Red: <15%
+
+- ✅ Green: ≥ 12% (Month 3), ≥ 22% (Month 6), ≥ 32% (Month 12)
+- ⚠️ Yellow: 80-99% of target
+- 🚫 Red: <80% of target
 
 ---
 
 ### Metric 4: Organic Click-Through Rate (CTR)
 
 **Baseline:** 1.20%  
-**90-Day Target:** 2.3%+  
+**90-Day Target:** 1.70%+  
+**6-Month Target:** 2.00%+  
+**12-Month Target:** 2.30%+  
 **Measurement:** Google Search Console
 
 **Monthly Targets:**
+
 | Month | Target CTR | Improvement |
 |-------|-----------|-------------|
 | Month 0 | 1.20% | — |
 | Month 1 | 1.40% | +17% |
-| Month 2 | 1.80% | +50% |
-| Month 3 | 2.30% | +92% ✅ |
+| Month 2 | 1.55% | +29% |
+| Month 3 | 1.70% | +42% ✅ 90-DAY TARGET |
+| Month 6 | 2.00% | +67% ✅ 6-MONTH TARGET |
+| Month 12 | 2.30% | +92% ✅ 12-MONTH TARGET |
 
 **Success Criteria:**
-- ✅ Green: ≥ 2.0% (Month 3)
-- ⚠️ Yellow: 1.7-2.0%
-- 🚫 Red: <1.7%
+
+- ✅ Green: ≥ 1.60% (Month 3), ≥ 1.85% (Month 6), ≥ 2.15% (Month 12)
+- ⚠️ Yellow: 80-99% of target
+- 🚫 Red: <80% of target
 
 ---
 
@@ -97,7 +131,22 @@
 
 ### Metric 5: Products Optimized
 
-**Target:** 8+ products fully optimized by Month 3
+**Target:** 24-36 products fully optimized by Month 3  
+**Measurement:** Count of completed product page optimizations
+
+**Monthly Targets:**
+
+| Month | Products Optimized | Cumulative | Revenue Coverage |
+|-------|-------------------|------------|------------------|
+| Month 1 | 8-12 pages | 8-12 | 25-30% of revenue |
+| Month 2 | 8-12 pages | 16-24 | 40-50% of revenue |
+| Month 3 | 8-12 pages | 24-36 | 60-70% of revenue ✅ |
+
+**Success Criteria:**
+
+- ✅ Green: 24+ products (covering 60%+ revenue)
+- ⚠️ Yellow: 16-23 products
+- 🚫 Red: <16 products
 
 **Monthly Tracking:**
 | Month | Products Optimized | Cumulative | Revenue Coverage |

@@ -7,41 +7,48 @@
 ## 📅 Overview
 
 **Total Timeline:** 4 weeks from proposal acceptance to Month 1 active work  
-**Critical Path:** Signing → Onboarding → Access Setup → Kickoff → Week 1 Execution
+**Critical Path:** Signing → Onboarding → Access Setup → Kickoff → Week 1 Execution  
+**Long-Term Milestones:** 90 days to 3.5% A2C, 6 months to 4.5% A2C, 12 months to 5.0% A2C
 
 ---
 
 ## Week -2: Proposal Review & Decision
 
 **Your Actions:**
+
 - Review proposal package (all documents)
 - Discuss with stakeholders and decision-makers
-- Review financial projections and ROI scenarios
+- Review financial projections and phased ROI scenarios
 - Clarify any questions (email or call)
 
 **Timeline:** 5-10 business days (your pace)
 
 **Questions to Answer:**
-- Does the 90-day roadmap align with our goals?
-- Is Growth Tier the right investment level?
+
+- Does the phased roadmap (90d→3.5%, 6m→4.5%, 12m→5.0%) align with our goals?
+- Is Growth Tier ($11,500/month) the right investment level?
 - Do we have internal resources to collaborate weekly?
 - Are we ready to commit to B2B positioning shift?
+- Do we understand why traffic quality takes 6-12 months to fully transform?
 
 ---
 
 ## Week -1: Contract & Payment
 
 **Monday-Tuesday: Contract Negotiation (If Needed)**
+
 - Review engagement terms
 - Request modifications if needed (usually minor)
 - Legal review (optional, recommended)
 
 **Wednesday: Sign Agreement**
+
 - Execute service agreement
-- Submit initial payment ($9,500 for Growth Tier)
+- Submit initial payment ($11,500 for Growth Tier)
 - Designate primary contacts
 
 **Thursday-Friday: Payment Processing**
+
 - Payment clears (2-3 business days for check/ACH)
 - Invoice confirmed
 - Service start date scheduled

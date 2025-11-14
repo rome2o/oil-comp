@@ -2,7 +2,7 @@
 
 **Service Agreement for:** HBNO Essential Natural Oils  
 **Program:** Product Page Optimization + Traffic Quality  
-**Tier:** Growth ($9,500/month) - Recommended
+**Tier:** Growth ($11,500/month) - Recommended
 
 ---
 
@@ -11,13 +11,16 @@
 ### 1. Service Duration
 
 **Month-to-Month Retainer:**
+
 - No long-term contract required
 - Services billed monthly in advance
 - 30-day cancellation notice required
 - Month-to-month flexibility
 
 **Recommended Initial Commitment:**
-- Minimum 90 days to see full results (2.03% → 5.0%)
+
+- Minimum 90 days to see 3.5% A2C results
+- Recommended 12 months to reach 5.0% A2C target (traffic quality transformation takes time)
 - Can cancel after Month 3 with 30 days' notice
 - No early termination penalty
 
@@ -26,17 +29,20 @@
 ### 2. Payment Terms
 
 **Monthly Retainer - Growth Tier:**
-- **Amount:** $9,500/month
+
+- **Amount:** $11,500/month
 - **Billing:** 1st of each month
 - **Payment Due:** Net-15 (within 15 days of invoice)
 - **Method:** Bank transfer, check, or ACH
 
 **Initial Payment:**
+
 - First month due upon signing agreement
 - Services begin within 7 days of payment received
 - Pro-rated if starting mid-month
 
 **Auto-Pay Option:**
+
 - Available for convenience
 - Automatic billing on 1st of month
 - Can cancel auto-pay with 30 days' notice
@@ -46,17 +52,21 @@
 ### 3. Service Scope
 
 **What's Included (Growth Tier):**
-- 65 hours/month maximum
+
+- **Deliverable-based pricing** (not hour-based)
+- 8-12 product page optimizations per month
 - Dual-track optimization (Traffic Quality + Product Pages)
-- 4-5 product page optimizations per month
-- 10-15 commercial keyword targeting per month
+- 15-20 commercial keyword targeting per month
+- Comprehensive toxic backlink cleanup (1,621 backlinks)
 - B2B content creation (2-3 pages/month)
 - A/B testing and analytics
-- Bi-weekly strategy calls (30-45 min)
+- Weekly strategy calls (30-45 min)
 - Monthly performance reports
 - Email support (same-day response)
+- Unlimited revisions on deliverables
 
 **What's NOT Included:**
+
 - Custom Shopify app development
 - Paid advertising management
 - Professional product photography
@@ -66,24 +76,26 @@
 
 ---
 
-### 4. Hour Cap Protection
+### 4. Deliverable-Based Model
 
-**Hard Hour Limits:**
-- Growth Tier: 65 hours/month maximum
-- Hours tracked transparently
-- Work prioritized within cap
-- Overages require explicit written approval
+**Fixed Monthly Deliverables:**
 
-**If Hour Cap Reached:**
+- Growth Tier: 8-12 product pages/month
+- No hourly tracking or invoicing
+- You're buying outcomes, not hours
+- Unlimited revisions on deliverables within scope
+
+**If Deliverables Complete Early:**
+
 - Additional work requires separate approval
-- Overage rate: $200/hour (if approved)
-- Or defer work to next month
-- Or upgrade to higher tier
+- Or bank time for next month's priorities
+- Or refine existing implementations
 
-**Hour Rollover:**
-- Unused hours do NOT roll over to next month
-- Flat monthly rate regardless of hours used
-- Incentive for efficiency, not padding hours
+**Scope Changes:**
+
+- Major scope additions require written approval
+- May require tier upgrade
+- Small refinements included in monthly deliverable count
 
 ---
 
