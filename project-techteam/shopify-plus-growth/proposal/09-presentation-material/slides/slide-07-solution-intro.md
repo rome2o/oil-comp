@@ -23,21 +23,24 @@
 - Backlink cleanup (remove Upwork damage)
 
 **Track 2: Product Page Optimization**
-- 4-5 pages optimized per month
+
+- 8-12 pages optimized per month (Growth Tier)
 - Mobile-first UX redesign
 - Trust signal implementation (COAs, certifications)
 - A/B testing validation
 - Conversion rate optimization
 
 **Why Both Tracks Matter (callout box):**
-- Better traffic × Better pages = Exponential results
-- Fixing only one delivers 50-70% of potential
-- Fixing both delivers 130-150%+ revenue increase
 
-**Formula Visual:**
-- Fix traffic only: +$77K/month
-- Fix pages only: +$87K/month
-- Fix both: **+$165K/month** (nearly double the impact)
+- Better traffic × Better pages = Exponential results
+- Fixing only one delivers partial results
+- Fixing both delivers 72% improvement in 90 days, 146% improvement in 12 months
+
+**Phased Timeline Visual:**
+
+- **90 Days:** 2.03% → 3.5% = +$77K/month
+- **6 Months:** 3.5% → 4.5% = +$135K/month
+- **12 Months:** 4.5% → 5.0%+ = +$165K/month
 
 ---
 
@@ -55,16 +58,19 @@
 
 **Track 2 Explanation:**
 > "**Track 2** addresses product pages:
-> - Optimize 4-5 product pages per month (prioritized by revenue)
+> - Optimize 8-12 product pages per month (prioritized by revenue)
 > - Redesign for mobile-first B2B experience
 > - Add trust signals: COAs, certifications, technical specs
 > - A/B test every change to validate improvement"
 
 **Why Both Tracks:**
-> "Why both tracks? Because better traffic converts at higher rates on better pages. It's a multiplier effect:
-> - Fix traffic only: +$77K/month
-> - Fix pages only: +$87K/month
-> - Fix both: **+$165K/month** (nearly double the impact)
+> "Why both tracks? Because better traffic converts at higher rates on better pages. It's a multiplier effect—but this transformation takes time:
+>
+> **90 days:** 2.03% → 3.5% (+$77K/month)
+> **6 months:** 3.5% → 4.5% (+$135K/month)
+> **12 months:** 4.5% → 5.0%+ (+$165K/month)
+>
+> Why the phased timeline? Because traffic quality transformation is constrained by Google's processing time—1,621 toxic backlinks to clean up, informational content rankings to shift, new transactional content to establish. We can optimize pages quickly, but traffic quality takes 6-12 months to fully shift.
 >
 > This isn't generic CRO or SEO. This is a systematic, data-driven program designed specifically to solve your 2.03% add-to-cart problem."
 

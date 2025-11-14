@@ -1,9 +1,9 @@
 # Month 3: Optimization & Authority
 
 **Timeline:** Weeks 9-12  
-**Target:** 3.9% → 5.0% add-to-cart (+28% from Month 2)  
-**Revenue Impact:** +$165K/month cumulative  
-**Focus:** Refine best practices + build B2B authority + maximize conversion + hit target
+**Target:** 3.2% → 3.5% add-to-cart (+9% from Month 2)  
+**Revenue Impact:** +$77K/month cumulative  
+**Focus:** Refine best practices + build B2B authority + maximize conversion + hit 90-day target
 
 ---
 
@@ -11,20 +11,20 @@
 
 ### Primary Goals
 
-1. **Hit 5.0% Add-to-Cart Target** - Achieve 146% improvement from 2.03% baseline
+1. **Hit 3.5% Add-to-Cart 90-Day Target** - Achieve 72% improvement from 2.03% baseline
 2. **Establish B2B Market Leadership** - Position HBNO as go-to bulk essential oil supplier
-3. **Optimize Remaining High-Value Products** - Extend proven template to 3 more products
+3. **Optimize Remaining High-Value Products** - Extend proven template to 8-12 more products
 4. **Create Scalable Systems** - Document playbooks and templates for ongoing optimization
-5. **Deliver Comprehensive 90-Day Report** - Prove ROI and plan 2026 strategy
+5. **Deliver Comprehensive 90-Day Report** - Prove ROI and plan for 6-month (4.5%) and 12-month (5.0%) targets
 
 ### Success Criteria
 
-- ✅ Add-to-cart rate: ≥ 4.8% (target: 5.0%)
-- ✅ Commercial traffic %: ≥ 30% (baseline: 20% from Month 2)
-- ✅ Organic CTR: ≥ 2.3% (baseline: 1.90%)
-- ✅ 8+ product pages fully optimized
-- ✅ Revenue impact: +$150K minimum cumulative
-- ✅ **Mission accomplished: 2.03% → 5.0%**
+- ✅ Add-to-cart rate: ≥ 3.4% (target: 3.5%)
+- ✅ Commercial traffic %: ≥ 15% (baseline: 10% from Month 2)
+- ✅ Organic CTR: ≥ 1.90% (baseline: 1.65%)
+- ✅ 24-36 product pages fully optimized
+- ✅ Revenue impact: +$70K minimum cumulative
+- ✅ **90-Day Mission accomplished: 2.03% → 3.5% (+72%)**
 
 ---
 

@@ -8,84 +8,101 @@
 
 ## 💰 Three-Tier Pricing Structure
 
-### Starter Tier: $6,500/month
+### Starter Tier: $7,500/month
 
-**Best For:** Maintenance mode after hitting targets OR conservative budget start
+**Best For:** Testing approach or slower-paced growth
 
 **What's Included:**
-- 45 hours/month service capacity
-- 2-3 product page optimizations per month
+
+- **4-6 product pages optimized per month** (deliverable-based, not hours)
 - Basic commercial SEO (5-10 keywords)
+- B2B landing page development
 - Monthly performance reporting
 - Email support (24-48hr response)
+- Unlimited revisions on deliverables
 
 **Expected Outcomes:**
-- Add-to-cart: 2.03% → 3.5% (+72%)
-- Revenue increase: +$60K/month
-- 12-month impact: +$720K
-- **ROI: 9.2x**
-- **Payback: 40 days**
+
+- Add-to-cart: 2.03% → 3.5% in 150 days (+72%)
+- Add-to-cart: 3.5% → 5.0% in 18 months (+146%)
+- Revenue increase (90 days): +$77K/month
+- Revenue increase (12 months): +$165K/month
+- **ROI (12 months): 12.2x**
+- **Payback: 30 days**
 
 **Why Choose Starter:**
+
 - Limited budget constraints
 - Want to test approach before scaling
-- Already achieved initial goals, need maintenance
-- Comfortable with slower pace (6 months to hit 5.0%)
+- Comfortable with slower pace (150 days to 3.5%, 18 months to 5.0%)
 
 ---
 
-### Growth Tier: $9,500/month ⭐ RECOMMENDED
+### Growth Tier: $11,500/month ⭐ RECOMMENDED
 
-**Best For:** Maximum impact in 90 days | Proven ROI leader
+**Best For:** Balanced approach | Proven ROI leader | Honest timeline
 
 **What's Included:**
-- 65 hours/month service capacity
+
+- **8-12 product pages optimized per month** (deliverable-based, not hours)
 - **Dual-track optimization:**
-  - Traffic Quality: Commercial SEO, B2B content, CTR optimization
-  - Product Pages: 4-5 optimizations per month, A/B testing, mobile UX
+  - Traffic Quality: Commercial SEO, B2B content, CTR optimization, comprehensive toxic backlink cleanup
+  - Product Pages: Mobile UX, A/B testing, trust signals (COAs, certifications)
 - Advanced analytics and insights
-- Bi-weekly strategy calls
+- Weekly strategy calls
 - Priority support (same-day response)
+- Unlimited revisions on deliverables
 
 **Expected Outcomes:**
-- Add-to-cart: 2.03% → 5.0% (+146%)
-- Revenue increase: +$165K/month
-- 12-month impact: +$1.98M
-- **ROI: 17.4x**
-- **Payback: 20 days**
+
+- Add-to-cart: 2.03% → 3.5% in 90 days (+72%)
+- Add-to-cart: 3.5% → 4.5% in 6 months (+122%)
+- Add-to-cart: 4.5% → 5.0%+ in 12 months (+146%)
+- Revenue increase (90 days): +$77K/month
+- Revenue increase (6 months): +$135K/month
+- Revenue increase (12 months): +$165K/month
+- **ROI (12 months): 9.6x**
+- **Payback: 10 days**
 
 **Why Choose Growth:**
-- Hit 5.0% target in 90 days (vs 6+ months with Starter)
+
+- Hit 3.5% target in 90 days (conservative, achievable)
+- Hit 5.0% target in 12 months (realistic for traffic transformation)
 - Address BOTH traffic quality + product pages simultaneously
 - Multiplier effect: Better traffic × Better pages = exponential results
-- Fastest path to profitability (20-day payback)
-- **Best ROI per dollar invested**
+- Fastest path to profitability (10-day payback)
+- **Honest timeline that accounts for Google processing toxic backlinks**
 
 ---
 
-### Plus Tier: $15,000/month
+### Plus Tier: $17,500/month
 
-**Best For:** Aggressive expansion | Full-service optimization
+**Best For:** Maximum speed | Urgent turnaround needed
 
 **What's Included:**
-- 100 hours/month service capacity
+
+- **14-20 product pages optimized per month** (deliverable-based, not hours)
 - Everything in Growth tier PLUS:
-  - Advanced personalization and AI recommendations
+  - Priority SEO cleanup with ongoing monitoring
+  - Advanced personalization and recommendations
   - Comprehensive checkout optimization
   - International B2B market expansion
   - Custom development and integrations
-  - Weekly strategy calls
+  - 2x weekly strategy calls
   - Dedicated account manager
 
 **Expected Outcomes:**
-- Add-to-cart: 2.03% → 6.0%+ (+195%)
-- Checkout: 53.3% → 60%+ (+13%)
-- Revenue increase: +$240K/month
-- 12-month impact: +$2.88M
-- **ROI: 16.0x**
-- **Payback: 25 days**
+
+- Add-to-cart: 2.03% → 3.5% in 75 days (+72%)
+- Add-to-cart: 3.5% → 5.0%+ in 10 months (+146%)
+- Revenue increase (75 days): +$77K/month
+- Revenue increase (10 months): +$165K/month
+- **ROI (10 months): 8.3x**
+- **Payback: 8 days**
 
 **Why Choose Plus:**
+
+- Need maximum speed (75 days to 3.5%, 10 months to 5.0%)
 - Want to optimize entire funnel (traffic + pages + checkout)
 - Aggressive growth goals beyond 5.0%
 - International B2B expansion plans

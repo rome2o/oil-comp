@@ -1,9 +1,9 @@
 # Month 2: Scaling & Testing
 
 **Timeline:** Weeks 5-8  
-**Target:** 2.8% → 3.9% add-to-cart (+39% from Month 1)  
-**Revenue Impact:** +$85K/month cumulative  
-**Focus:** Scale proven patterns + expand B2B content + optimize 4 more products
+**Target:** 2.8% → 3.2% add-to-cart (+14% from Month 1)  
+**Revenue Impact:** +$55K/month cumulative  
+**Focus:** Scale proven patterns + expand B2B content + optimize 8-12 more products
 
 ---
 
@@ -12,17 +12,17 @@
 ### Primary Goals
 
 1. **Scale Traffic Quality Wins** - Expand from 3 to 15 commercial keywords, build B2B authority
-2. **Optimize 4 More Products** - Deploy proven template to Peppermint, Lavender, Tea Tree, Eucalyptus
+2. **Optimize 8-12 More Products** - Deploy proven template to high-revenue product pages
 3. **Build B2B Infrastructure** - Create wholesale program pages, industry content, bulk pricing system
 4. **Validate Multiplier Effect** - Prove better traffic + better pages = exponential improvement
 
 ### Success Criteria
 
-- ✅ Add-to-cart rate: ≥ 3.7% (target: 3.9%)
-- ✅ Commercial traffic %: ≥ 15% (baseline: 3-5% from Month 1)
-- ✅ Organic CTR: ≥ 1.80% (baseline: 1.40%)
-- ✅ 5 product pages optimized total (Rosemary + 4 more)
-- ✅ Revenue impact: +$75K minimum cumulative
+- ✅ Add-to-cart rate: ≥ 3.1% (target: 3.2%)
+- ✅ Commercial traffic %: ≥ 10% (baseline: 3-5% from Month 1)
+- ✅ Organic CTR: ≥ 1.65% (baseline: 1.40%)
+- ✅ 16-24 product pages optimized total (8-12 from Month 1 + 8-12 more)
+- ✅ Revenue impact: +$50K minimum cumulative
 
 ---
 

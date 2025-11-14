@@ -2,7 +2,7 @@
 
 **Timeline:** Weeks 1-4  
 **Target:** 2.03% → 2.8% add-to-cart (+37%)  
-**Revenue Impact:** +$45K/month  
+**Revenue Impact:** +$33K/month  
 **Focus:** Establish baselines, deploy high-impact changes, validate dual-track approach
 
 ---
@@ -12,7 +12,7 @@
 ### Primary Goals
 
 1. **Establish Performance Baselines** - Comprehensive tracking for both traffic quality and product pages
-2. **Deploy First Quick Wins** - Optimize 1 high-revenue product page + launch B2B landing page
+2. **Deploy First Quick Wins** - Optimize 8-12 high-revenue product pages + launch B2B landing page
 3. **Validate Approach** - Prove dual-track strategy through early results
 4. **Set Success Patterns** - Identify what works for Month 2-3 scaling
 
@@ -21,8 +21,8 @@
 - ✅ Add-to-cart rate: ≥ 2.7% (target: 2.8%)
 - ✅ Commercial traffic %: ≥ 5% (baseline: <1%)
 - ✅ Organic CTR: ≥ 1.40% (baseline: 1.20%)
-- ✅ 1 product page optimized with validated +20% add-to-cart improvement
-- ✅ Revenue impact: +$40K minimum
+- ✅ 8-12 product pages optimized with validated improvements
+- ✅ Revenue impact: +$30K minimum
 
 ---
 

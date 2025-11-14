@@ -21,12 +21,15 @@ $120,000/Month Revenue
 ```
 
 **Comparison Box (highlighted):**
-- **Current:** 2.03% add-to-cart
-- **Industry Standard:** 8-10% add-to-cart
-- **Your Potential:** 8% = $285,000/month
-- **Missing:** $165,000/month
 
-**Annual Impact:** $2,000,000/year in lost revenue
+- **Current:** 2.03% add-to-cart
+- **90-Day Target:** 3.5% add-to-cart = $197,000/month
+- **6-Month Target:** 4.5% add-to-cart = $255,000/month
+- **12-Month Target:** 5.0%+ add-to-cart = $285,000/month
+- **Missing (at 90 days):** $77,000/month
+- **Missing (at 12 months):** $165,000/month
+
+**Annual Impact (12 months):** $1,980,000/year in additional revenue potential
 
 ---
 
@@ -42,9 +45,11 @@ $120,000/Month Revenue
 4. **The bottleneck:** Getting people to engage in the first place
 
 **The Financial Impact:**
-- Gap between 2.03% and 8% = $165,000/month
-- That's $2 million/year left on the table
-- Every single month this continues, you lose $165K
+
+- 90-day gap (2.03% → 3.5%) = $77,000/month
+- 12-month gap (2.03% → 5.0%) = $165,000/month
+- That's $1.98 million/year in additional revenue potential
+- Every month this problem continues, you're missing out on growth
 
 ---
 
