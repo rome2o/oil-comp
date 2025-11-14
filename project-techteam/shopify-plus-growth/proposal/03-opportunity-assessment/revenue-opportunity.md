@@ -66,37 +66,56 @@ By addressing BOTH root causes—traffic quality AND product page optimization�
 ### Scenario C: Dual-Track Approach (RECOMMENDED)
 
 **Assumptions:**
-- **Track 1:** Keyword strategy shifts to commercial (60% info / 40% commercial traffic mix)
+- **Track 1:** Keyword strategy shifts to commercial (gradual transition over 6-12 months)
 - **Track 2:** Product pages fully optimized (trust signals, mobile UX, B2B features)
 - **Multiplier Effect:** Better traffic × Better pages = Superior conversion
-- Add-to-cart improves: 2.03% → 5.0% (+146%)
+- **Realistic Timeline:** 3.5% at 90 days → 4.5% at 6 months → 5.0%+ at 12 months
 
-**Financial Impact (Conservative):**
+**Why 90 Days ≠ Full Traffic Transformation:**
+- 1,621 toxic backlinks take 3-6 months for Google to process after disavowal
+- Informational content already ranking takes 4-6 months to shift
+- New transactional content needs 2-4 months to establish authority
+- Traffic mix at 90 days: ~75/25 (informational/transactional), not 40/60
 
-| Metric | Current | Projected | Change |
-|--------|---------|-----------|---------|
-| Sessions/Month | 36,490 | 39,000 | +7% (better targeting + improved SEO) |
-| Add-to-Cart Rate | 2.03% | 5.0% | +146% |
-| Add-to-Cart Count | 739 | 1,950 | +1,211 |
-| Reached Checkout | 393 | 1,039 | +646 (53.3% of add-to-cart) |
-| Orders | 272 | 717 | +445 (69% of checkout) |
-| Revenue/Month | $120,000 | $285,000 | **+$165K** |
-| **Annual Revenue** | $1.44M | $3.42M | **+$1.98M** |
-
-**ROI:** 17.4x | **Payback:** 20 days
-
-**Financial Impact (Aggressive - 90-Day Target):**
+**Financial Impact (90-Day Milestone):**
 
 | Metric | Current | 90-Day Target | Change |
 |--------|---------|--------------|---------|
-| Sessions/Month | 36,490 | 42,000 | +15% (full B2B content strategy impact) |
-| Add-to-Cart Rate | 2.03% | 6.5% | +220% |
-| Add-to-Cart Count | 739 | 2,730 | +1,991 |
-| Orders | 272 | 1,001 | +729 |
-| Revenue/Month | $120,000 | $400,000+ | **+$280K** |
-| **Annual Revenue** | $1.44M | $4.8M | **+$3.36M** |
+| Sessions/Month | 36,490 | 38,500 | +6% (better targeting begins) |
+| Add-to-Cart Rate | 2.03% | 3.5% | +72% |
+| Add-to-Cart Count | 739 | 1,348 | +609 |
+| Reached Checkout | 393 | 718 | +325 (53.3% of add-to-cart) |
+| Orders | 272 | 496 | +224 (69% of checkout) |
+| Revenue/Month | $120,000 | $218,000 | **+$98K** |
+| **90-Day Revenue Gain** | — | — | **~$77K/month** (conservative) |
 
-**ROI:** 29.5x | **Payback:** 12 days
+**ROI at 90 days:** 8.1x | **Payback:** 35 days
+
+**Financial Impact (6-Month Milestone):**
+
+| Metric | Current | 6-Month Target | Change |
+|--------|---------|---------------|---------|
+| Sessions/Month | 36,490 | 40,000 | +10% (traffic quality improving) |
+| Add-to-Cart Rate | 2.03% | 4.5% | +122% |
+| Add-to-Cart Count | 739 | 1,800 | +1,061 |
+| Orders | 272 | 661 | +389 |
+| Revenue/Month | $120,000 | $291,000 | **+$171K** |
+| **6-Month Revenue Gain** | — | — | **~$135K/month** (conservative) |
+
+**ROI at 6 months:** 14.2x | **Payback:** 25 days
+
+**Financial Impact (12-Month Target - Full Optimization):**
+
+| Metric | Current | 12-Month Target | Change |
+|--------|---------|----------------|---------|
+| Sessions/Month | 36,490 | 42,000 | +15% (full B2B content strategy impact) |
+| Add-to-Cart Rate | 2.03% | 5.0-6.0% | +146-196% |
+| Add-to-Cart Count | 739 | 2,100-2,520 | +1,361-1,781 |
+| Orders | 272 | 771-925 | +499-653 |
+| Revenue/Month | $120,000 | $285,000-340,000 | **+$165K-220K** |
+| **Annual Revenue** | $1.44M | $3.42M-4.08M | **+$1.98M-2.64M** |
+
+**ROI at 12 months:** 17.4-23.2x | **Payback:** 20 days
 
 ---
 
@@ -258,9 +277,11 @@ This is the multiplier effect: 6x (better traffic) × 3x (better page) = **18x i
 
 | Month | Focus | Cumulative Revenue Gain | Cumulative ROI |
 |-------|-------|------------------------|----------------|
-| **Month 1** | Foundation + Quick Wins | +$42K/month | 4.4x |
-| **Month 2** | B2B Content + Scaling | +$97K/month | 10.2x |
-| **Month 3** | Authority + Optimization | +$165K/month | 17.4x |
+| **Month 1** | Foundation + Quick Wins | +$33K/month | 3.5x |
+| **Month 2** | B2B Content + Scaling | +$55K/month | 5.8x |
+| **Month 3** | Optimization + Testing | +$77K/month | 8.1x |
+| **Month 6** | Traffic Quality Shift | +$135K/month | 14.2x |
+| **Month 12** | Full Optimization | +$165K/month | 17.4x |
 
 ### By Initiative
 
@@ -280,48 +301,47 @@ This is the multiplier effect: 6x (better traffic) × 3x (better page) = **18x i
 ### Conservative Case (60% Goal Achievement)
 
 **Assumptions:**
+
 - Only 60% of optimizations succeed as planned
 - Traffic quality shift slower than expected
-- Add-to-cart reaches 4.0% (not 5.0%)
+- Add-to-cart reaches 3.0% at 90 days (not 3.5%)
 
 **Outcome:**
-- **+$99K/month** (+83% revenue increase)
-- **ROI: 10.4x**
+
+- **+$55K/month** at 90 days (+46% revenue increase)
+- **+$99K/month** at 6 months (+83% revenue increase)
+- **ROI: 10.4x** at 6 months
 - **Payback: 34 days**
-
-**Still an Excellent Return**
-
----
 
 ### Expected Case (80% Goal Achievement)
 
 **Assumptions:**
+
 - Most optimizations succeed
 - Traffic quality shift on track
-- Add-to-cart reaches 4.8%
+- Add-to-cart reaches 3.5% at 90 days, 4.8% at 12 months
 
 **Outcome:**
-- **+$158K/month** (+132% revenue increase)
-- **ROI: 16.6x**
+
+- **+$77K/month** at 90 days (+64% revenue increase)
+- **+$158K/month** at 12 months (+132% revenue increase)
+- **ROI: 16.6x** at 12 months
 - **Payback: 21 days**
-
-**Most Likely Scenario**
-
----
 
 ### Aggressive Case (100%+ Goal Achievement)
 
 **Assumptions:**
+
 - All optimizations exceed expectations
 - Quick B2B traction
-- Add-to-cart reaches 6.0%+
+- Add-to-cart reaches 4.0% at 90 days, 6.0%+ at 12 months
 
 **Outcome:**
-- **+$240K/month** (+200% revenue increase)
-- **ROI: 25.3x**
-- **Payback: 14 days**
 
-**Stretch Goal (Months 4-6)**
+- **+$110K/month** at 90 days (+92% revenue increase)
+- **+$240K/month** at 12 months (+200% revenue increase)
+- **ROI: 25.3x** at 12 months
+- **Payback: 14 days**
 
 ---
 

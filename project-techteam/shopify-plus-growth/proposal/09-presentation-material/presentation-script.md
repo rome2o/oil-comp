@@ -275,7 +275,7 @@ This isn't generic CRO or SEO. This is a systematic, data-driven program designe
 
 **[TO JONIDA]:** "This addresses everything you've been seeing—wrong traffic, poor mobile experience, missing trust signals. It's a complete turnaround strategy."
 
-**[TO JOSEF]:** "This is how we go from bleeding $165K/month to adding it. Dual-track means fast results—90 days instead of 6-12 months."
+**[TO JOSEF]:** "This is how we go from bleeding potential revenue to capturing it. Dual-track means we start seeing results in 90 days, with continued growth beyond that as traffic quality improves."
 
 ---
 
@@ -301,7 +301,7 @@ This isn't generic CRO or SEO. This is a systematic, data-driven program designe
 - Conversion tracking and refinement
 - International B2B expansion (if applicable)
 - Ongoing authority building
-- Target: 40% commercial traffic mix
+- Target: Traffic quality improving (Google processing cleanup)
 
 **Track 2: Product Page Optimization**
 
@@ -321,14 +321,16 @@ This isn't generic CRO or SEO. This is a systematic, data-driven program designe
 - Remaining priority products
 - Continuous optimization
 - Performance refinement
-- Target: 5.0% add-to-cart rate
+- Target: 3.5% add-to-cart rate
 
 **The Multiplier Effect:**
-- Month 1: Quick wins + foundation (expect 2.5-3.0% add-to-cart)
-- Month 2: Scaling impact (expect 3.5-4.0% add-to-cart)
-- Month 3: Full optimization (expect 5.0% add-to-cart)
+- Month 1: Quick wins + foundation (expect 2.8% add-to-cart)
+- Month 2: Scaling impact (expect 3.2% add-to-cart)
+- Month 3: Full optimization (expect 3.5% add-to-cart)
+- Month 6: Traffic quality shift (expect 4.5% add-to-cart)
+- Month 12: Full transformation (expect 5.0%+ add-to-cart)
 
-"Here's exactly how this works over 90 days:
+"Here's exactly how this works over 90 days—and beyond:
 
 **Track 1** runs in parallel with **Track 2**—we're not doing one and then the other, we're doing both simultaneously.
 
@@ -342,15 +344,24 @@ Month 2 is about scaling:
 - We launch dedicated B2B landing pages for bulk buyers
 - We add trust signals and technical data across more products
 - We expand commercial keyword targeting
-- You'll see add-to-cart rates climbing from 2% toward 4%
+- You'll see add-to-cart rates climbing from 2% toward 3%+
 
 Month 3 is about optimization:
 - We refine based on real data from Months 1 and 2
 - We complete the product page portfolio
-- We hit our target: 5% add-to-cart rate
-- You'll see $165K+ additional revenue per month
+- We hit our 90-day target: 3.5% add-to-cart rate
+- You'll see $77K+ additional revenue per month
 
-This is a proven methodology. We're not experimenting on your business—we're executing a battle-tested playbook."
+**But here's the important part:**
+
+Page improvements give us immediate lift in 90 days. Traffic quality transformation takes longer—Google needs 3-6 months to process the backlink cleanup and recognize our new commercial content.
+
+So you'll see:
+- **90 days:** 3.5% A2C from page improvements = $77K/month additional
+- **6 months:** 4.5% A2C as traffic quality shifts = $135K/month additional  
+- **12 months:** 5.0%+ A2C with full transformation = $165K+/month additional
+
+This is a proven methodology. We're not experimenting on your business—we're executing a battle-tested playbook with realistic expectations."
 
 **[TO JONIDA]:** "Each month has clear deliverables and measurable milestones. You'll see progress every week."
 
@@ -367,8 +378,9 @@ This is a proven methodology. We're not experimenting on your business—we're e
 - B2B e-commerce average: 6-8%
 - Shopify Plus stores (optimized): 10-12%
 - **HBNO current:** 2.03%
-- **HBNO target (90 days):** 5.0%
-- **HBNO potential (6 months):** 8.0%
+- **HBNO target (90 days):** 3.5%
+- **HBNO target (6 months):** 4.5%
+- **HBNO potential (12 months):** 5.0%+
 
 **Our Methodology Validation:**
 - Dual-track approach: 2.5x faster than single-track
@@ -386,7 +398,13 @@ This is a proven methodology. We're not experimenting on your business—we're e
 
 **Industry benchmarks** show that 8-10% add-to-cart rates are standard. You're at 2.03%. This isn't aspirational—it's achievable.
 
-Our target of 5% in 90 days is conservative. We're not promising you'll hit 10% overnight. We're methodically moving you from 2% to 5%, then 5% to 8% over 6 months.
+Our target of 3.5% in 90 days is conservative and realistic. We're not promising you'll hit 5% overnight because traffic quality takes time to shift. Here's the truth:
+
+Your site has 1,621 toxic backlinks driving the wrong traffic. Even when we disavow them immediately, Google needs 3-6 months to process that. The wrong traffic keeps coming during that period.
+
+What we CAN control in 90 days is your product pages—that's where we'll see immediate lift to 3.5%. As traffic quality improves over 6-12 months, that 3.5% becomes 4.5%, then 5%+.
+
+I'd rather set honest expectations and beat them than promise 5% in 90 days and disappoint you.
 
 **Our methodology is proven:**
 - Dual-track (traffic + pages) delivers 2.5x faster results than fixing one thing at a time
@@ -485,7 +503,7 @@ Every week has clear deliverables. Every month has measurable milestones. You'll
 
 **[TO JONIDA]:** "You'll get weekly updates with screenshots, data, and progress against milestones. Full transparency."
 
-**[TO JOSEF]:** "90 days. That's 12 weeks from signature to $165K/month additional revenue. Fast movement, clear results."
+**[TO JOSEF]:** "90 days. That's 12 weeks from signature to 3.5% A2C and $77K/month additional revenue—with continued growth to 5%+ over 6-12 months. Fast movement, clear results."
 
 ---
 
@@ -497,7 +515,9 @@ Every week has clear deliverables. Every month has measurable milestones. You'll
 |---|---|---|---|
 | **Monthly Investment** | $6,500 | $9,500 | $15,000 |
 | **Hours/Month** | 40 hours | 80 hours | 120 hours |
-| **Timeline to 5% Add-to-Cart** | 6 months | 90 days | 60 days |
+| **90-Day Target** | 3.0% A2C | 3.5% A2C | 4.0% A2C |
+| **6-Month Target** | 4.0% A2C | 4.5% A2C | 5.0% A2C |
+| **12-Month Target** | 4.5% A2C | 5.0% A2C | 5.5%+ A2C |
 | **Product Pages/Month** | 2-3 pages | 4-5 pages | 6-8 pages |
 | **Commercial Keywords** | 5-10 keywords | 15-20 keywords | 25-30 keywords |
 | **B2B Landing Pages** | 1 page | 2-3 pages | 4-5 pages |
@@ -522,32 +542,32 @@ I've structured three tiers based on speed and scope:
 **Starter Tier** ($6,500/month):
 - This is for businesses that want to test the approach first
 - 40 hours/month, 2-3 product pages optimized
-- Timeline: 6 months to hit 5% add-to-cart
+- Timeline: 12 months to hit 5% add-to-cart (steady, gradual growth)
 - Good for cautious investors, but slower results
 
 **Growth Tier** ($9,500/month) ⭐ **RECOMMENDED**:
 - This is the balanced approach—fast results without overspending
 - 80 hours/month, 4-5 product pages optimized
-- Timeline: 90 days to hit 5% add-to-cart
-- This is what I recommend for your situation
+- Timeline: 90 days to hit 3.5% → 6 months to 4.5% → 12 months to 5.0%+
+- This is what I recommend for your situation—realistic targets with sustained growth
 
 **Plus Tier** ($15,000/month):
-- This is maximum speed—60 days to results instead of 90
+- This is maximum speed—aggressive timeline with more resources
 - 120 hours/month, 6-8 product pages optimized
-- Timeline: 60 days to hit 5% add-to-cart
+- Timeline: 90 days to hit 4.0% → 6 months to 5.0%+
 - Best for urgent turnarounds, and the $2,500 audit is waived
 
 **Now here's the important part:**
 
 You're currently spending ~$10,000/month on Upwork. And getting negative results—conversions down 44%.
 
-Growth Tier is $9,500/month. That's $500 LESS than you're spending now. But instead of going backwards, you're going forward.
+Growth Tier is $9,500/month. That's $500 LESS than you're spending now. But instead of going backwards, you're going forward—with honest, achievable targets.
 
 **Given your situation**, I'm recommending Growth Tier, and I'll waive the $2,500 audit fee. You're getting $12,000 worth of value for $9,500/month—and it's still less than you're spending on Upwork."
 
-**[TO JONIDA]:** "Growth Tier is the sweet spot—fast enough to see results in 90 days, affordable enough to justify easily."
+**[TO JONIDA]:** "Growth Tier is the sweet spot—realistic 90-day target of 3.5%, with continued growth beyond that. Affordable and achievable."
 
-**[TO JOSEF]:** "You're already spending $10K/month getting hurt. This is $500 less per month to grow instead of shrink. Plus I'm waiving the $2,500 audit—that's $2,500 you win right there."
+**[TO JOSEF]:** "You're already spending $10K/month getting hurt. This is $500 less per month to grow instead of shrink. Plus I'm waiving the $2,500 audit—that's $2,500 you win right there. And I'm being honest about timelines instead of overpromising."
 
 ---
 
@@ -564,22 +584,40 @@ Growth Tier is $9,500/month. That's $500 LESS than you're spending now. But inst
 - **ROI: 3.5x** (payback in 9 days)
 
 **Month 2:**
-- Add-to-cart: 2.8% → 3.8%
-- Revenue increase: +$77,000
+- Add-to-cart: 2.8% → 3.2%
+- Revenue increase: +$55,000
 - Investment: $9,500
-- **ROI: 8.1x** (payback in 4 days)
+- **ROI: 5.8x** (payback in 5 days)
 
 **Month 3:**
-- Add-to-cart: 3.8% → 5.0%
-- Revenue increase: +$165,000
+- Add-to-cart: 3.2% → 3.5%
+- Revenue increase: +$77,000
 - Investment: $9,500
-- **ROI: 17.4x** (payback in 1.7 days)
+- **ROI: 8.1x** (payback in 3.7 days)
 
 **90-Day Total:**
 - Total investment: $28,500
-- Total revenue increase: $275,000
-- Net profit: $246,500
-- **Overall ROI: 9.7x**
+- Total revenue increase: $165,000
+- Net profit: $136,500
+- **Overall ROI: 5.8x**
+
+**6-Month Projection (Traffic Quality Improving):**
+
+**Month 6:**
+- Add-to-cart: 4.5%
+- Revenue increase: +$135,000/month
+- Total 6-month investment: $57,000
+- Total 6-month revenue increase: $765,000
+- **Overall ROI: 13.4x**
+
+**12-Month Vision (Full Transformation):**
+
+**Month 12:**
+- Add-to-cart: 5.0%+
+- Revenue increase: +$165,000/month
+- Total 12-month investment: $114,000
+- Total 12-month revenue increase: $1,650,000+
+- **Overall ROI: 14.5x+**
 
 **6-Month Projection:**
 - Add-to-cart: 5.0% → 8.0%

@@ -1,0 +1,867 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HBNO Growth Accelerator - Strategic Proposal</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.6.0/dist/reset.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.6.0/dist/reveal.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.6.0/dist/theme/white.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        :root {
+            --primary-blue: #1E3A8A;
+            --success-green: #059669;
+            --danger-red: #DC2626;
+            --warning-orange: #F59E0B;
+            --neutral-gray: #1F2937;
+            --light-gray: #F3F4F6;
+        }
+
+        .reveal {
+            font-family: 'Inter', sans-serif;
+            font-size: 32px;
+        }
+
+        .reveal h1 {
+            color: var(--primary-blue);
+            font-size: 2.5em;
+            font-weight: 700;
+            text-transform: none;
+        }
+
+        .reveal h2 {
+            color: var(--primary-blue);
+            font-size: 1.8em;
+            font-weight: 600;
+            text-transform: none;
+        }
+
+        .reveal h3 {
+            color: var(--neutral-gray);
+            font-size: 1.3em;
+            font-weight: 600;
+            text-transform: none;
+        }
+
+        .positive {
+            color: var(--success-green);
+            font-weight: 700;
+        }
+
+        .negative {
+            color: var(--danger-red);
+            font-weight: 700;
+        }
+
+        .warning {
+            color: var(--warning-orange);
+            font-weight: 700;
+        }
+
+        .emphasis-box {
+            background: var(--primary-blue);
+            color: white;
+            padding: 30px;
+            border-radius: 10px;
+            font-size: 1.2em;
+            font-weight: 600;
+            margin: 30px 0;
+        }
+
+        .callout {
+            background: #FEF3C7;
+            border-left: 5px solid var(--warning-orange);
+            padding: 20px 30px;
+            margin: 20px 0;
+            text-align: left;
+            font-size: 0.9em;
+        }
+
+        .callout-danger {
+            background: #FEE2E2;
+            border-left: 5px solid var(--danger-red);
+            padding: 20px 30px;
+            margin: 20px 0;
+            text-align: left;
+            font-size: 0.9em;
+        }
+
+        .callout-success {
+            background: #D1FAE5;
+            border-left: 5px solid var(--success-green);
+            padding: 20px 30px;
+            margin: 20px 0;
+            text-align: left;
+            font-size: 0.9em;
+        }
+
+        .split-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 50px;
+            align-items: center;
+            margin: 30px 0;
+        }
+
+        .arrow-large {
+            font-size: 6em;
+            margin: 20px 0;
+        }
+
+        .big-number {
+            font-size: 3em;
+            font-weight: 700;
+            margin: 20px 0;
+        }
+
+        table {
+            font-size: 0.75em;
+            margin: 20px auto;
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th {
+            background: var(--primary-blue);
+            color: white;
+            padding: 15px;
+            text-align: left;
+            font-weight: 600;
+        }
+
+        td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #E5E7EB;
+            text-align: left;
+        }
+
+        tr:nth-child(even) {
+            background: #F9FAFB;
+        }
+
+        .recommended {
+            background: #D1FAE5 !important;
+            font-weight: 700;
+        }
+
+        .protection-grid {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 30px;
+            margin: 40px 0;
+            font-size: 0.7em;
+        }
+
+        .protection-item {
+            text-align: center;
+        }
+
+        .protection-icon {
+            font-size: 3em;
+            margin-bottom: 10px;
+        }
+
+        .timeline {
+            display: flex;
+            justify-content: space-between;
+            margin: 30px 0;
+            font-size: 0.7em;
+        }
+
+        .timeline-item {
+            flex: 1;
+            text-align: center;
+            padding: 0 10px;
+        }
+
+        .timeline-item h4 {
+            color: var(--primary-blue);
+            margin-bottom: 10px;
+            font-size: 1.2em;
+        }
+
+        ul {
+            text-align: left;
+            font-size: 0.85em;
+        }
+
+        .funnel {
+            text-align: center;
+            font-size: 0.9em;
+            line-height: 2;
+        }
+
+        .funnel-arrow {
+            font-size: 2em;
+            color: var(--primary-blue);
+        }
+
+        .comparison-table td:first-child {
+            font-weight: 600;
+        }
+
+        .center-content {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="reveal">
+        <div class="slides">
+            
+            <!-- Slide 1: Title -->
+            <section>
+                <h1>HBNO Growth Accelerator</h1>
+                <h2>Strategic Proposal</h2>
+                <p style="font-size: 1.2em; margin-top: 50px;"><strong>Transforming Traffic Into Revenue</strong></p>
+            </section>
+
+            <!-- Slide 2: Traffic Paradox -->
+            <section>
+                <h2>The Traffic Paradox</h2>
+                <div class="split-container">
+                    <div>
+                        <div class="arrow-large positive">↑</div>
+                        <h3 class="positive">+99% Traffic</h3>
+                        <p><strong>36,490 sessions/month</strong></p>
+                    </div>
+                    <div>
+                        <div class="arrow-large negative">↓</div>
+                        <h3 class="negative">-44% Conversions</h3>
+                        <p><strong>2.03% add-to-cart rate</strong></p>
+                    </div>
+                </div>
+                <div class="big-number">❓</div>
+                <div class="emphasis-box">Something is fundamentally broken</div>
+            </section>
+
+            <!-- Slide 3: Current Situation -->
+            <section>
+                <h2>Current Situation</h2>
+                <div class="funnel">
+                    <p><strong>📊 36,490 sessions/month</strong> (100%)</p>
+                    <div class="funnel-arrow">↓</div>
+                    <p><strong>🛒 741 add-to-cart</strong> (2.03%)</p>
+                    <div class="funnel-arrow">↓</div>
+                    <p><strong>💰 Current Revenue:</strong> $120,000/month</p>
+                    <div class="funnel-arrow">↓</div>
+                    <p><strong>🎯 Potential Revenue:</strong> $285,000/month at 5%</p>
+                </div>
+                <div class="callout">
+                    <strong>90-Day Target:</strong> 3.5% = <strong>$77K/month</strong> additional revenue<br>
+                    <strong>Long-Term Potential:</strong> 5.0% = <strong>$165K/month</strong> additional revenue
+                </div>
+            </section>
+
+            <!-- Slide 4: Upwork Trap -->
+            <section>
+                <h2>The Upwork Trap</h2>
+                <h3>Timeline of Disaster</h3>
+                <p style="font-size: 0.8em;"><strong>September 2024</strong> → <strong>March 2025</strong> → <strong>Present</strong><br>
+                Project Start | Disaster Unfolds | Conversions Down</p>
+                
+                <table>
+                    <tr>
+                        <th>Metric</th>
+                        <th>Result</th>
+                        <th>Outcome</th>
+                    </tr>
+                    <tr>
+                        <td>Monthly Spend</td>
+                        <td>$10,000</td>
+                        <td>$80K total spent</td>
+                    </tr>
+                    <tr>
+                        <td>Traffic Change</td>
+                        <td>+99%</td>
+                        <td>✅ Success</td>
+                    </tr>
+                    <tr>
+                        <td>Conversion Change</td>
+                        <td>-44%</td>
+                        <td>❌ Failure</td>
+                    </tr>
+                    <tr>
+                        <td>Add-to-Cart Rate</td>
+                        <td>2.03% (declining)</td>
+                        <td>❌ Failure</td>
+                    </tr>
+                    <tr>
+                        <td>SEO Damage</td>
+                        <td>1,621 toxic backlinks</td>
+                        <td>❌ Failure</td>
+                    </tr>
+                </table>
+                
+                <div class="callout-danger">
+                    <strong>$1,300,000 lost opportunity over 8 months</strong>
+                </div>
+            </section>
+
+            <!-- Slide 5: Why Cheap Fails -->
+            <section>
+                <h2>Why Cheap Fails</h2>
+                <table class="comparison-table">
+                    <tr>
+                        <th>Factor</th>
+                        <th>Upwork Approach</th>
+                        <th>Our Approach</th>
+                    </tr>
+                    <tr>
+                        <td>Labor Type</td>
+                        <td class="negative">Generalist ($13/hr)</td>
+                        <td class="positive">Shopify Plus Specialist</td>
+                    </tr>
+                    <tr>
+                        <td>Strategy</td>
+                        <td class="negative">Guesswork</td>
+                        <td class="positive">Data-Driven</td>
+                    </tr>
+                    <tr>
+                        <td>SEO Quality</td>
+                        <td class="negative">Toxic backlinks</td>
+                        <td class="positive">White-hat only</td>
+                    </tr>
+                    <tr>
+                        <td>Testing</td>
+                        <td class="negative">None</td>
+                        <td class="positive">A/B testing every change</td>
+                    </tr>
+                    <tr>
+                        <td>Reporting</td>
+                        <td class="negative">Email screenshots</td>
+                        <td class="positive">Live dashboard</td>
+                    </tr>
+                    <tr>
+                        <td>Accountability</td>
+                        <td class="negative">None</td>
+                        <td class="positive">Hard caps + guarantees</td>
+                    </tr>
+                </table>
+            </section>
+
+            <!-- Slide 6: Wrong Traffic -->
+            <section>
+                <h2>Root Cause: Wrong Traffic</h2>
+                <div class="split-container">
+                    <div>
+                        <h3>Current Traffic Mix<br>(Wrong Audience)</h3>
+                        <p>🔴 <strong>90%</strong> Informational traffic<br>
+                        <small>Research queries, "what is"</small></p>
+                        <p>🟢 <strong>10%</strong> Transactional traffic<br>
+                        <small>Buying intent</small></p>
+                        <p><strong>= 32,841 wrong visitors</strong></p>
+                    </div>
+                    <div>
+                        <h3>Target Traffic Mix<br>(Right Audience)</h3>
+                        <p>🟡 <strong>40%</strong> Informational traffic<br>
+                        <small>Brand awareness</small></p>
+                        <p>🟢 <strong>60%</strong> Transactional traffic<br>
+                        <small>Ready to buy</small></p>
+                        <p><strong>= 21,894 qualified buyers</strong></p>
+                    </div>
+                </div>
+                <div class="callout">
+                    <strong>90-Day Reality:</strong> Traffic mix shifts to ~75/25 as Google processes cleanup
+                </div>
+            </section>
+
+            <!-- Slide 7: Broken Pages -->
+            <section>
+                <h2>Root Cause: Broken Pages</h2>
+                <div class="split-container" style="font-size: 0.8em;">
+                    <div>
+                        <h3>Mobile Issues</h3>
+                        <ul>
+                            <li>📱 <strong>85% bounce rate</strong></li>
+                            <li>❌ Missing mobile CTA</li>
+                            <li>❌ No COA download option</li>
+                            <li>❌ Weak wholesale messaging</li>
+                            <li>❌ Generic descriptions</li>
+                            <li>❌ Slow load times</li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h3>Problems Identified</h3>
+                        <ul>
+                            <li>❌ Generic product descriptions</li>
+                            <li>❌ Missing trust signals (COAs)</li>
+                            <li>❌ Poor mobile UX - 85% bounce</li>
+                            <li>❌ No wholesale value prop</li>
+                            <li>❌ Weak calls-to-action</li>
+                            <li>❌ Slow load times</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="callout-danger">
+                    <strong>Even if traffic improves, these pages lose the sale</strong>
+                </div>
+            </section>
+
+            <!-- Slide 8: The Solution -->
+            <section>
+                <h2>The Solution</h2>
+                <h3>Dual-Track Approach</h3>
+                <div class="split-container">
+                    <div>
+                        <h3>Track 1: Traffic Quality</h3>
+                        <p>Fix SEO Strategy<br>
+                        ↓<br>
+                        Right Audience<br>
+                        ↓<br>
+                        <strong>21,894 Qualified Buyers</strong></p>
+                    </div>
+                    <div>
+                        <h3>Track 2: Product Pages</h3>
+                        <p>Optimize Conversion<br>
+                        ↓<br>
+                        Better Experience<br>
+                        ↓<br>
+                        <strong>5% Add-to-Cart Rate</strong></p>
+                    </div>
+                </div>
+                <div class="big-number" style="font-size: 2em;">×</div>
+                <h3>Right Traffic × Right Pages = Right Revenue</h3>
+                <div class="emphasis-box">
+                    <strong>90 Days to 3.5%</strong> → <strong>6 Months to 4.5%</strong> → <strong>12 Months to 5.0%+</strong>
+                </div>
+            </section>
+
+            <!-- Slide 9: How It Works -->
+            <section>
+                <h2>How It Works</h2>
+                <h3>90-Day Timeline</h3>
+                <div style="font-size: 0.75em; text-align: left;">
+                    <div style="margin: 20px 0;">
+                        <h4 style="color: var(--primary-blue);">Month 1</h4>
+                        <p><strong>Track 1:</strong> SEO Fix & Cleanup → Toxic backlinks disavowed<br>
+                        <strong>Track 2:</strong> Page Design → <strong>Result: 2.8% add-to-cart</strong></p>
+                    </div>
+                    <div style="margin: 20px 0;">
+                        <h4 style="color: var(--primary-blue);">Month 2</h4>
+                        <p><strong>Track 1:</strong> New Content Publishing → First transactional keywords targeted<br>
+                        <strong>Track 2:</strong> Mobile Testing → <strong>Result: 3.2% add-to-cart</strong></p>
+                    </div>
+                    <div style="margin: 20px 0;">
+                        <h4 style="color: var(--primary-blue);">Month 3</h4>
+                        <p><strong>Track 1:</strong> Traffic Quality Improving → Mix shifts from 90/10 to ~80/20<br>
+                        <strong>Track 2:</strong> Full Optimization → <strong>Result: 3.5% add-to-cart</strong></p>
+                    </div>
+                </div>
+                <div class="callout-success">
+                    Page improvements drive immediate lift. Traffic quality transformation continues 6-12 months for full 5.0%+ target.
+                </div>
+            </section>
+
+            <!-- Slide 10: Proof & Protection -->
+            <section>
+                <h2>Proof & Protection</h2>
+                <h3>Add-to-Cart Benchmarks</h3>
+                <table style="width: 80%; margin: 20px auto;">
+                    <tr>
+                        <th>Benchmark</th>
+                        <th>Rate</th>
+                    </tr>
+                    <tr>
+                        <td>Your Current</td>
+                        <td class="negative">2.03%</td>
+                    </tr>
+                    <tr>
+                        <td>Our 90-Day Target</td>
+                        <td class="warning">3.5%</td>
+                    </tr>
+                    <tr>
+                        <td>Our Long-Term Target</td>
+                        <td class="positive">5.0%</td>
+                    </tr>
+                    <tr>
+                        <td>Industry Standard</td>
+                        <td class="positive">8-10%</td>
+                    </tr>
+                </table>
+                <h3 style="margin-top: 40px;">5 Protection Pillars</h3>
+                <div class="protection-grid">
+                    <div class="protection-item">
+                        <div class="protection-icon">🔒</div>
+                        <strong>Fixed Investment</strong><br>$11,500/month
+                    </div>
+                    <div class="protection-item">
+                        <div class="protection-icon">📊</div>
+                        <strong>Transparent</strong><br>Full dashboard
+                    </div>
+                    <div class="protection-item">
+                        <div class="protection-icon">📅</div>
+                        <strong>Weekly</strong><br>Every Monday
+                    </div>
+                    <div class="protection-item">
+                        <div class="protection-icon">🚪</div>
+                        <strong>No Lock-In</strong><br>Month-to-month
+                    </div>
+                    <div class="protection-item">
+                        <div class="protection-icon">🧪</div>
+                        <strong>A/B Testing</strong><br>95% confidence
+                    </div>
+                </div>
+            </section>
+
+            <!-- Slide 11: 90-Day Roadmap -->
+            <section>
+                <h2>90-Day Roadmap</h2>
+                <table>
+                    <tr>
+                        <th>Week</th>
+                        <th>Track 1: Traffic Quality</th>
+                        <th>Track 2: Product Pages</th>
+                        <th>Target A2C</th>
+                    </tr>
+                    <tr>
+                        <td>1-2</td>
+                        <td>• Toxic backlink cleanup<br>• Keyword research (B2B)</td>
+                        <td>• Audit top 20 products<br>• Mobile UX analysis</td>
+                        <td>2.03%</td>
+                    </tr>
+                    <tr>
+                        <td>3-4</td>
+                        <td>• Content optimization<br>• Internal linking</td>
+                        <td>• First 5 pages redesigned<br>• A/B test layouts</td>
+                        <td>2.5%</td>
+                    </tr>
+                    <tr>
+                        <td>5-6</td>
+                        <td>• Category page SEO<br>• Wholesale landing page</td>
+                        <td>• COA integration<br>• Mobile CTA optimization</td>
+                        <td>2.8%</td>
+                    </tr>
+                    <tr>
+                        <td>7-8</td>
+                        <td>• Link building (white-hat)<br>• Traffic analysis</td>
+                        <td>• Second 10 pages optimized<br>• Wholesale messaging</td>
+                        <td>3.0%</td>
+                    </tr>
+                    <tr>
+                        <td>9-10</td>
+                        <td>• Advanced SEO tactics<br>• Buyer persona targeting</td>
+                        <td>• Third 5 pages optimized<br>• Trust signals enhanced</td>
+                        <td>3.2%</td>
+                    </tr>
+                    <tr>
+                        <td>11-12</td>
+                        <td>• Traffic validation<br>• Scale winning strategies</td>
+                        <td>• Final optimizations<br>• Performance monitoring</td>
+                        <td><strong>3.5%</strong></td>
+                    </tr>
+                </table>
+            </section>
+
+            <!-- Slide 12: Investment Options -->
+            <section>
+                <h2>Investment Options</h2>
+                <table>
+                    <tr>
+                        <th></th>
+                        <th>Starter Tier</th>
+                        <th class="recommended">Growth Tier ⭐</th>
+                        <th>Plus Tier</th>
+                    </tr>
+                    <tr>
+                        <td><strong>Monthly Investment</strong></td>
+                        <td>$7,500</td>
+                        <td class="recommended">$11,500</td>
+                        <td>$17,500</td>
+                    </tr>
+                    <tr>
+                        <td><strong>90-Day Target</strong></td>
+                        <td>3.0% A2C</td>
+                        <td class="recommended">3.5% A2C</td>
+                        <td>4.0% A2C</td>
+                    </tr>
+                    <tr>
+                        <td><strong>6-Month Target</strong></td>
+                        <td>4.0% A2C</td>
+                        <td class="recommended">4.5% A2C</td>
+                        <td>5.0% A2C</td>
+                    </tr>
+                    <tr>
+                        <td><strong>12-Month Target</strong></td>
+                        <td>4.5% A2C</td>
+                        <td class="recommended">5.0% A2C</td>
+                        <td>5.5%+ A2C</td>
+                    </tr>
+                    <tr>
+                        <td><strong>What's Included</strong></td>
+                        <td style="font-size: 0.75em;">
+                            • 4-6 product pages/month optimized<br>
+                            • Basic SEO cleanup<br>
+                            • Monthly reporting
+                        </td>
+                        <td class="recommended" style="font-size: 0.75em;">
+                            • 8-12 product pages/month optimized<br>
+                            • Comprehensive SEO + disavowal<br>
+                            • A/B testing program<br>
+                            • Bi-weekly reporting
+                        </td>
+                        <td style="font-size: 0.75em;">
+                            • 14-20 product pages/month optimized<br>
+                            • Advanced SEO + content strategy<br>
+                            • Aggressive testing + category pages<br>
+                            • Weekly reporting<br>
+                            • Quarterly comprehensive audit (free)
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><strong>Audit Fee</strong></td>
+                        <td>Included</td>
+                        <td class="recommended">Included (waived)</td>
+                        <td>Included + Quarterly audits</td>
+                    </tr>
+                </table>
+                <div class="callout-success" style="margin-top: 20px;">
+                    <strong>Current Upwork:</strong> $10,000/month | <strong>Growth Tier:</strong> $11,500/month | <strong>Net Investment Increase:</strong> $1,500/month for professional results<br>
+                    <strong>Plus:</strong> $2,500 audit fee waived + quarterly audits included
+                </div>
+                <div class="callout-info" style="margin-top: 15px; font-size: 0.8em;">
+                    <strong>How We Work:</strong> Each tier includes a defined scope of deliverables. We work efficiently to deliver outcomes, not bill hours. Fixed monthly investment—no surprise overages, no scope creep.
+                </div>
+            </section>
+
+            <!-- Slide 13: Expected Returns -->
+            <section>
+                <h2>Expected Returns</h2>
+                <h3>ROI Progression</h3>
+                <table style="width: 90%;">
+                    <tr>
+                        <th>Month</th>
+                        <th>Investment</th>
+                        <th>Add-to-Cart</th>
+                        <th>Additional Revenue</th>
+                        <th>Monthly ROI</th>
+                        <th>Cumulative ROI</th>
+                    </tr>
+                    <tr>
+                        <td>1</td>
+                        <td>$11,500</td>
+                        <td>2.8%</td>
+                        <td>$33,000</td>
+                        <td class="positive"><strong>2.9x</strong></td>
+                        <td class="positive"><strong>2.9x</strong></td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>$11,500</td>
+                        <td>3.2%</td>
+                        <td>$55,000</td>
+                        <td class="positive"><strong>4.8x</strong></td>
+                        <td class="positive"><strong>3.8x</strong></td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>$11,500</td>
+                        <td>3.5%</td>
+                        <td>$77,000</td>
+                        <td class="positive"><strong>6.7x</strong></td>
+                        <td class="positive"><strong>4.8x</strong></td>
+                    </tr>
+                    <tr>
+                        <td>6</td>
+                        <td>$11,500</td>
+                        <td>4.5%</td>
+                        <td>$135,000</td>
+                        <td class="positive"><strong>11.7x</strong></td>
+                        <td class="positive"><strong>7.9x</strong></td>
+                    </tr>
+                </table>
+                <div style="font-size: 0.7em; margin-top: 30px; text-align: left;">
+                    <h4>90-Day Outcomes (Conservative):</h4>
+                    <ul>
+                        <li><strong>Pessimistic (3.0% A2C):</strong> $55K/month = <strong class="positive">4.8x ROI</strong></li>
+                        <li><strong>Expected (3.5% A2C):</strong> $77K/month = <strong class="positive">6.7x ROI</strong></li>
+                        <li><strong>Optimistic (4.0% A2C):</strong> $110K/month = <strong class="positive">9.6x ROI</strong></li>
+                    </ul>
+                    <h4>Long-Term:</h4>
+                    <ul>
+                        <li><strong>6-Month (4.5% A2C):</strong> $135K/month = <strong class="positive">11.7x ROI</strong></li>
+                        <li><strong>12-Month (5.0%+ A2C):</strong> $165K+/month = <strong class="positive">14.3x+ ROI</strong></li>
+                    </ul>
+                </div>
+            </section>
+
+            <!-- Slide 14: Protection Framework -->
+            <section>
+                <div class="emphasis-box">YOU'RE PROTECTED</div>
+                <div class="protection-grid" style="margin-top: 60px;">
+                    <div class="protection-item">
+                        <div class="protection-icon">🔒</div>
+                        <h4>Fixed Monthly Investment</h4>
+                        <p>$11,500/month—period<br>No surprise costs</p>
+                    </div>
+                    <div class="protection-item">
+                        <div class="protection-icon">✅</div>
+                        <h4>Defined Deliverables</h4>
+                        <p>Clear scope of work<br>8-12 pages/month + SEO + testing</p>
+                    </div>
+                    <div class="protection-item">
+                        <div class="protection-icon">�</div>
+                        <h4>Transparent Metrics</h4>
+                        <p>Full dashboard access<br>Real-time data</p>
+                    </div>
+                    <div class="protection-item">
+                        <div class="protection-icon">�</div>
+                        <h4>Weekly Reporting</h4>
+                        <p>Every Monday<br>Progress & wins</p>
+                    </div>
+                    <div class="protection-item">
+                        <div class="protection-icon">🚪</div>
+                        <h4>No Lock-In</h4>
+                        <p>Month-to-month<br>30-day notice</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Slide 15: First 4 Weeks -->
+            <section>
+                <h2>First 4 Weeks Timeline</h2>
+                <div class="timeline">
+                    <div class="timeline-item">
+                        <h4>Week -1</h4>
+                        <p><strong>Contract & Payment</strong><br>
+                        Service agreement<br>Payment processed</p>
+                    </div>
+                    <div class="timeline-item">
+                        <h4>Week 0</h4>
+                        <p><strong>Onboarding</strong><br>
+                        GA access<br>Shopify admin<br>Team intros</p>
+                    </div>
+                    <div class="timeline-item">
+                        <h4>Week 1</h4>
+                        <p><strong>Discovery</strong><br>
+                        Traffic audit<br>SEO analysis<br>Product review</p>
+                    </div>
+                    <div class="timeline-item">
+                        <h4>Week 2</h4>
+                        <p><strong>Strategy</strong><br>
+                        Page redesigns<br>Mobile UX<br>COA integration</p>
+                    </div>
+                    <div class="timeline-item">
+                        <h4>Week 3</h4>
+                        <p><strong>Implement</strong><br>
+                        Live changes<br>A/B tests<br>Optimizations</p>
+                    </div>
+                    <div class="timeline-item">
+                        <h4>Week 4</h4>
+                        <p><strong>Report</strong><br>
+                        Baseline data<br>Week 1 wins<br>Next steps</p>
+                    </div>
+                </div>
+                <div class="callout" style="margin-top: 40px;">
+                    <strong>Your Time Commitment: 3-4 hours/week</strong><br>
+                    Week 0: 2 hours (onboarding) | Weeks 1-4: 1 hour/week (calls + approvals)
+                </div>
+            </section>
+
+            <!-- Slide 16: The Choice -->
+            <section>
+                <h2>The Choice</h2>
+                <div class="split-container" style="font-size: 0.75em;">
+                    <div style="background: #FEE2E2; padding: 30px; border-radius: 10px;">
+                        <h3 class="negative">Path A: Continue Upwork</h3>
+                        <h4>Current Metrics</h4>
+                        <ul>
+                            <li>$10,000/month spend</li>
+                            <li>Negative conversion trend</li>
+                            <li>2.03% A2C (declining)</li>
+                            <li>Losing $165K/month potential</li>
+                        </ul>
+                        <h4>6-Month Projection</h4>
+                        <ul>
+                            <li>Total spent: <strong>$60,000</strong></li>
+                            <li>Revenue lost: <strong>$990,000</strong></li>
+                            <li><strong class="negative">Net impact: -$1,050,000</strong> ❌</li>
+                        </ul>
+                    </div>
+                    <div style="background: #D1FAE5; padding: 30px; border-radius: 10px;">
+                        <h3 class="positive">Path B: Growth Accelerator</h3>
+                        <h4>Target Metrics</h4>
+                        <ul>
+                            <li>$9,500/month investment</li>
+                            <li>Positive conversion growth</li>
+                            <li>3.5% A2C by Month 3</li>
+                            <li>4.5% A2C by Month 6</li>
+                            <li>5.0%+ A2C by Month 12</li>
+                        </ul>
+                        <h4>6-Month Projection</h4>
+                        <ul>
+                            <li>Total investment: <strong>$57,000</strong></li>
+                            <li>Revenue gained: <strong>$765,000</strong></li>
+                            <li><strong class="positive">Net impact: +$708,000</strong> ✅</li>
+                        </ul>
+                        <h4>12-Month Impact</h4>
+                        <ul>
+                            <li>Revenue: <strong>$1,650,000+</strong></li>
+                            <li><strong class="positive">Net ROI: 14.5x+</strong> 🚀</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="big-number" style="font-size: 2em; margin-top: 30px;">Which path will you choose?</div>
+            </section>
+
+            <!-- Slide 17: Final CTA -->
+            <section>
+                <h1>Let's Get Started</h1>
+                <h2>HBNO Growth Accelerator Program</h2>
+                <p style="font-size: 1.3em; margin-top: 60px;">Ready to transform your traffic into revenue?</p>
+                <div class="emphasis-box" style="margin-top: 60px; font-size: 1.3em;">
+                    <strong>Schedule Your Strategy Call Today</strong>
+                </div>
+            </section>
+
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/reveal.js@4.6.0/dist/reveal.js"></script>
+    <script>
+        Reveal.initialize({
+            hash: true,
+            center: true,
+            slideNumber: true,
+            transition: 'slide',
+            backgroundTransition: 'fade',
+            width: 1920,
+            height: 1080,
+            margin: 0.04,
+            minScale: 0.2,
+            maxScale: 2.0,
+            keyboard: true,
+            overview: true,
+            touch: true,
+            loop: false,
+            rtl: false,
+            shuffle: false,
+            fragments: true,
+            embedded: false,
+            help: true,
+            showNotes: false,
+            autoPlayMedia: null,
+            preloadIframes: null,
+            autoSlide: 0,
+            autoSlideStoppable: true,
+            mouseWheel: false,
+            hideAddressBar: true,
+            previewLinks: false,
+            transitionSpeed: 'default',
+            viewDistance: 3,
+            mobileViewDistance: 2,
+            display: 'block',
+            hideInactiveCursor: true,
+            hideCursorTime: 5000
+        });
+    </script>
+</body>
+</html>

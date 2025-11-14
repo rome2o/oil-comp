@@ -2,13 +2,21 @@
 
 **Program:** Product Page Optimization + Traffic Quality  
 **Date:** November 14, 2025  
-**Investment:** $9,500/month (Growth Tier - Recommended)
+**Investment:** $11,500/month (Growth Tier - Recommended)
 
 ---
 
 ## 📊 Three Financial Scenarios
 
-All scenarios based on same $9,500/month investment | All assume dual-track optimization approach
+All scenarios based on same $11,500/month investment | All assume dual-track optimization approach
+
+**Important Note on Timeline:** Traffic quality transformation takes 6-12 months due to:
+
+- 1,621 toxic backlinks requiring 3-6 months for Google to process
+- Existing informational content rankings taking 4-6 months to shift
+- New transactional content needing 2-4 months to establish authority
+
+**90-day results are driven by page optimization; 6-12 month results add traffic quality improvements.**
 
 ---
 
@@ -18,32 +26,32 @@ All scenarios based on same $9,500/month investment | All assume dual-track opti
 
 ### Performance Metrics
 
-| Metric | Baseline | Conservative Target | Improvement |
-|--------|----------|---------------------|-------------|
-| **Add-to-Cart Rate** | 2.03% | 4.0% | +97% |
-| **Commercial Traffic %** | <1% | 20-25% | 20-25x increase |
-| **Organic CTR** | 1.20% | 1.8% | +50% |
-| **Mobile Bounce Rate** | 85% | 65% | -20 points |
+| Metric | Baseline | 90-Day Target | 6-Month Target | 12-Month Target |
+|--------|----------|---------------|----------------|-----------------|
+| **Add-to-Cart Rate** | 2.03% | 3.0% | 3.8% | 4.2% |
+| **Commercial Traffic %** | <1% | 15% | 25% | 30% |
+| **Organic CTR** | 1.20% | 1.6% | 1.9% | 2.1% |
+| **Mobile Bounce Rate** | 85% | 70% | 62% | 58% |
 
 ### Financial Impact
 
 | Period | Revenue Increase | Cumulative Investment | Net Profit | ROI |
 |--------|------------------|----------------------|------------|-----|
-| **Month 1** | +$35K | $9,500 | +$25,500 | 3.7x |
-| **Month 2** | +$70K | $19,000 | +$51,000 | 3.7x |
-| **Month 3** | +$115K | $28,500 | +$86,500 | 4.0x |
-| **Month 6** | +$115K/mo | $57,000 | +$633,000 | 12.1x |
-| **Year 1** | +$115K/mo | $114,000 | +$1,266,000 | 12.1x |
+| **Month 1** | +$25K | $11,500 | +$13,500 | 2.2x |
+| **Month 2** | +$42K | $23,000 | +$19,000 | 1.8x |
+| **Month 3** | +$55K | $34,500 | +$20,500 | 1.6x |
+| **Month 6** | +$100K/mo | $69,000 | +$531,000 | 8.7x |
+| **Year 1** | +$100K/mo | $138,000 | +$1,062,000 | 8.7x |
 
 ### Year 1 Summary
 
-- **Total Revenue Increase:** $1,380,000
-- **Total Investment:** $114,000
-- **Net Profit:** $1,266,000
-- **ROI:** 12.1x
-- **Payback Period:** 30 days
+- **Total Revenue Increase:** $1,200,000
+- **Total Investment:** $138,000
+- **Net Profit:** $1,062,000
+- **ROI:** 8.7x
+- **Payback Period:** 42 days
 
-**What This Means:** Even if we only achieve 70% of target, you still get 12x return on investment.
+**What This Means:** Even if we only achieve 70% of target, you still get 8.7x return on investment.
 
 ---
 
@@ -53,42 +61,44 @@ All scenarios based on same $9,500/month investment | All assume dual-track opti
 
 ### Performance Metrics
 
-| Metric | Baseline | Expected Target | Improvement |
-|--------|----------|-----------------|-------------|
-| **Add-to-Cart Rate** | 2.03% | 5.0% | +146% |
-| **Commercial Traffic %** | <1% | 30-40% | 30-40x increase |
-| **Organic CTR** | 1.20% | 2.3%+ | +92% |
-| **Mobile Bounce Rate** | 85% | 55% | -30 points |
+| Metric | Baseline | 90-Day Target | 6-Month Target | 12-Month Target |
+|--------|----------|---------------|----------------|-----------------|
+| **Add-to-Cart Rate** | 2.03% | 3.5% | 4.5% | 5.0% |
+| **Commercial Traffic %** | <1% | 22% | 35% | 40% |
+| **Organic CTR** | 1.20% | 1.9% | 2.2% | 2.4% |
+| **Mobile Bounce Rate** | 85% | 65% | 58% | 55% |
 
 ### Financial Impact
 
 | Period | Revenue Increase | Cumulative Investment | Net Profit | ROI |
 |--------|------------------|----------------------|------------|-----|
-| **Month 1** | +$45K | $9,500 | +$35,500 | 4.7x |
-| **Month 2** | +$85K | $19,000 | +$66,000 | 4.5x |
-| **Month 3** | +$165K | $28,500 | +$136,500 | 5.8x |
-| **Month 6** | +$165K/mo | $57,000 | +$933,000 | 17.4x |
-| **Year 1** | +$165K/mo | $114,000 | +$1,866,000 | 17.4x |
+| **Month 1** | +$33K | $11,500 | +$21,500 | 2.9x |
+| **Month 2** | +$55K | $23,000 | +$32,000 | 2.4x |
+| **Month 3** | +$77K | $34,500 | +$42,500 | 2.2x |
+| **Month 6** | +$135K/mo | $69,000 | +$741,000 | 11.7x |
+| **Year 1** | +$165K/mo | $138,000 | +$1,842,000 | 14.3x |
 
 ### Month-by-Month Breakdown
 
 | Month | Add-to-Cart % | Monthly Revenue | Revenue vs Baseline | Investment | Cumulative ROI |
 |-------|---------------|-----------------|---------------------|------------|----------------|
 | **0 (Baseline)** | 2.03% | $120,000 | — | $0 | — |
-| **1** | 2.8% | $165,000 | +$45,000 | $9,500 | 4.7x |
-| **2** | 3.9% | $205,000 | +$85,000 | $19,000 | 4.5x |
-| **3** | 5.0% | $285,000 | +$165,000 | $28,500 | 5.8x |
-| **4-12** | 5.0%+ | $285,000+ | +$165,000+ | $114,000 | 17.4x |
+| **1** | 2.8% | $153,000 | +$33,000 | $11,500 | 2.9x |
+| **2** | 3.2% | $175,000 | +$55,000 | $23,000 | 2.4x |
+| **3** | 3.5% | $197,000 | +$77,000 | $34,500 | 2.2x |
+| **6** | 4.5% | $255,000 | +$135,000 | $69,000 | 2.0x |
+| **12** | 5.0% | $285,000 | +$165,000 | $138,000 | 1.2x |
+| **Year 1 Net** | 5.0% | +$1.98M gain | — | $138,000 | 14.3x |
 
 ### Year 1 Summary
 
 - **Total Revenue Increase:** $1,980,000
-- **Total Investment:** $114,000
-- **Net Profit:** $1,866,000
-- **ROI:** 17.4x
-- **Payback Period:** 20 days
+- **Total Investment:** $138,000
+- **Net Profit:** $1,842,000
+- **ROI:** 14.3x
+- **Payback Period:** 35 days
 
-**What This Means:** Hit 5.0% target in 90 days, generate $1.98M additional annual revenue for $114K investment.
+**What This Means:** Hit 3.5% target in 90 days, reach 5.0% by 12 months, generate $1.98M additional annual revenue for $138K investment.
 
 ---
 
@@ -98,30 +108,30 @@ All scenarios based on same $9,500/month investment | All assume dual-track opti
 
 ### Performance Metrics
 
-| Metric | Baseline | Aggressive Target | Improvement |
-|--------|----------|-------------------|-------------|
-| **Add-to-Cart Rate** | 2.03% | 6.0%+ | +195% |
-| **Commercial Traffic %** | <1% | 40-50% | 40-50x increase |
-| **Organic CTR** | 1.20% | 2.8%+ | +133% |
-| **Mobile Bounce Rate** | 85% | 45% | -40 points |
+| Metric | Baseline | 90-Day Target | 6-Month Target | 12-Month Target |
+|--------|----------|---------------|----------------|-----------------|
+| **Add-to-Cart Rate** | 2.03% | 4.0% | 5.5% | 6.5% |
+| **Commercial Traffic %** | <1% | 28% | 45% | 50% |
+| **Organic CTR** | 1.20% | 2.2% | 2.6% | 2.9% |
+| **Mobile Bounce Rate** | 85% | 60% | 50% | 45% |
 
 ### Financial Impact
 
 | Period | Revenue Increase | Cumulative Investment | Net Profit | ROI |
 |--------|------------------|----------------------|------------|-----|
-| **Month 1** | +$60K | $9,500 | +$50,500 | 6.3x |
-| **Month 2** | +$120K | $19,000 | +$101,000 | 6.3x |
-| **Month 3** | +$240K | $28,500 | +$211,500 | 8.4x |
-| **Month 6** | +$240K/mo | $57,000 | +$1,383,000 | 25.3x |
-| **Year 1** | +$240K/mo | $114,000 | +$2,766,000 | 25.3x |
+| **Month 1** | +$45K | $11,500 | +$33,500 | 3.9x |
+| **Month 2** | +$77K | $23,000 | +$54,000 | 3.3x |
+| **Month 3** | +$110K | $34,500 | +$75,500 | 3.2x |
+| **Month 6** | +$190K/mo | $69,000 | +$1,071,000 | 16.5x |
+| **Year 1** | +$240K/mo | $138,000 | +$2,742,000 | 20.9x |
 
 ### Year 1 Summary
 
 - **Total Revenue Increase:** $2,880,000
-- **Total Investment:** $114,000
-- **Net Profit:** $2,766,000
-- **ROI:** 25.3x
-- **Payback Period:** 14 days
+- **Total Investment:** $138,000
+- **Net Profit:** $2,742,000
+- **ROI:** 20.9x
+- **Payback Period:** 28 days
 
 **What This Means:** Best-case scenario where everything exceeds expectations. Still achievable with strong product-market fit and execution.
 
@@ -129,18 +139,18 @@ All scenarios based on same $9,500/month investment | All assume dual-track opti
 
 ## 📈 Scenario Comparison Chart
 
-| Scenario | Add-to-Cart Target | Monthly Revenue Gain | Annual Revenue Gain | Year 1 ROI | Payback |
-|----------|-------------------|---------------------|---------------------|------------|---------|
-| **Conservative (70%)** | 4.0% (+97%) | +$115K | +$1.38M | 12.1x | 30 days |
-| **Expected (100%)** | 5.0% (+146%) | +$165K | +$1.98M | 17.4x | 20 days |
-| **Aggressive (120%)** | 6.0% (+195%) | +$240K | +$2.88M | 25.3x | 14 days |
+| Scenario | 90-Day A2C | 12-Month A2C | 90-Day Revenue | 12-Month Revenue | Year 1 ROI | Payback |
+|----------|------------|--------------|----------------|------------------|------------|---------|
+| **Conservative (70%)** | 3.0% | 4.2% | +$55K/mo | +$100K/mo | 8.7x | 42 days |
+| **Expected (100%)** | 3.5% | 5.0% | +$77K/mo | +$165K/mo | 14.3x | 35 days |
+| **Aggressive (120%)** | 4.0% | 6.5% | +$110K/mo | +$240K/mo | 20.9x | 28 days |
 
 ### Visual ROI Comparison
 
-```
-Conservative (12.1x): ████████████
-Expected (17.4x):     █████████████████
-Aggressive (25.3x):   █████████████████████████
+```text
+Conservative (8.7x):  ████████
+Expected (14.3x):     ██████████████
+Aggressive (20.9x):   ████████████████████
 ```
 
 ---
@@ -150,6 +160,7 @@ Aggressive (25.3x):   ███████████████████�
 ### Conservative Scenario Factors
 
 **You'll likely hit conservative if:**
+
 - Limited internal resources for approvals/implementation
 - Slow decision-making on design/content
 - Technical limitations or platform constraints
@@ -157,6 +168,7 @@ Aggressive (25.3x):   ███████████████████�
 - Seasonal fluctuations negatively impact results
 
 **Mitigation:**
+
 - Weekly check-ins to unblock decisions
 - Pre-approve design patterns to speed execution
 - Identify technical constraints early

@@ -1,10 +1,46 @@
-# Shopify Growth Accelerator - Presentation Materials
+# HBNO Growth Accelerator - Presentation Materials
 
 **Client:** HBNO Essential Natural Oils  
 **Service:** Shopify Growth Accelerator (Dual-Track Optimization System)  
 **Prepared by:** Devkind  
 **Date:** November 14, 2025  
-**Version:** 1.0 (Conversion-Optimized)
+**Version:** 2.0 (Realistic Timeline - CRITICAL REVISION)
+
+## 🎨 Available Presentation Formats
+
+This folder now contains **two professional presentation formats**:
+
+### 1. **Marp Presentation** (`/marp`)
+- Markdown-based slides
+- Easy to edit in VS Code
+- Export to PDF, HTML, or PowerPoint
+- Great for version control and collaboration
+- **Quick Start:** Install "Marp for VS Code" extension, open `marp/presentation.md`
+
+### 2. **Reveal.js Presentation** (`/revealjs`)
+- HTML-based interactive presentation
+- Works in any modern browser
+- Touch and gesture support for presenting
+- Fullscreen mode with keyboard shortcuts
+- Export to PDF capability
+- **Quick Start:** Open `revealjs/index.html` in Chrome or Firefox
+
+📖 **See individual README files in each folder for detailed instructions.**
+
+---
+
+## ⚠️ CRITICAL UPDATE - Timeline Revision
+
+**See `critical_flaw.md` for full analysis.**
+
+**Key Change:** Original presentation promised 5.0% A2C in 90 days. This has been revised to:
+- **90 days:** 3.5% A2C ($77K/month additional revenue)
+- **6 months:** 4.5% A2C ($135K/month additional revenue)
+- **12 months:** 5.0%+ A2C ($165K+/month additional revenue)
+
+**Reason:** Traffic quality transformation requires 6-12 months (Google needs time to process toxic backlink cleanup). Page improvements deliver immediate lift in 90 days, but full results require sustained traffic quality improvement.
+
+**Positioning:** Under-promise and over-deliver. Build trust through honesty about SEO reality.
 
 ---
 
@@ -16,7 +52,7 @@ This presentation package is designed to convert HBNO from proposal stage to sig
 - **Jonida** (Manager, internal champion, trusts presenter)
 - **Context:** Recovering from Upwork disaster (-44% conversions despite +99% traffic)
 - **Budget:** Currently spending $9-11K/month on Upwork with negative results
-- **Timeline:** High urgency, wants to start immediately
+- **Timeline:** High urgency, wants to start immediately (but realistic about full results)
 
 ---
 
@@ -26,28 +62,28 @@ This presentation package is designed to convert HBNO from proposal stage to sig
 **Goal:** Establish pain and validate current frustration
 
 1. **Hook:** The Traffic Paradox (↑99% traffic, ↓44% conversions)
-2. **Current Situation:** Bleeding $165K/month in opportunity
+2. **Current Situation:** Long-term opportunity of $165K/month at 5% (90-day target: $77K/month)
 3. **Upwork Trap:** What went wrong (1,621 toxic backlinks, wrong strategy)
 
 ### ACT 2: THE DIAGNOSIS (Slides 4-6)
 **Goal:** Show expertise through accurate diagnosis
 
 4. **Why Cheap Fails:** Upwork vs Our Approach comparison
-5. **Root Cause #1:** Traffic Quality Crisis (90% wrong audience)
+5. **Root Cause #1:** Traffic Quality Crisis (90% wrong audience, takes 6-12 months to shift)
 6. **Root Cause #2:** Product Page Issues (85% mobile bounce)
 
 ### ACT 3: THE SOLUTION (Slides 7-9)
 **Goal:** Introduce methodology and build confidence
 
-7. **Solution Intro:** Shopify Growth Accelerator (Dual-Track System)
-8. **How It Works:** Track 1 (Traffic) + Track 2 (Pages) visual
-9. **The Proof:** Industry benchmarks + data validation
+7. **Solution Intro:** Shopify Growth Accelerator (Dual-Track, Phased Timeline)
+8. **How It Works:** Track 1 (Traffic) + Track 2 (Pages) with realistic progression
+9. **The Proof:** Industry benchmarks + honest timeline explanation
 
 ### ACT 4: THE PLAN (Slides 10-12)
 **Goal:** Show clear execution path and ROI
 
-10. **90-Day Roadmap:** Month-by-month execution
-11. **Investment Options:** 3 tiers (anchor high, recommend Growth)
+10. **90-Day Roadmap:** Month-by-month execution (3.5% target by Month 3)
+11. **Investment Options:** 3 tiers with phased targets (90-day, 6-month, 12-month)
 12. **The Returns:** ROI scenarios (6.5x to 17.4x)
 
 ### ACT 5: THE CLOSE (Slides 13-15)

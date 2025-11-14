@@ -30,7 +30,9 @@
 |  | **Starter Tier** | **Growth Tier** ⭐ | **Plus Tier** |
 |---|---|---|---|
 | **Monthly Investment** | $6,500 | $9,500 | $15,000 |
-| **Timeline to 5%** | 6 months | 90 days | 60 days |
+| **90-Day Target** | 3.0% A2C | 3.5% A2C | 4.0% A2C |
+| **6-Month Target** | 4.0% A2C | 4.5% A2C | 5.0% A2C |
+| **12-Month Target** | 4.5% A2C | 5.0% A2C | 5.5%+ A2C |
 
 **Narration:**
 > "I've structured three tiers based on speed and scope. Let me walk you through each..."
@@ -42,7 +44,7 @@
 ### Step 2: Anchor High (Plus Tier)
 
 **Emphasize Plus Tier value:**
-> "Plus Tier is $15,000/month. This is maximum speed—you hit 5% add-to-cart in 60 days instead of 90. You get 6-8 product pages optimized per month, 25-30 commercial keywords, and advanced A/B testing with heatmaps. This is for businesses that need urgent turnarounds."
+> "Plus Tier is $15,000/month. This is maximum speed and intensity—you hit 4.0% add-to-cart in 90 days, then 5.0% by 6 months. You get 6-8 product pages optimized per month, 25-30 commercial keywords, and advanced A/B testing with heatmaps. This is for businesses that need urgent turnarounds."
 
 **Add the audit value:**
 > "And with Plus Tier, the $2,500 audit fee is completely waived. So you're getting $17,500 worth of value."
@@ -57,7 +59,7 @@
 > "But I don't think you need Plus. What I recommend for your situation is **Growth Tier**."
 
 **Explain why:**
-> "Growth Tier is $9,500/month. You get 4-5 product pages optimized per month, 15-20 commercial keywords, weekly calls, and full A/B testing. Timeline is 90 days to hit 5% add-to-cart. This is the balanced approach—fast results without overspending."
+> "Growth Tier is $9,500/month. You get 4-5 product pages optimized per month, 15-20 commercial keywords, weekly calls, and full A/B testing. Timeline is 90 days to hit 3.5% add-to-cart, then 4.5% by 6 months, and 5.0%+ by 12 months as traffic quality improves. This is the balanced approach—realistic targets with sustained growth."
 
 **Add the audit mention:**
 > "Now, Growth Tier normally includes a $2,500 audit fee, which brings the total to $12,000."
@@ -94,7 +96,7 @@
 ### Step 6: Show Contrast (Starter Tier)
 
 **Present Starter as the "cheap option":**
-> "Now, if budget is tight, there's Starter Tier at $6,500/month. But here's the trade-off: Starter takes 6 months to hit 5% add-to-cart vs 90 days with Growth. That's 3 extra months of losing $165K/month—a $495K cost to save $3K/month. Plus, you want fast movement—Starter is slow by design."
+> "Now, if budget is tight, there's Starter Tier at $6,500/month. But here's the trade-off: Starter takes 12 months to hit 5% add-to-cart vs 6 months with Growth. That's 6 extra months of slower growth. Plus, you want fast movement—Starter is slow by design."
 
 **Purpose:** Make Starter look like false economy. Growth is the smart choice.
 
@@ -106,7 +108,7 @@
 > "So here's what I recommend: **Growth Tier at $9,500/month, with the $2,500 audit waived.** You're getting:
 > - $12,000 worth of value for $9,500/month
 > - $500/month savings vs your current Upwork spend
-> - 90-day timeline to $165K/month additional revenue
+> - 90-day timeline to 3.5% A2C ($77K/month additional), growing to 5.0%+ by 12 months
 > - 17.4x ROI by Month 3
 > - Hard hour caps and no long-term lock-in
 

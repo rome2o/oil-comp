@@ -3,7 +3,7 @@
 **Prepared for:** HBNO Essential Natural Oils  
 **Prepared by:** Devkind  
 **Date:** November 14, 2025  
-**Recommended Investment:** $9,500/month (Growth Tier)
+**Recommended Investment:** $11,500/month (Growth Tier)
 
 ---
 
@@ -18,11 +18,13 @@ However, deep analysis of your conversion funnel reveals a critical bottleneck e
 **Only 2.03% of visitors add products to their cart.**
 
 Industry standard for e-commerce is 8-10%. This means:
+
 - Out of every 100 visitors, only 2 engage enough to add items
 - 98 visitors leave without ever considering a purchase
 - Your excellent checkout never gets the chance to convert them
 
 **Current Performance (Last 30 Days):**
+
 - 36,490 sessions
 - Only 739 added items to cart (2.03%)
 - 272 completed orders (0.72% site conversion)
@@ -64,20 +66,29 @@ Our comprehensive SEO analysis reveals that **low add-to-cart rates aren't just 
 Improving both traffic quality AND add-to-cart rate creates a multiplier effect:
 
 **Scenario 1: Product Pages Only (Original Target)**
-- Add-to-Cart: 2.03% → 4.0%
-- Same traffic quality (90% informational)
-- Revenue increase: +$97K/month
 
-**Scenario 2: Traffic Quality + Product Pages (v2 Approach)**
-- Add-to-Cart: 2.03% → 5.0% (higher because better-qualified traffic converts better)
-- Shift traffic mix from 90% informational → 60% informational / 40% commercial
-- **Revenue increase: +$165K/month (70% higher impact)**
+- Add-to-Cart: 2.03% → 3.5% at 90 days
+- Same traffic quality (90% informational)
+- Revenue increase: +$77K/month at 90 days
+
+**Scenario 2: Traffic Quality + Product Pages (v2 Approach - Phased Timeline)**
+
+- **90 Days:** 2.03% → 3.5% A2C (+$77K/month) - Page optimization drives initial gains
+- **6 Months:** 3.5% → 4.5% A2C (+$135K/month) - Traffic quality begins shifting
+- **12 Months:** 4.5% → 5.0%+ A2C (+$165K+/month) - Full traffic transformation complete
+
+**Why Traffic Quality Takes Longer:**
+
+- 1,621 toxic backlinks require 3-6 months for Google to process after disavowal
+- Existing informational content rankings take 4-6 months to shift
+- New transactional content needs 2-4 months to establish authority
+- Traffic mix at 90 days: ~75/25 (informational/transactional), improving to 40/60 by 12 months
 
 This is achievable because:
 
 1. Your checkout already works well—no need to fix what isn't broken
-2. Product page optimization has proven industry benchmarks (8-10% is standard)
-3. **Commercial keyword targeting is highly predictable** - shifting from "how-to" to "buy bulk" queries
+2. Product page optimization delivers immediate improvements (90 days to 3.5%)
+3. **Commercial keyword targeting is highly predictable** - shifting from "how-to" to "buy bulk" queries takes 6-12 months
 4. We've identified specific, actionable improvements through data analysis
 5. Your top 3 products (Rosemary, Peppermint, Lavender) alone generate $32K/month—small improvements have big impact
 
@@ -145,18 +156,19 @@ This is **not** generic "conversion rate optimization" or "SEO services." This i
 
 ## The Investment
 
-### Recommended: Growth Tier - $9,500/month
+### Recommended: Growth Tier - $11,500/month
 
 **What You Get:**
 
-- 40-50 hours/month (HARD CAP for scope protection)
+**Monthly Deliverables:**
+
 - **Traffic Quality Optimization:**
   - B2B keyword research & gap analysis
   - Commercial intent content strategy
   - CTR optimization for existing rankings
-  - 2-3 B2B pillar content pieces per month
+  - Comprehensive SEO cleanup (toxic backlink disavowal)
 - **Product Page Optimization:**
-  - 4-5 product page optimizations per month
+  - 8-12 product page optimizations per month
   - 2-3 A/B tests running continuously
   - Trust signal strategy implementation
   - Exit-intent strategies for abandoners
@@ -165,33 +177,50 @@ This is **not** generic "conversion rate optimization" or "SEO services." This i
   - Advanced schema markup implementation
 - Bi-weekly analytics and insights reports
 - Monthly strategic planning call
-- Dedicated team: Strategist + Designer + Developer
 
-**Expected Outcomes (Conservative):**
+**Expected Outcomes:**
+
+**90-Day Results:**
+
+- Add-to-Cart Rate: 2.03% → 3.5% (+72% improvement)
+- Monthly Revenue: $120K → $197K (+$77K increase)
+- **ROI: 6.7x** | **Payback: 35 days**
+
+**6-Month Results:**
+
+- Add-to-Cart Rate: 2.03% → 4.5% (+122% improvement)
+- Traffic Quality: Shift toward 35-40% commercial
+- Monthly Revenue: $120K → $255K (+$135K increase)
+- **ROI: 11.7x**
+
+**12-Month Results:**
 
 - Add-to-Cart Rate: 2.03% → 5.0% (+146% improvement)
-- Traffic Quality: 90% informational → 60% informational / 40% commercial
-- Organic CTR: 1.20% → 2.0%+
+- Traffic Quality: 40%+ commercial
+- Organic CTR: 1.20% → 2.4%+
 - Monthly Revenue: $120K → $285K (+$165K increase)
 - Site Conversion: 0.72% → 1.8% (+150% improvement)
-- **ROI: 17.4x** (for every $1 invested, gain $17.40)
-- **Payback: 20 days** (less than 3 weeks to recover investment)
+- **Annual ROI: 14.3x** (for every $1 invested, gain $14.30 over 12 months)
 
 ### Alternative Tiers
 
-**Starter Tier - $6,500/month**
-- 20-25 hours/month
-- 2-3 product pages/month
-- Focus: Top sellers only
-- Expected: +$42K/month revenue
-- ROI: 6.5x | Payback: 56 days
+**Starter Tier - $7,500/month**
 
-**Plus Tier - $15,000/month**
-- 60-80 hours/month
-- 8-10 product pages/month
+- 4-6 product pages/month optimized
+- Basic SEO cleanup
+- Focus: Top sellers only
+- Expected 90 days: +$55K/month revenue
+- Expected 12 months: +$135K/month revenue
+- ROI: 7.3x (90 days) | 18x (12 months)
+
+**Plus Tier - $17,500/month**
+
+- 14-20 product pages/month optimized
+- Advanced SEO + content strategy
 - AI-powered personalization
-- Expected: +$151K/month revenue
-- ROI: 10.1x | Payback: 35 days
+- Expected 90 days: +$110K/month revenue
+- Expected 6 months: +$190K/month revenue
+- ROI: 6.3x (90 days) | 10.9x (6 months)
 
 ---
 

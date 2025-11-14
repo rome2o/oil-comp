@@ -10,303 +10,241 @@
 
 | Feature | Starter | Growth ⭐ | Plus |
 |---------|---------|-----------|------|
-| **Monthly Investment** | $6,500 | $9,500 | $15,000 |
-| **Monthly Hours** | 20-25 (HARD CAP) | 40-50 (HARD CAP) | 60-80 (HARD CAP) |
-| **Product Pages/Month** | 2-3 | 4-5 | 8-10 |
+| **Monthly Investment** | $7,500 | $11,500 | $17,500 |
+| **Product Pages Optimized/Month** | 4-6 pages | 8-12 pages | 14-20 pages |
 | **A/B Tests Running** | 1-2 | 2-3 | 4-6 |
+| **SEO Cleanup** | Basic | Comprehensive | Advanced + Content Strategy |
 | **Analytics Reports** | Monthly | Bi-weekly | Weekly |
 | **Strategic Calls** | Quarterly | Monthly | Bi-weekly |
-| **Team Size** | 1-2 people | 2-3 people | 3-4 people |
-| **Add-to-Cart Target** | 3.0% (+48%) | 4.0% (+97%) | 5.0% (+146%) |
-| **Revenue Impact** | +$42K/mo | +$97K/mo | +$151K/mo |
-| **ROI** | 6.5x | 10.2x | 10.1x |
-| **Payback Period** | 56 days | 35 days | 35 days |
+| **Timeline to 3.5% A2C** | 6 months | 90 days | 90 days |
+| **Timeline to 5.0% A2C** | 12+ months | 12 months | 6 months |
+| **90-Day A2C Target** | 3.0% (+48%) | 3.5% (+72%) | 4.0% (+97%) |
+| **90-Day Revenue Impact** | +$55K/mo | +$77K/mo | +$110K/mo |
+| **90-Day ROI** | 7.3x | 6.7x | 6.3x |
+| **12-Month Revenue Impact** | +$135K/mo | +$165K/mo | +$220K/mo |
+| **Payback Period** | 45 days | 35 days | 30 days |
 | **Best For** | Budget-conscious<br/>Testing approach | Serious growth<br/>Balanced investment | Maximum velocity<br/>Full optimization |
 
 ---
 
-## Tier 1: Starter - $6,500/month
+## Tier 1: Starter - $7,500/month
 
 ### Overview
 
-Perfect for businesses wanting to test product page optimization with a smaller investment. Focuses on highest-impact quick wins.
+Perfect for businesses wanting to test product page optimization with a smaller investment. Focuses on highest-impact quick wins while building toward long-term traffic quality improvement.
 
-### Monthly Hours: 20-25 (HARD CAP)
+### What's Included
 
-Work stops at 25 hours. Any additional work requires scope discussion and approval.
+**Monthly Deliverables:**
 
-### Team Composition
-
-- 1 Conversion Strategist (60% time)
-- 1 Designer/Developer (40% time)
-- Project Manager (oversight only)
-
-### Monthly Deliverables
-
-**Product Pages:**
-- 2-3 product page redesigns/month
-- Priority: Top revenue-generating products first
-- Mobile-first optimization
-- Basic trust signal implementation
-
-**Testing & Analytics:**
+- 4-6 product page redesigns/month (mobile-first optimization)
+- Basic SEO cleanup (toxic backlink disavowal, basic on-page fixes)
 - 1-2 A/B tests per month
-- Monthly analytics report
-- Performance tracking dashboard
+- Monthly analytics report + performance tracking dashboard
 - Quarterly strategy review call
 
-**Optimizations:**
-- Add-to-cart button testing (color, placement, copy)
-- Product image optimization
-- Basic reviews/ratings integration
-- Page speed improvements (top products only)
+**Trust Signal Implementation:**
+
+- Reviews/ratings integration
+- Basic certifications display
+- Add-to-cart button optimization
+- Page speed improvements (top products)
 
 ### Expected Outcomes
 
-**Add-to-Cart Improvement:**
-- Current: 2.03%
-- Target: 3.0%
-- Improvement: +48%
+**90-Day Target:**
 
-**Revenue Impact:**
-- Additional orders: +159/month
-- Additional revenue: +$42,000/month
-- Annual gain: +$504,000
+- Add-to-Cart: 2.03% → 3.0% (+48%)
+- Additional orders: +176/month
+- Additional revenue: +$55,000/month
 
 **ROI:**
-- Monthly investment: $6,500
-- Monthly return: $42,000
-- **ROI: 6.5x**
-- **Payback: 56 days**
+
+- Monthly investment: $7,500
+- Monthly return (90 days): $55,000
+- **ROI: 7.3x**
+- **Payback: 45 days**
+
+**12-Month Target:**
+
+- Add-to-Cart: 2.03% → 4.0% (+97%)
+- Additional revenue: +$135,000/month
+- **ROI: 18x**
 
 ### Timeline
 
-- **Month 1-2:** Top 3 products optimized + testing framework
-- **Month 3-4:** Next 3 products + trust signals
-- **Month 5-6:** Continuous optimization + refinement
+- **Months 1-3:** Top 12-18 products optimized + basic SEO cleanup → 3.0% A2C
+- **Months 4-6:** Next 12-18 products + trust signals → 3.5% A2C  
+- **Months 7-12:** Traffic quality shift taking effect → 4.0% A2C
 
 ### Best For
 
 - Budget-conscious businesses
 - First-time optimization engagement
 - Testing the approach before scaling
-- Businesses with limited internal resources
+- Smaller product catalogs (20-30 products)
 
 ### Limitations
 
-- Slower progress (2-3 pages/month means 6-9 month full catalog)
-- Limited testing capacity (1-2 tests means slower validation)
+- Slower progress (6-month timeline to see 3.5% A2C)
+- Limited testing capacity (slower validation)
 - Quarterly strategic calls (less frequent guidance)
 - Basic implementations (not advanced features)
 
 ---
 
-## Tier 2: Growth - $9,500/month ⭐ RECOMMENDED
+## Tier 2: Growth - $11,500/month ⭐ RECOMMENDED
 
 ### Overview
 
-The sweet spot for most businesses. Balanced investment with systematic optimization, continuous testing, and measurable results.
+The sweet spot for most businesses. Balanced investment with systematic optimization, continuous testing, and measurable results within 90 days.
 
-### Monthly Hours: 40-50 (HARD CAP)
+### What's Included
 
-Work stops at 50 hours. Scope protection built in.
+**Monthly Deliverables:**
 
-### Team Composition
-
-- 1 Conversion Strategist (80% time)
-- 1 UX/UI Designer (60% time)
-- 1 Front-End Developer (40% time)
-- Project Manager (20% time)
-
-### Monthly Deliverables
-
-**Product Pages:**
-- 4-5 product page optimizations per month
-- Priority ranking by revenue + opportunity
-- Advanced mobile optimization
-- Comprehensive trust signal strategy
-
-**Testing & Analytics:**
-- 2-3 A/B tests running continuously
+- 8-12 product page optimizations per month (priority ranking by revenue + opportunity)
+- Comprehensive SEO cleanup (toxic backlink disavowal + commercial keyword targeting)
+- A/B testing program (2-3 tests running continuously)
 - Bi-weekly analytics & insights reports
-- Monthly performance dashboard
 - Monthly strategic planning call
 
-**Optimizations:**
-- Advanced trust signal implementation (reviews, UGC, certifications)
-- Site speed & Core Web Vitals optimization
-- Exit-intent strategies for abandoners
-- Product recommendation engine setup
-- Heatmaps & session recording analysis
+**Advanced Optimizations:**
 
-**SEO:**
-- Product page SEO optimization
-- Commercial keyword targeting
-- On-page SEO improvements
+- Advanced trust signal implementation (reviews, UGC, certifications, COA downloads)
+- Site speed & Core Web Vitals optimization
+- Heatmaps & session recording analysis
+- Product page SEO optimization for commercial keywords
 - Internal linking strategy
 
 ### Expected Outcomes
 
-**Add-to-Cart Improvement:**
-- Current: 2.03%
-- Target: 4.0%
-- Improvement: +97%
+**90-Day Target:**
 
-**Revenue Impact:**
-- Additional orders: +379/month
-- Additional revenue: +$97,000/month
-- Annual gain: +$1,164,000
+- Add-to-Cart: 2.03% → 3.5% (+72%)
+- Additional orders: +224/month
+- Additional revenue: +$77,000/month
 
 **ROI:**
-- Monthly investment: $9,500
-- Monthly return: $97,000
-- **ROI: 10.2x**
+
+- Monthly investment: $11,500
+- Monthly return (90 days): $77,000
+- **ROI: 6.7x**
 - **Payback: 35 days**
+
+**12-Month Target:**
+
+- Add-to-Cart: 2.03% → 5.0% (+146%)
+- Additional revenue: +$165,000/month
+- **ROI: 14.3x**
 
 ### Timeline
 
-**Month 1: Foundation**
-- Deep funnel analysis
-- Top 3 products redesigned
-- Testing framework established
-- Result: +28% add-to-cart improvement
-
-**Month 2: Scale**
-- 5 more products optimized (8 total)
-- Trust signals across site
-- Continuous testing
-- Result: +67% add-to-cart improvement
-
-**Month 3: Optimize**
-- Personalization implemented
-- Commercial SEO deployed
-- Systematic process established
-- Result: +97% add-to-cart improvement
+- **Month 1:** Foundation - Deep funnel analysis + top 8-12 products redesigned + testing framework → 2.8% A2C
+- **Month 2:** Scale - Next 8-12 products + trust signals + B2B content strategy → 3.2% A2C
+- **Month 3:** Optimize - Final wave + commercial SEO deployed + systematic process → 3.5% A2C
+- **Months 4-12:** Traffic quality shift drives continued improvement → 5.0% A2C
 
 ### Best For
 
 - Businesses ready for serious growth
+- Want results in 90 days with continued improvement to 12 months
+- Medium-large catalogs (30-60 products)
 - Committed to data-driven optimization
-- Want balance between speed and investment
-- Have internal team to collaborate with
+- Best balance of speed and investment
 
 ### Advantages Over Starter
 
-- 2x the pages optimized (4-5 vs 2-3)
+- 2x the pages optimized (8-12 vs 4-6)
+- Comprehensive vs basic SEO
 - More testing (validates faster)
-- Monthly strategic calls (better alignment)
-- Advanced features (personalization, SEO)
-- Faster results (3 months vs 6+ months)
+- Monthly vs quarterly strategic calls
+- Achieves 3.5% in 90 days vs 6 months
 
 ---
 
-## Tier 3: Plus - $15,000/month
+## Tier 3: Plus - $17,500/month
 
 ### Overview
 
-Maximum velocity optimization for businesses wanting rapid transformation and full catalog coverage.
+Maximum velocity optimization for businesses wanting rapid transformation and full catalog coverage within 90 days, with 5.0%+ results by 6 months.
 
-### Monthly Hours: 60-80 (HARD CAP)
+### What's Included
 
-Work stops at 80 hours. Premium tier with dedicated resources.
+**Monthly Deliverables:**
 
-### Team Composition
-
-- 1 Senior Conversion Strategist (dedicated)
-- 1 UX/UI Designer (80% time)
-- 1 Front-End Developer (80% time)
-- 1 Data Analyst (40% time)
-- Project Manager (40% time)
-
-### Monthly Deliverables
-
-**Product Pages:**
-- 8-10 product page optimizations per month
-- Full catalog coverage in 3-4 months
-- Enterprise-level mobile experience
-- Complete trust signal ecosystem
-
-**Testing & Analytics:**
-- 4-6 A/B tests running simultaneously
-- Weekly optimization sprints
-- Weekly analytics reports
+- 14-20 product page optimizations per month (full catalog coverage in 3-4 months)
+- Advanced SEO + content strategy (comprehensive commercial keyword targeting + B2B content creation)
+- Aggressive A/B testing (4-6 tests running simultaneously)
+- Weekly analytics reports + optimization sprints
 - Bi-weekly strategic planning calls
-- Quarterly strategy workshops
+- Quarterly comprehensive audits (free)
 
 **Advanced Features:**
+
 - AI-powered product recommendations
 - Dynamic personalization (returning visitors, cart abandoners, VIPs)
 - Advanced segmentation & targeting
-- Behavioral triggers and automation
 - Custom conversion features development
-
-**SEO:**
-- Full commercial keyword strategy
-- Competitive analysis & benchmarking
-- Advanced on-page optimization
-- Content strategy for buyer intent
+- Real-time performance monitoring
 
 **Performance:**
+
 - Priority site speed optimization
 - Advanced Core Web Vitals work
 - CDN and hosting optimization
-- Real-time performance monitoring
 
 ### Expected Outcomes
 
-**Add-to-Cart Improvement:**
-- Current: 2.03%
-- Target: 5.0%
-- Improvement: +146%
+**90-Day Target:**
 
-**Revenue Impact:**
-- Additional orders: +574/month
-- Additional revenue: +$151,000/month
-- Annual gain: +$1,812,000
+- Add-to-Cart: 2.03% → 4.0% (+97%)
+- Additional orders: +379/month
+- Additional revenue: +$110,000/month
 
 **ROI:**
-- Monthly investment: $15,000
-- Monthly return: $151,000
-- **ROI: 10.1x**
-- **Payback: 35 days**
+
+- Monthly investment: $17,500
+- Monthly return (90 days): $110,000
+- **ROI: 6.3x**
+- **Payback: 30 days**
+
+**6-Month Target:**
+
+- Add-to-Cart: 2.03% → 5.0-5.5% (+146-171%)
+- Additional revenue: +$190,000/month
+- **ROI: 10.9x**
+
+**12-Month Target:**
+
+- Add-to-Cart: 2.03% → 6.0%+ (+196%+)
+- Additional revenue: +$220,000+/month
+- **ROI: 12.6x**
 
 ### Timeline
 
 **Accelerated 90-Day Transformation:**
 
-**Month 1:**
-- 8 product pages optimized
-- Full testing infrastructure
-- Advanced analytics deployed
-- Result: +40% add-to-cart improvement
-
-**Month 2:**
-- 10 more pages (18 total)
-- Personalization live
-- AI recommendations deployed
-- Result: +80% add-to-cart improvement
-
-**Month 3:**
-- Remaining catalog optimized
-- Full automation implemented
-- Systematic optimization process
-- Result: +146% add-to-cart improvement
+- **Month 1:** 14-20 pages optimized + full testing infrastructure + advanced analytics → 2.8-3.0% A2C
+- **Month 2:** Next 14-20 pages + personalization live + AI recommendations → 3.5% A2C
+- **Month 3:** Remaining catalog + full automation + category pages → 4.0% A2C
+- **Months 4-6:** Traffic quality shift drives rapid improvement → 5.0-5.5% A2C
 
 ### Best For
 
-- High-growth businesses
-- E-commerce with large catalogs
-- Businesses with strong internal buy-in
-- Maximum ROI priority
+- High-growth businesses needing maximum velocity
+- Large catalogs (60+ products) requiring full coverage in 90 days
 - Competitive markets requiring rapid execution
+- Want 5.0%+ results by 6 months (not 12 months)
+- Enterprise-level features needed
 
 ### Advantages Over Growth
 
-- 2x the pages optimized (8-10 vs 4-5)
-- Advanced personalization & AI
-- Weekly reporting and sprints
-- Dedicated strategist
-- Fastest results (full catalog in 3-4 months)
+- 2x the pages optimized (14-20 vs 8-12)
+- Advanced personalization & AI features
+- Weekly vs bi-weekly reporting
+- Full catalog optimized in 90 days (vs 6+ months)
+- Reaches 5.0% in 6 months (vs 12 months)
 
 ---
 
@@ -320,22 +258,20 @@ Work stops at 80 hours. Premium tier with dedicated resources.
 ✅ Comfortable with slower progress (6+ month timeline)  
 ✅ Want to validate approach before scaling
 
-### Choose Growth If... ⭐ RECOMMENDED
+### Choose Growth If ⭐ RECOMMENDED
 
 ✅ Serious about growth  
 ✅ Balance speed and investment  
-✅ Medium-large catalog (20-50 products)  
-✅ Want results in 90 days  
-✅ Internal team can collaborate  
-✅ Best ROI per dollar invested (10.2x)
+✅ Medium-large catalog (30-60 products)  
+✅ Want 3.5% A2C in 90 days, 5.0% in 12 months  
+✅ Best balance of investment and results
 
-### Choose Plus If...
+### Choose Plus If
 
 ✅ Maximum velocity priority  
-✅ Large catalog (50+ products)  
-✅ Want full transformation in 90 days  
+✅ Large catalog (60+ products) needing full coverage in 90 days  
+✅ Want 4.0% A2C in 90 days, 5.0%+ in 6 months  
 ✅ Competitive market requiring rapid execution  
-✅ Strong internal buy-in and resources  
 ✅ Enterprise-level features needed
 
 ---
@@ -368,15 +304,17 @@ Consider downgrading when:
 
 ## What's Included in ALL Tiers
 
-✅ **Hard Hour Caps** - Scope protection for both sides  
+✅ **Fixed Monthly Investment** - No surprise costs or overages  
+✅ **Defined Deliverables** - Clear scope and expectations  
 ✅ **Dedicated Team** - Your team, not shared resources  
 ✅ **Data-Driven Decisions** - All recommendations backed by analytics  
 ✅ **Transparent Reporting** - Regular performance updates  
 ✅ **Strategic Planning** - Aligned goals and priorities  
-✅ **Project Management** - Coordinated execution  
 ✅ **A/B Testing** - Validate before scaling  
 ✅ **Performance Tracking** - ROI measurement  
-✅ **Flexibility** - Month-to-month after initial 6 months
+✅ **Flexibility** - Month-to-month after initial 3 months (Growth/Plus) or 6 months (Starter)
+
+**Note:** You're not buying hours—you're buying outcomes. Each tier delivers defined results with fixed monthly pricing. We scope the work to fit the budget, so you never pay more than the tier price.
 
 ---
 
