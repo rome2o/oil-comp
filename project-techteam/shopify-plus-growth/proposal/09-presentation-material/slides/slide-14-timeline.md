@@ -47,10 +47,11 @@
 
 **Summary Box (bottom):**
 
-- **Sign Today** → Active Work in 4 Weeks → 3.5% A2C in 90 Days → 5.0% A2C in 12 Months
+- **Sign Today** → Active Work in 4 Weeks → 2.38% A2C in 90 Days (17% improvement, 1.0x ROI) → 3.25% A2C in 12 Months (60% improvement, 4.56x ROI)
 - **Total Time to Launch:** 28 days
-- **Total Time to $77K/Month:** 90 days
-- **Total Time to $165K/Month:** 12 months
+- **Total Time to Breakeven:** 60-75 days (Month 3)
+- **Total Time to 2.46x ROI:** 6 months
+- **Total Time to 4.56x ROI:** 12 months
 - **Your Time Commitment:** 3-4 hours/week (calls + approvals)
 
 ---
@@ -75,9 +76,9 @@
 >
 > Week 4: We measure and report. You see Month 1 results and approve Month 2 plan.
 >
-> **4 weeks from signature to active optimization. 12 weeks from signature to $77K/month additional revenue. 12 months to $165K/month.**
+> **4 weeks from signature to active optimization. 12 weeks from signature to breakeven (1.0x ROI, 17% improvement). 12 months to 4.56x ROI (60% improvement, double the industry average).**
 >
-> That's how we deliver fast movement."
+> That's how we deliver fast movement with realistic, achievable results."
 
 **Time Commitment:**
 > "And your time commitment is minimal:
@@ -96,7 +97,7 @@
 > "Your time commitment is minimal—3-4 hours/week for approvals and calls. We handle the heavy lifting. And you'll have clear progress to report to Josef every week."
 
 **For Josef:**
-> "4 weeks to launch. 90 days to results. That's the fast movement you're looking for. No 6-month delays, no endless 'we're working on it'—clear milestones, clear timeline."
+> "4 weeks to launch. 60-75 days to breakeven. 12 months to double industry-standard returns. That's the fast movement you're looking for. No 6-month delays, no endless 'we're working on it'—clear milestones, clear timeline, realistic expectations."
 
 ---
 

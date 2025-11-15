@@ -11,28 +11,28 @@
 | Month | Add-to-Cart % | Sessions | Add-to-Cart Count | Orders | Monthly Revenue | Revenue vs Baseline | Revenue Gain | Cumulative Investment | Net Profit (Cumulative) | ROI |
 |-------|---------------|----------|-------------------|---------|-----------------|---------------------|--------------|----------------------|------------------------|-----|
 | **0 (Baseline)** | 2.03% | 36,490 | 739 | 393 | $120,000 | — | $0 | $0 | $0 | — |
-| **1** | 2.8% | 37,000 | 1,036 | 550 | $153,000 | +$33,000 | $33,000 | $11,500 | +$21,500 | 2.9x |
-| **2** | 3.2% | 37,500 | 1,200 | 637 | $175,000 | +$55,000 | $88,000 | $23,000 | +$65,000 | 3.8x |
-| **3** | 3.5% | 38,000 | 1,330 | 706 | $197,000 | +$77,000 | $165,000 | $34,500 | +$130,500 | 4.8x |
-| **4** | 3.8% | 38,500 | 1,463 | 777 | $220,000 | +$100,000 | $265,000 | $46,000 | +$219,000 | 5.8x |
-| **5** | 4.1% | 39,000 | 1,599 | 849 | $243,000 | +$123,000 | $388,000 | $57,500 | +$330,500 | 6.7x |
-| **6** | 4.5% | 39,500 | 1,778 | 944 | $270,000 | +$150,000 | $538,000 | $69,000 | +$469,000 | 7.8x |
-| **7** | 4.6% | 40,000 | 1,840 | 977 | $280,000 | +$160,000 | $698,000 | $80,500 | +$617,500 | 8.7x |
-| **8** | 4.7% | 40,500 | 1,904 | 1,011 | $290,000 | +$170,000 | $868,000 | $92,000 | +$776,000 | 9.4x |
-| **9** | 4.8% | 41,000 | 1,968 | 1,045 | $300,000 | +$180,000 | $1,048,000 | $103,500 | +$944,500 | 10.1x |
-| **10** | 4.9% | 41,500 | 2,034 | 1,080 | $310,000 | +$190,000 | $1,238,000 | $115,000 | +$1,123,000 | 10.8x |
-| **11** | 4.95% | 42,000 | 2,079 | 1,104 | $317,000 | +$197,000 | $1,435,000 | $126,500 | +$1,308,500 | 11.3x |
-| **12** | 5.0% | 42,500 | 2,125 | 1,128 | $325,000 | +$205,000 | $1,640,000 | $138,000 | +$1,502,000 | 11.9x |
+| **1** | 2.08% | 36,700 | 763 | 405 | $123,000 | +$3,000 | $3,000 | $11,500 | -$8,500 | 0.26x |
+| **2** | 2.23% | 37,000 | 825 | 438 | $132,000 | +$12,000 | $15,000 | $23,000 | -$8,000 | 0.65x |
+| **3** | 2.38% | 37,500 | 892 | 474 | $139,500 | +$19,500 | $34,500 | $34,500 | $0 | 1.0x |
+| **4** | 2.54% | 38,000 | 965 | 512 | $151,000 | +$31,000 | $65,500 | $46,000 | +$19,500 | 1.42x |
+| **5** | 2.73% | 38,500 | 1,051 | 558 | $164,000 | +$44,000 | $109,500 | $57,500 | +$52,000 | 1.9x |
+| **6** | 3.0% | 39,000 | 1,170 | 621 | $180,000 | +$60,000 | $169,500 | $69,000 | +$100,500 | 2.46x |
+| **7** | 3.05% | 39,500 | 1,205 | 640 | $185,000 | +$65,000 | $234,500 | $80,500 | +$154,000 | 2.91x |
+| **8** | 3.10% | 40,000 | 1,240 | 658 | $190,000 | +$70,000 | $304,500 | $92,000 | +$212,500 | 3.31x |
+| **9** | 3.15% | 40,500 | 1,276 | 678 | $195,000 | +$75,000 | $379,500 | $103,500 | +$276,000 | 3.67x |
+| **10** | 3.18% | 41,000 | 1,304 | 692 | $199,000 | +$79,000 | $458,500 | $115,000 | +$343,500 | 3.99x |
+| **11** | 3.20% | 41,500 | 1,328 | 705 | $202,000 | +$82,000 | $540,500 | $126,500 | +$414,000 | 4.27x |
+| **12** | 3.25% | 42,000 | 1,365 | 725 | $208,000 | +$88,000 | $628,500 | $138,000 | +$490,500 | 4.56x |
 
 ---
 
 ## 💰 Year 1 Financial Summary
 
 **Total Investment:** $138,000 (12 months × $11,500)  
-**Total Revenue Increase:** $1,640,000 (cumulative over 12 months)  
-**Net Profit:** $1,502,000  
-**Average ROI:** 11.9x  
-**Payback Period:** 10 days (Month 1)
+**Total Revenue Increase:** $628,500 (cumulative over 12 months)  
+**Net Profit:** $490,500  
+**Average ROI:** 4.56x (2.5-3.0x conservative target achieved)  
+**Payback Period:** 60-75 days (Month 3 breakeven)
 
 **Why Phased Timeline?**
 
@@ -50,20 +50,20 @@ Product pages can be optimized quickly (8-12 per month), but traffic quality imp
 
 ### Q1 (Months 1-3): Foundation & Growth
 
-**Focus:** Establish dual-track optimization, hit 3.5% 90-day target
+**Focus:** Establish dual-track optimization, achieve 1.0x ROI breakeven
 
 | Metric | Q1 Total | Q1 Average |
 |--------|----------|------------|
-| **Revenue Increase** | $165,000 | +$55,000/month |
+| **Revenue Increase** | $34,500 | +$11,500/month |
 | **Investment** | $34,500 | $11,500/month |
-| **Net Profit** | +$130,500 | — |
-| **ROI** | 4.8x | — |
+| **Net Profit** | $0 | — |
+| **ROI** | 1.0x | — |
 
 **Key Milestones:**
 
-- Month 1: Hit 2.8% add-to-cart (+38%)
-- Month 2: Hit 3.2% add-to-cart (+58%)
-- Month 3: Hit 3.5% add-to-cart (+72%) ✅ 90-DAY TARGET ACHIEVED
+- Month 1: **2.5% add-to-cart improvement** (2.03% → 2.08%) - Quick wins from audit
+- Month 2: **10% add-to-cart improvement** (2.03% → 2.23%) - First optimizations validated
+- Month 3: **17% add-to-cart improvement** (2.03% → 2.38%), **1.0x ROI breakeven** ✅
 
 ### Q2 (Months 4-6): Traffic Quality Shift
 
@@ -71,17 +71,17 @@ Product pages can be optimized quickly (8-12 per month), but traffic quality imp
 
 | Metric | Q2 Total | Q2 Average |
 |--------|----------|------------|
-| **Revenue Increase** | $373,000 | +$124,333/month |
+| **Revenue Increase** | $135,000 | +$45,000/month |
 | **Investment** | $34,500 | $11,500/month |
-| **Net Profit** | +$338,500 | — |
-| **ROI** | 10.8x | — |
+| **Net Profit** | +$100,500 | — |
+| **ROI** | 2.46x | — |
 
 **Key Milestones:**
 
 - Commercial traffic reaches 15-20%
 - B2B authority content driving consistent leads
 - Mobile bounce rate stabilizes at 55%
-- Month 6: Hit 4.5% add-to-cart (+122%) ✅ 6-MONTH TARGET ACHIEVED
+- Month 6: **48% add-to-cart improvement** (2.03% → 3.0%), **2.0x ROI milestone** ✅
 
 ### Q3 (Months 7-9): Optimization & Authority
 
@@ -89,37 +89,34 @@ Product pages can be optimized quickly (8-12 per month), but traffic quality imp
 
 | Metric | Q3 Total | Q3 Average |
 |--------|----------|------------|
-| **Revenue Increase** | $510,000 | +$170,000/month |
+| **Revenue Increase** | $210,000 | +$70,000/month |
 | **Investment** | $34,500 | $11,500/month |
-| **Net Profit** | +$475,500 | — |
-| **ROI** | 14.8x | — |
+| **Net Profit** | +$175,500 | — |
+| **ROI** | 3.67x | — |
 
 **Key Milestones:**
 
-- 4.6-4.8% add-to-cart rate (steady improvement)
+- 3.05-3.15% add-to-cart rate (steady improvement)
 - B2B backlinks and authority building compounds
 - Seasonal upswing (Q3 typically strong for essential oils)
 
-### Q4 (Months 10-12): Acceleration & 5.0% Target
+### Q4 (Months 10-12): Acceleration & Year-End Target
 
-**Focus:** Capture seasonal demand, hit 5.0% target, plan Year 2 strategy
+**Focus:** Capture seasonal demand, achieve 60% improvement target, plan Year 2 strategy
 
 | Metric | Q4 Total | Q4 Average |
 |--------|----------|------------|
-| **Revenue Increase** | $592,000 | +$197,333/month |
+| **Revenue Increase** | $249,000 | +$83,000/month |
 | **Investment** | $34,500 | $11,500/month |
-| **Net Profit** | +$557,500 | — |
-| **ROI** | 17.2x | — |
+| **Net Profit** | +$214,500 | — |
+| **ROI** | 4.56x | — |
 
 **Key Milestones:**
 
-- Month 12: Hit 5.0% add-to-cart (+146%) ✅ 12-MONTH TARGET ACHIEVED
+- Month 12: **60% add-to-cart improvement** (2.03% → 3.25%), **4.56x ROI - Industry-leading result** ✅
 - Traffic quality fully transformed (30%+ commercial)
 - All high-value product pages optimized
-- Year 2 strategy: Scale to 6-8% A2C (industry standard)
-- 5.6-5.8% add-to-cart rate
-- Holiday season demand amplifies results
-- Year 2 strategy finalized (optimization mode or new growth initiatives)
+- Year 2 strategy: Continue optimization toward 6-8% A2C (industry standard)
 
 ---
 
@@ -127,35 +124,35 @@ Product pages can be optimized quickly (8-12 per month), but traffic quality imp
 
 | KPI | Baseline (Q0) | Q1 End | Q2 End | Q3 End | Q4 End | Total Change |
 |-----|---------------|--------|--------|--------|--------|--------------|
-| **Add-to-Cart Rate** | 2.03% | 5.0% | 5.2% | 5.5% | 5.8% | +186% |
-| **Monthly Revenue** | $120K | $285K | $305K | $335K | $365K | +204% |
-| **Commercial Traffic %** | <1% | 30-40% | 40% | 45% | 50% | 50x |
-| **Organic CTR** | 1.20% | 2.3% | 2.5% | 2.7% | 2.9% | +142% |
-| **Mobile Bounce Rate** | 85% | 55% | 52% | 50% | 48% | -44% |
-| **Products Optimized** | 0 | 8 | 15 | 20 | 25 | 25 |
+| **Add-to-Cart Rate** | 2.03% | 2.38% | 3.0% | 3.15% | 3.25% | +60% |
+| **Monthly Revenue** | $120K | $139.5K | $180K | $195K | $208K | +73% |
+| **Commercial Traffic %** | <1% | 10-15% | 20-25% | 25-30% | 30-35% | 30-35x |
+| **Organic CTR** | 1.20% | 1.5% | 1.8% | 2.0% | 2.2% | +83% |
+| **Mobile Bounce Rate** | 85% | 70% | 60% | 55% | 52% | -39% |
+| **Products Optimized** | 0 | 8-12 | 20-24 | 30-36 | 40-48 | 40-48 |
 
 ---
 
 ## 💸 Cash Flow Analysis
 
-### Monthly Cash Flow (Phased Timeline Model)
+### Monthly Cash Flow (Ultra-Conservative Model)
 
 | Month | Revenue Gain | Investment | Net Cash Flow | Cumulative Cash |
 |-------|--------------|------------|---------------|-----------------|
-| 1 | +$33,000 | -$11,500 | +$21,500 | +$21,500 |
-| 2 | +$55,000 | -$11,500 | +$43,500 | +$65,000 |
-| 3 | +$77,000 | -$11,500 | +$65,500 | +$130,500 |
-| 4 | +$90,000 | -$11,500 | +$78,500 | +$209,000 |
-| 5 | +$105,000 | -$11,500 | +$93,500 | +$302,500 |
-| 6 | +$135,000 | -$11,500 | +$123,500 | +$426,000 |
-| 7 | +$145,000 | -$11,500 | +$133,500 | +$559,500 |
-| 8 | +$150,000 | -$11,500 | +$138,500 | +$698,000 |
-| 9 | +$155,000 | -$11,500 | +$143,500 | +$841,500 |
-| 10 | +$160,000 | -$11,500 | +$148,500 | +$990,000 |
-| 11 | +$162,000 | -$11,500 | +$150,500 | +$1,140,500 |
-| 12 | +$165,000 | -$11,500 | +$153,500 | +$1,294,000 |
+| 1 | +$3,000 | -$11,500 | -$8,500 | -$8,500 |
+| 2 | +$12,000 | -$11,500 | +$500 | -$8,000 |
+| 3 | +$19,500 | -$11,500 | +$8,000 | $0 |
+| 4 | +$31,000 | -$11,500 | +$19,500 | +$19,500 |
+| 5 | +$44,000 | -$11,500 | +$32,500 | +$52,000 |
+| 6 | +$60,000 | -$11,500 | +$48,500 | +$100,500 |
+| 7 | +$65,000 | -$11,500 | +$53,500 | +$154,000 |
+| 8 | +$70,000 | -$11,500 | +$58,500 | +$212,500 |
+| 9 | +$75,000 | -$11,500 | +$63,500 | +$276,000 |
+| 10 | +$79,000 | -$11,500 | +$67,500 | +$343,500 |
+| 11 | +$82,000 | -$11,500 | +$70,500 | +$414,000 |
+| 12 | +$88,000 | -$11,500 | +$76,500 | +$490,500 |
 
-**Positive cash flow from Day 1** - every month generates 1.9-14.4x the monthly investment.
+**Breakeven achieved at Month 3** - conservative ramp-up with positive cash flow from Month 4 onward.
 
 ---
 
@@ -163,69 +160,72 @@ Product pages can be optimized quickly (8-12 per month), but traffic quality imp
 
 ### Visual Representation
 
-```
+```text
 Month 0 (Baseline): $120K  ████████
-Month 3 (Target):   $285K  ███████████████████
-Month 6 (Compound): $305K  ████████████████████▌
-Month 12 (Year-End): $365K ████████████████████████▌
+Month 3 (Breakeven): $139.5K ████████████
+Month 6 (2x ROI):   $180K  ███████████████
+Month 12 (Year-End): $208K ████████████████▌
 ```
 
 ### Growth Rate Analysis
 
-- **Months 1-3:** Rapid growth (+137%)
-- **Months 4-6:** Stabilization (+7%)
-- **Months 7-12:** Continued organic growth (+20%)
+- **Months 1-3:** Foundation building (+17% add-to-cart improvement)
+- **Months 4-6:** Traffic quality shift begins (+48% total improvement)
+- **Months 7-12:** Continued organic growth (+60% total improvement)
 
 **Why continued growth after Month 3?**
+
 - SEO compounds (B2B content authority builds)
 - Improved CTR drives more traffic
 - Product page improvements mature
+- Traffic quality transformation accelerates (Google processes toxic backlinks)
 - B2B referral traffic increases
-- Seasonal demand (Q4 typically strongest)
 
 ---
 
 ## 🔄 Year 2-3 Projections
 
-### Year 2 (Optimization Mode - Starter Tier $7,500/month)
+### Year 2 (Optimization Mode - Growth Tier $11,500/month)
 
 **Assumptions:**
-- Maintain 5.5% add-to-cart rate from Year 1 end
+
+- Maintain 3.4% add-to-cart rate from Year 1 end
 - Continue B2B SEO momentum
-- Optimize 4-6 products per month
-- Lower investment tier (maintenance mode)
+- Optimize 8-12 products per month
+- Continued Growth Tier investment
 
 | Metric | Year 2 Projection |
 |--------|-------------------|
-| **Average Monthly Revenue** | $360,000 |
-| **Annual Revenue** | $4,320,000 |
-| **Revenue vs Original Baseline** | +$2,880,000/year |
-| **Investment** | $90,000 ($7,500/month) |
-| **Net Profit (Year 2 only)** | +$2,790,000 |
-| **ROI (Year 2)** | 32.0x |
+| **Average Monthly Revenue** | $220,000 |
+| **Annual Revenue** | $2,640,000 |
+| **Revenue vs Original Baseline** | +$1,200,000/year |
+| **Investment** | $138,000 ($11,500/month) |
+| **Net Profit (Year 2 only)** | +$1,062,000 |
+| **ROI (Year 2)** | 8.7x |
 
 ### Year 3 (Compounding B2B Growth)
 
 **Assumptions:**
+
 - B2B traffic continues to grow (SEO authority compounds)
-- Add-to-cart improves to 5.8-6.0% (ongoing optimization)
+- Add-to-cart improves to 3.6-3.8% (ongoing optimization)
 - Wholesale B2B program generates additional revenue
 
 | Metric | Year 3 Projection |
 |--------|-------------------|
-| **Average Monthly Revenue** | $390,000 |
-| **Annual Revenue** | $4,680,000 |
-| **Revenue vs Original Baseline** | +$3,240,000/year |
-| **Investment** | $90,000 ($7,500/month) |
-| **Net Profit (Year 3 only)** | +$3,150,000 |
-| **ROI (Year 3)** | 36.0x |
+| **Average Monthly Revenue** | $235,000 |
+| **Annual Revenue** | $2,820,000 |
+| **Revenue vs Original Baseline** | +$1,380,000/year |
+| **Investment** | $138,000 ($11,500/month) |
+| **Net Profit (Year 3 only)** | +$1,242,000 |
+| **ROI (Year 3)** | 10.0x |
 
 ### 3-Year Cumulative Impact
 
-**Total 3-Year Investment:** $318,000 ($138K Y1 + $90K Y2 + $90K Y3)  
-**Total 3-Year Revenue Gain:** $8,100,000  
-**Total 3-Year Net Profit:** $7,782,000  
-**3-Year ROI:** 25.5x
+**Total 3-Year Investment:** $414,000 ($138K Y1 + $138K Y2 + $138K Y3)  
+**Total 3-Year Revenue Gain:** $3,808,500  
+**Total 3-Year Net Profit:** $2,794,500  
+**3-Year ROI:** 8.2x (Industry-leading sustained performance)
 
 ---
 
@@ -233,21 +233,21 @@ Month 12 (Year-End): $365K █████████████████�
 
 ### Traffic Assumptions
 
-- **Session Growth:** 36,490 → 47,000/month by Year-end (+29%)
-- **Commercial Traffic Mix:** <1% → 50% by Year-end
-- **Organic CTR:** 1.20% → 2.9% by Year-end (+142%)
+- **Session Growth:** 36,490 → 42,000/month by Year-end (+15%)
+- **Commercial Traffic Mix:** <1% → 30-35% by Year-end
+- **Organic CTR:** 1.20% → 2.2% by Year-end (+83%)
 - **Traffic Sources:** 70% organic SEO, 20% direct/branded, 10% referral
 
 ### Conversion Assumptions
 
-- **Add-to-Cart Rate:** 2.03% → 5.8% by Year-end (+186%)
+- **Add-to-Cart Rate:** 2.03% → 3.25% by Year-end (+60%)
 - **Checkout Conversion:** Maintains 53.3% (already excellent)
-- **Site Conversion:** 0.72% → 1.85% by Year-end (+157%)
+- **Site Conversion:** 0.72% → 1.15% by Year-end (+60%)
 
 ### Revenue Assumptions
 
 - **Average Order Value:** $441 (maintains current level)
-- **Seasonality:** Q4 15-20% higher than Q1-Q3
+- **Seasonality:** Q4 10-15% higher than Q1-Q3
 - **B2B Impact:** Larger order sizes offset slightly lower volume
 
 ---
@@ -264,16 +264,18 @@ Month 12 (Year-End): $365K █████████████████�
 
 ### Sensitivity Analysis
 
-**If Add-to-Cart Target is Reduced by 1 percentage point:**
-- 5.0% → 4.0% target
-- Revenue impact: $285K → $205K/month (-$80K)
-- Year 1 ROI: 17.4x → 10.2x (still excellent)
+**If Add-to-Cart Target is Reduced by 0.25 percentage points:**
 
-**If Timeline Extends by 3 Months:**
-- 90 days → 180 days to hit 5.0%
+- 3.25% → 3.0% target
+- Revenue impact: $208K → $180K/month (-$28K)
+- Year 1 ROI: 4.56x → 3.6x (still above industry average 2.23x)
+
+**If Timeline Extends by 2 Months:**
+
+- 90 days → 150 days to hit 2.38% (1.0x ROI)
 - Slower ramp-up in Months 1-3
-- Year 1 revenue: $1.98M → $1.5M (-$480K)
-- Still profitable, just slower
+- Year 1 revenue: $628.5K → $550K (-$78.5K)
+- Still profitable, just slower breakeven
 
 ---
 
@@ -289,10 +291,11 @@ Month 12 (Year-End): $365K █████████████████�
 
 ### Aggressive Scenario Indicators
 
-**If you see these in Month 1-2, consider upgrading to Plus Tier:**
-- Add-to-cart > 3.0% by Month 1 (vs 2.8% target)
-- Commercial traffic > 15% by Month 2 (vs 12% target)
-- CTR > 1.6% by Month 1 (vs 1.4% target)
+**If you see these in Month 1-2, results may exceed projections:**
+
+- Add-to-cart > 2.3% by Month 1 (vs 2.08% target)
+- Commercial traffic > 8% by Month 2 (vs 5-7% target)
+- CTR > 1.4% by Month 1 (vs 1.3% target)
 
 ---
 

@@ -42,48 +42,59 @@ Systematic optimization of product pages to improve add-to-cart conversion throu
 
 ## 💰 Pricing & ROI (Three Tiers)
 
-### Starter - $6,500/month
-- **Hours:** 20-25/month (HARD CAP)
-- **Pages:** 2-3 product pages/month
+### Starter - $7,500/month
+- **Deliverables:** 4-6 product pages/month optimized + basic SEO cleanup
 - **Testing:** 1-2 A/B tests/month
-- **Target:** 2.03% → 3.0% add-to-cart
-- **Revenue:** +$42K/month
-- **ROI:** 6.5x | **Payback:** 56 days
+- **Reporting:** Monthly
+- **90-Day Target:** 2.03% → 2.20% (+8% improvement)
+- **90-Day Revenue:** +$15K/month, 0.67x cumulative ROI
+- **12-Month Revenue:** +$75K/month, 3.33x cumulative ROI (meets industry baseline)
+- **Payback:** 90+ days
 
-### Growth - $9,500/month ⭐ RECOMMENDED
-- **Hours:** 40-50/month (HARD CAP)
-- **Pages:** 4-5 product pages/month
+### Growth - $11,500/month ⭐ RECOMMENDED
+- **Deliverables:** 8-12 product pages/month optimized + comprehensive SEO + B2B content strategy
 - **Testing:** 2-3 A/B tests/month
-- **Target:** 2.03% → 4.0% add-to-cart
-- **Revenue:** +$97K/month
-- **ROI:** 10.2x | **Payback:** 35 days
+- **Reporting:** Bi-weekly
+- **90-Day Target:** 2.03% → 2.38% (+17% improvement, 1.0x ROI breakeven)
+- **90-Day Revenue:** +$23K/month, breakeven at Month 3
+- **6-Month Revenue:** +$67K/month, 2.46x cumulative ROI
+- **12-Month Revenue:** +$105K/month, 4.56x cumulative ROI (2x industry average)
+- **Payback:** 60-75 days
 
-### Plus - $15,000/month
-- **Hours:** 60-80/month (HARD CAP)
-- **Pages:** 8-10 product pages/month
+### Plus - $17,500/month
+- **Deliverables:** 14-20 product pages/month optimized + advanced SEO + aggressive content strategy
 - **Testing:** 4-6 A/B tests/month
-- **Target:** 2.03% → 5.0% add-to-cart
-- **Revenue:** +$151K/month
-- **ROI:** 10.1x | **Payback:** 35 days
+- **Reporting:** Weekly
+- **90-Day Target:** 2.03% → 2.50% (+23% improvement)
+- **90-Day Revenue:** +$32K/month, 1.3x cumulative ROI
+- **12-Month Revenue:** +$125K/month, 5.58x cumulative ROI (2.5x industry average)
+- **Payback:** 60 days
+
+**Note:** You're not buying hours—you're buying outcomes. Fixed monthly pricing with defined deliverables. No surprise costs, no hourly billing.
 
 ---
 
-## 🎯 90-Day Execution Plan
+## 🎯 90-Day Execution Plan (Ultra-Conservative Timeline)
 
-### Month 1: Foundation (48 hours)
-- **Traffic:** B2B keyword research, CTR optimization campaign (30+ pages)
-- **Pages:** Audit + redesign top 3 products (Rosemary, Peppermint, Lavender)
-- **Result:** +38% add-to-cart, +$42K revenue
+### Month 1: Foundation + Baseline
+- **Traffic:** B2B keyword research, identify commercial intent gaps, CTR optimization campaign begins
+- **Pages:** Audit + redesign top 8-12 products (Rosemary, Peppermint, Lavender, etc.)
+- **Target:** 2.03% → 2.08% add-to-cart (+2.5% improvement)
+- **Result:** +$3K/month revenue, foundation established
 
-### Month 2: B2B Launch (52 hours)
-- **Traffic:** 2 B2B pillar content pieces, optimize 10 B2B product pages
-- **Pages:** 5 more product optimizations + trust signal implementation
-- **Result:** +97% add-to-cart, +$97K revenue
+### Month 2: Validation + B2B Launch
+- **Traffic:** Launch B2B landing pages, begin commercial keyword targeting, optimize category pages
+- **Pages:** Next 8-12 products optimized + trust signal implementation + A/B testing validation
+- **Target:** 2.08% → 2.25% add-to-cart (+11% improvement)
+- **Result:** +$12K/month revenue, traffic quality shift begins
 
-### Month 3: Authority Building (46 hours)
-- **Traffic:** Digital PR campaign, backlink building, advanced schema
-- **Pages:** Personalization + 3-4 more products optimized
-- **Result:** +146% add-to-cart, +$165K revenue
+### Month 3: Scale + Optimization
+- **Traffic:** B2B authority content, schema markup, commercial content expansion
+- **Pages:** Final 8-12 products + personalization + mobile UX refinements
+- **Target:** 2.25% → 2.38% add-to-cart (+17% improvement, **1.0x ROI breakeven**)
+- **Result:** +$23K/month revenue, sustainable system established
+
+**Why 90 Days ≠ Full Results:** Traffic quality transformation takes 6-12 months. 1,621 toxic backlinks need 3-6 months to process. New B2B content needs 2-4 months to rank. We focus on achievable results, not impossible promises.
 
 ---
 
@@ -111,39 +122,31 @@ Systematic optimization of product pages to improve add-to-cart conversion throu
 
 ## 🛡️ Risk Protection
 
-**Hard Hour Caps:** Work stops at monthly limit (20/40/60 hrs per tier)
+**Fixed Monthly Investment:** $11,500/month, period—no hourly billing, no surprise costs
 
-**Scope Management:** Any additional work requires written approval
+**Scope Management:** Defined deliverables each month—any additional work requires written approval
 
-**Flexibility:** Month-to-month after initial 6-month commitment
+**Flexibility:** 6-month initial commitment, month-to-month after that, 30-day cancellation notice
 
-**Transparency:** Bi-weekly/monthly performance reports
+**Transparency:** Bi-weekly analytics reports + monthly strategy calls
 
----
-
-## 🛡️ Risk Management
-
-**Hard Hour Caps:** 50 hours max/month - work stops at cap, requires discussion to continue
-
-**Scope Protection:** Any work beyond agreed deliverables needs written approval
-
-**Performance Tracking:** Weekly add-to-cart monitoring, bi-weekly analytics, monthly reporting
-
-**Contract Terms:** 6-month initial commitment, month-to-month after that, 30-day cancellation notice
+**You Pay for Outcomes, Not Hours:** We scope work to fit the budget—you never pay more than the tier price
 
 ---
 
-## 📈 Expected Outcomes (Growth Tier)
+## 📈 Expected Outcomes (Growth Tier - Ultra-Conservative)
 
-| Metric | Current | Target (90 days) | Improvement |
-|--------|---------|------------------|-------------|
-| Add-to-Cart Rate | 2.03% | 4.0% | +97% |
-| Site Conversion | 0.72% | 1.4% | +94% |
-| Monthly Orders | 272 | 651 | +379 |
-| Monthly Revenue | $120K | $217K | +$97K |
-| Annual Revenue | $1.44M | $2.60M | +$1.16M |
+| Metric | Current | 90 Days | 6 Months | 12 Months |
+|--------|---------|---------|----------|-----------|
+| Add-to-Cart Rate | 2.03% | 2.38% (+17%) | 3.0% (+48%) | 3.25% (+60%) |
+| Site Conversion | 0.72% | 0.84% | 1.06% | 1.15% |
+| Monthly Orders | 272 | 324 | 424 | 477 |
+| Monthly Revenue | $120K | $143K (+$23K) | $187K (+$67K) | $225K (+$105K) |
+| Cumulative ROI | - | **1.0x (Breakeven)** ✅ | **2.46x** ✅ | **4.56x** ✅ |
 
-**Investment:** $9,500/month | **Return:** $97,000/month | **ROI:** 10.2x
+**Investment:** $11,500/month | **90-Day Return:** $23K/month (breakeven) | **12-Month Return:** $105K/month (9.13x monthly ROI)
+
+**Industry Context:** CRO services average 2.23x Year 1 ROI. Our target of 4.56x is **2x better than industry average**—conservative but exceptional.
 
 ---
 
@@ -171,10 +174,11 @@ Systematic optimization of product pages to improve add-to-cart conversion throu
 
 ## ⚡ Why Act Now?
 
-1. **First-Mover Advantage:** B2B essential oil keywords are under-competitive now. 12-18 month window.
-2. **Compounding Returns:** SEO benefits compound. Earlier you start, more you gain (3-year value: +$5.88M net).
-3. **Checkout Already Works:** Your 53.3% checkout conversion is excellent. Just need to get more people there.
-4. **Theme Foundation Solid:** Recent theme change improved technical SEO. Perfect time to build on it.
+1. **Compounding Returns:** SEO benefits compound. Earlier you start, more you gain over 12-24 months.
+2. **Checkout Already Works:** Your 53.3% checkout conversion is excellent. Just need to get more qualified visitors there.
+3. **Theme Foundation Solid:** Recent theme change improved technical SEO. Perfect time to build on it.
+4. **Realistic Timeline:** Unlike other agencies, we set achievable targets—breakeven at Month 3, 2x industry average at Month 12.
+5. **B2B Keyword Opportunity:** Commercial intent keywords under-competitive now. Strategic window to establish authority.
 
 ---
 
@@ -190,11 +194,13 @@ Systematic optimization of product pages to improve add-to-cart conversion throu
 
 | | |
 |---|---|
-| **Problem** | 2.03% add-to-cart (should be 8-10%) |
-| **Solution** | Product Page Optimization Program |
-| **Investment** | $9,500/month (recommended) |
-| **Outcome** | +$97K/month \| 10x ROI \| 35-day payback |
-| **Protection** | Hard caps, clear scope, flexible terms |
+| **Problem** | 2.03% add-to-cart (should be 8-10%) + 90% wrong traffic |
+| **Solution** | Dual-Track: Product Page Optimization + B2B Traffic Quality |
+| **Investment** | $11,500/month (recommended Growth tier) |
+| **90-Day Outcome** | +$23K/month \| 1.0x ROI (breakeven) \| 60-75 day payback |
+| **12-Month Outcome** | +$105K/month \| 4.56x ROI (2x industry average) |
+| **Protection** | Fixed pricing, defined deliverables, flexible terms |
+| **Reality Check** | Ultra-conservative projections, achievable targets, honest timeline |
 | **Timeline** | Launch in 4 weeks |
 
 **Questions?** Contact Devkind Team  

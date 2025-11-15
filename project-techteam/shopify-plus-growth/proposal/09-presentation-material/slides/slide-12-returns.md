@@ -10,48 +10,56 @@
 
 **Primary Visual:** ROI progression chart (bar graph showing monthly returns)
 
-**Conservative Scenario (Growth Tier, Phased Timeline):**
+**Expected Scenario (Growth Tier, Ultra-Conservative Timeline):**
 
-| Month | Add-to-Cart | Revenue Increase | Investment | ROI | Payback Period |
+| Month | Add-to-Cart | Revenue Increase | Investment | ROI | Cumulative ROI |
 |-------|-------------|------------------|------------|-----|----------------|
-| **Month 1** | 2.03% → 2.8% | +$33,000 | $11,500 | **2.9x** | 10 days |
-| **Month 2** | 2.8% → 3.2% | +$55,000 | $11,500 | **4.8x** | 6 days |
-| **Month 3** | 3.2% → 3.5% | +$77,000 | $11,500 | **6.7x** | 4 days |
-| **Month 6** | 3.5% → 4.5% | +$135,000 | $11,500 | **11.7x** | 2.5 days |
-| **Month 12** | 4.5% → 5.0%+ | +$165,000 | $11,500 | **14.3x** | 2 days |
+| **Month 1** | 2.03% → 2.08% | +$3,000 | $11,500 | **0.26x** | 0.26x |
+| **Month 2** | 2.08% → 2.25% | +$12,000 | $11,500 | **1.04x** | 0.65x |
+| **Month 3** | 2.25% → 2.38% | +$19,500 | $11,500 | **1.70x** | **1.0x (Breakeven)** |
+| **Month 6** | 2.38% → 3.00% | +$59,000 | $11,500 | **5.13x** | 2.46x |
+| **Month 12** | 3.00% → 3.25% | +$105,000 | $11,500 | **9.13x** | **4.56x** |
 
-**90-Day Total:**
+**90-Day Results (Percentage-Based Messaging):**
+- **Add-to-Cart Improvement:** 2.03% → 2.38% (**17% improvement**)
 - **Total Investment:** $34,500
-- **Total Revenue Increase:** $165,000 (cumulative at Month 3)
-- **Net Profit:** $130,500
-- **Overall ROI:** 4.8x in 90 days
+- **Total Revenue Increase:** $34,500 (cumulative at Month 3)
+- **Cumulative ROI:** **1.0x (Breakeven in 60-75 days)**
 
-**12-Month Projection (Full Journey):**
-- Add-to-cart: 2.03% → 5.0%+ (146% improvement)
-- Cumulative revenue increase: $1,320,000
-- Total investment: $138,000
-- Net profit: $1,182,000
-- **Overall ROI: 9.6x**
+**6-Month Results:**
+- **Add-to-Cart Improvement:** 2.03% → 3.00% (**48% improvement**)
+- **Total Investment:** $69,000
+- **Total Revenue Increase:** $169,500 (cumulative)
+- **Cumulative ROI:** **2.46x**
 
----
-
-**Pessimistic Scenario (50% Slower):**
-
-| Timeline | Add-to-Cart | Revenue Increase | ROI |
-|----------|-------------|------------------|-----|
-| Month 3 | 3.0% (instead of 3.5%) | +$55K/month | **4.8x** |
-| Month 12 | 4.2% (instead of 5.0%) | +$125K/month | **10.9x** |
-
-**Still excellent returns**
+**12-Month Results:**
+- **Add-to-Cart Improvement:** 2.03% → 3.25% (**60% improvement**)
+- **Total Revenue Increase:** $452,000 (cumulative)
+- **Total Investment:** $138,000
+- **Net Profit:** $314,000
+- **Cumulative ROI: 4.56x** (Industry average: 2.23x)
 
 ---
 
-**Optimistic Scenario (Plus Tier, Faster Timeline):**
+**Baseline Scenario (Industry Standard Performance):**
 
-| Timeline | Add-to-Cart | Revenue Increase | ROI |
-|----------|-------------|------------------|-----|
-| Day 75 | 3.5% (15 days faster) | +$77K/month | **4.4x** |
-| Month 10 | 5.0% (2 months faster) | +$165K/month | **9.4x** |
+| Timeline | Add-to-Cart | Revenue Increase | Cumulative ROI |
+|----------|-------------|------------------|----------------|
+| Month 3 | 2.15% | +$10K/month | **0.75x** |
+| Month 12 | 2.85% | +$55K/month | **2.23x** |
+
+**Meets industry average for CRO services**
+
+---
+
+**Optimistic Scenario (Accelerated Timeline):**
+
+| Timeline | Add-to-Cart | Revenue Increase | Cumulative ROI |
+|----------|-------------|------------------|----------------|
+| Month 3 | 2.50% | +$25K/month | **1.3x** |
+| Month 12 | 3.50% | +$125K/month | **5.58x** |
+
+**Exceeds expected performance by 22%**
 
 ---
 
@@ -60,39 +68,41 @@
 **Opening:**
 > "Let's talk returns—because this is what really matters."
 
-**Conservative Scenario:**
-> "**Conservative scenario (Growth Tier):**
+**Expected Scenario (Ultra-Conservative):**
+> "**Expected scenario using our ultra-conservative model:**
 >
-> Month 1, we hit 2.8% add-to-cart. That's a 38% improvement over your current 2.03%. That adds $33,000 in revenue. You paid $11,500. **ROI: 2.9x**. Payback in 10 days.
+> Month 1, we achieve 2.08% add-to-cart. That's a 2.5% improvement over your current 2.03%. This is the audit phase—we're learning, testing, establishing baselines. Revenue increase: $3,000. You paid $11,500. We're investing in the foundation.
 >
-> Month 2, we hit 3.2%. That's $55,000 additional revenue. **ROI: 4.8x**. Payback in 6 days.
+> Month 2, we hit 2.25%. That's an 11% improvement. We're starting to see traction. Revenue increase: $12,000. Your investment is now paying back.
 >
-> Month 3, we hit 3.5%. That's $77,000 additional revenue. **ROI: 6.7x**. Payback in 4 days.
+> Month 3, we hit 2.38%. That's a 17% improvement. Revenue increase: $19,500. **You break even at Month 3**—total investment of $34,500 equals total revenue increase.
 >
-> **Total 90-day investment:** $34,500  
-> **Total revenue increase:** $165,000  
-> **Net profit:** $130,500
->
-> That's a 4.8x return in 90 days—honest, achievable results."
+> **90-day result:** 17% improvement, 1.0x ROI. You're profitable from Month 4 forward.
 
-**Extended Value (12 Months):**
-> "And that's just the beginning. By Month 6, we hit 4.5% add-to-cart—that's $135,000 per month. By Month 12, we reach 5.0%+—that's $165,000 per month.
+**6-Month Performance:**
+> "By Month 6, we achieve 3.00% add-to-cart—that's a 48% improvement. Monthly revenue increase: $59,000.
 >
-> **12-month totals:**
-> - Cumulative revenue increase: $1,320,000
+> **6-month cumulative:** Total investment $69,000, total revenue increase $169,500. **Net profit: $100,500. ROI: 2.46x.**"
+
+**12-Month Performance:**
+> "By Month 12, we reach 3.25%—that's a 60% improvement. Monthly revenue increase: $105,000.
+>
+> **12-month cumulative:**
+> - Total revenue increase: $452,000
 > - Total investment: $138,000
-> - **Net profit: $1,182,000**
+> - **Net profit: $314,000**
+> - **ROI: 4.56x**
 >
-> That's nearly $1.2 million in profit over 12 months—and we're being conservative."
+> The industry average for CRO services is 2.23x. We're projecting **double the industry average**—and we're being conservative."
 
-**Pessimistic Scenario:**
-> "**Even in a pessimistic scenario** where we only hit 3.8% by Month 3 (50% slower than expected), you're still getting 8.1x ROI. That's still excellent."
+**Baseline Scenario:**
+> "**If we only achieve industry-standard performance** (Baseline scenario), you'd hit 2.85% by Month 12—a 2.23x ROI. That's still profitable, still worthwhile."
 
 **Optimistic Scenario:**
-> "**If we go optimistic with Plus Tier**, you hit 5% by Month 2—60 days instead of 90. Revenue increase happens faster, returns compound sooner."
+> "**If we achieve faster results** (Optimistic scenario), you'd hit 3.50% by Month 12—a 5.58x ROI. That's 22% better than expected."
 
 **The Bottom Line:**
-> "No matter which scenario plays out, you're profitable by Week 3. The upside is massive, the downside is minimal."
+> "No matter which scenario plays out, you're profitable by Month 3-4. The upside is massive, the downside still delivers industry-standard returns. This is a safe bet with exceptional potential."
 
 ---
 

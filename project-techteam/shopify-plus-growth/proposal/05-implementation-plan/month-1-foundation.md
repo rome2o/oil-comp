@@ -1,9 +1,9 @@
 # Month 1: Foundation & Quick Wins
 
 **Timeline:** Weeks 1-4  
-**Target:** 2.03% → 2.8% add-to-cart (+37%)  
-**Revenue Impact:** +$33K/month  
-**Focus:** Establish baselines, deploy high-impact changes, validate dual-track approach
+**Target:** **2.5% add-to-cart improvement** (2.03% → 2.08%)  
+**Revenue Impact:** +$3K/month  
+**Focus:** Establish baselines, deploy audit-phase quick wins, validate dual-track approach
 
 ---
 
@@ -12,17 +12,17 @@
 ### Primary Goals
 
 1. **Establish Performance Baselines** - Comprehensive tracking for both traffic quality and product pages
-2. **Deploy First Quick Wins** - Optimize 8-12 high-revenue product pages + launch B2B landing page
-3. **Validate Approach** - Prove dual-track strategy through early results
+2. **Deploy Audit-Phase Quick Wins** - Quick fixes identified during discovery (urgency elements, button optimization)
+3. **Prepare First Optimizations** - Design and prepare 8-12 high-revenue product pages for Week 4 launch
 4. **Set Success Patterns** - Identify what works for Month 2-3 scaling
 
 ### Success Criteria
 
-- ✅ Add-to-cart rate: ≥ 2.7% (target: 2.8%)
-- ✅ Commercial traffic %: ≥ 5% (baseline: <1%)
-- ✅ Organic CTR: ≥ 1.40% (baseline: 1.20%)
-- ✅ 8-12 product pages optimized with validated improvements
-- ✅ Revenue impact: +$30K minimum
+- ✅ **2.5% add-to-cart improvement** (2.03% → 2.08%)
+- ✅ Commercial traffic assessment complete
+- ✅ Organic CTR baseline established
+- ✅ 8-12 product page designs ready for deployment (launched Week 4)
+- ✅ Revenue impact: +$3K minimum (from quick wins only)
 
 ---
 
@@ -524,15 +524,15 @@
 
 **By End of Month 1, You Should See:**
 
-✅ Add-to-cart rate climbing from 2.03% → 2.7-2.8%  
-✅ 1 fully optimized product page (Rosemary Oil) with validated improvements  
-✅ "Bulk Essential Oils" landing page generating 3-5 wholesale inquiries  
-✅ Commercial traffic rising from <1% → 3-5%  
-✅ Organic CTR improving 1.20% → 1.40%  
-✅ Revenue increase of $40-50K/month  
-✅ Clear patterns identified for Month 2 scaling  
+✅ **2.5% add-to-cart improvement** (2.03% → 2.08%) from audit-phase quick wins  
+✅ 8-12 product page optimizations designed and ready for deployment (launched Week 4)  
+✅ "Bulk Essential Oils" landing page developed and tracking setup complete  
+✅ Commercial keyword strategy documented and ready for implementation  
+✅ Baseline metrics established for traffic quality transformation  
+✅ Revenue increase of $3K/month from quick wins  
+✅ Clear optimization patterns identified for Month 2 A/B testing validation  
 
-**If these indicators are met, Month 2-3 will aggressively scale these proven tactics.**
+**Month 1 sets the foundation. Month 2-3 validate and scale the optimizations.**
 
 ---
 

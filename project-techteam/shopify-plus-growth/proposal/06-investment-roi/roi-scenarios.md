@@ -20,152 +20,151 @@ All scenarios based on same $11,500/month investment | All assume dual-track opt
 
 ---
 
-## 🎯 Scenario 1: Conservative (70% of Target)
+## 🎯 Scenario 1: Baseline (Industry Average Trajectory)
 
-**Assumption:** Only 70% of projected improvements achieved
+**Assumption:** Performance matches industry average (2.23x Year 1 ROI)
 
 ### Performance Metrics
 
 | Metric | Baseline | 90-Day Target | 6-Month Target | 12-Month Target |
 |--------|----------|---------------|----------------|-----------------|
-| **Add-to-Cart Rate** | 2.03% | 3.0% | 3.8% | 4.2% |
-| **Commercial Traffic %** | <1% | 15% | 25% | 30% |
-| **Organic CTR** | 1.20% | 1.6% | 1.9% | 2.1% |
-| **Mobile Bounce Rate** | 85% | 70% | 62% | 58% |
+| **Add-to-Cart Rate** | 2.03% | 2.28% | 2.85% | 3.10% |
+| **Commercial Traffic %** | <1% | 8-10% | 18-22% | 28-32% |
+| **Organic CTR** | 1.20% | 1.35% | 1.70% | 2.0% |
+| **Mobile Bounce Rate** | 85% | 75% | 65% | 58% |
 
 ### Financial Impact
 
 | Period | Revenue Increase | Cumulative Investment | Net Profit | ROI |
 |--------|------------------|----------------------|------------|-----|
-| **Month 1** | +$25K | $11,500 | +$13,500 | 2.2x |
-| **Month 2** | +$42K | $23,000 | +$19,000 | 1.8x |
-| **Month 3** | +$55K | $34,500 | +$20,500 | 1.6x |
-| **Month 6** | +$100K/mo | $69,000 | +$531,000 | 8.7x |
-| **Year 1** | +$100K/mo | $138,000 | +$1,062,000 | 8.7x |
+| **Month 1** | +$2.5K | $11,500 | -$9,000 | 0.22x |
+| **Month 2** | +$10K | $23,000 | -$13,000 | 0.43x |
+| **Month 3** | +$17K | $34,500 | -$17,500 | 0.49x |
+| **Month 6** | +$52K/mo | $69,000 | +$243,000 | 2.0x |
+| **Year 1** | +$65K/mo | $138,000 | +$170,000 | 2.23x |
 
 ### Year 1 Summary
 
-- **Total Revenue Increase:** $1,200,000
+- **Total Revenue Increase:** $470,000
 - **Total Investment:** $138,000
-- **Net Profit:** $1,062,000
-- **ROI:** 8.7x
-- **Payback Period:** 42 days
+- **Net Profit:** $308,000
+- **ROI:** 2.23x (matches industry average)
+- **Payback Period:** 75-90 days
 
-**What This Means:** Even if we only achieve 70% of target, you still get 8.7x return on investment.
+**What This Means:** Conservative baseline matching industry average CRO ROI. Minimal risk scenario.
 
 ---
 
-## 🚀 Scenario 2: Expected (100% of Target)
+## 🚀 Scenario 2: Expected (Above Industry Average)
 
-**Assumption:** Full projected improvements achieved (base case)
+**Assumption:** Performance exceeds industry average through dual-track optimization
 
 ### Performance Metrics
 
 | Metric | Baseline | 90-Day Target | 6-Month Target | 12-Month Target |
 |--------|----------|---------------|----------------|-----------------|
-| **Add-to-Cart Rate** | 2.03% | 3.5% | 4.5% | 5.0% |
-| **Commercial Traffic %** | <1% | 22% | 35% | 40% |
-| **Organic CTR** | 1.20% | 1.9% | 2.2% | 2.4% |
-| **Mobile Bounce Rate** | 85% | 65% | 58% | 55% |
+| **Add-to-Cart Rate** | 2.03% | 2.38% | 3.0% | 3.25% |
+| **Commercial Traffic %** | <1% | 10-15% | 20-25% | 30-35% |
+| **Organic CTR** | 1.20% | 1.5% | 1.8% | 2.2% |
+| **Mobile Bounce Rate** | 85% | 70% | 60% | 52% |
 
 ### Financial Impact
 
 | Period | Revenue Increase | Cumulative Investment | Net Profit | ROI |
 |--------|------------------|----------------------|------------|-----|
-| **Month 1** | +$33K | $11,500 | +$21,500 | 2.9x |
-| **Month 2** | +$55K | $23,000 | +$32,000 | 2.4x |
-| **Month 3** | +$77K | $34,500 | +$42,500 | 2.2x |
-| **Month 6** | +$135K/mo | $69,000 | +$741,000 | 11.7x |
-| **Year 1** | +$165K/mo | $138,000 | +$1,842,000 | 14.3x |
+| **Month 1** | +$3K | $11,500 | -$8,500 | 0.26x |
+| **Month 2** | +$12K | $23,000 | -$11,000 | 0.52x |
+| **Month 3** | +$19.5K | $34,500 | -$15,000 | 0.56x |
+| **Month 6** | +$60K/mo | $69,000 | +$100,500 | 2.46x |
+| **Year 1** | +$88K/mo (avg) | $138,000 | +$490,500 | 4.56x |
 
 ### Month-by-Month Breakdown
 
 | Month | Add-to-Cart % | Monthly Revenue | Revenue vs Baseline | Investment | Cumulative ROI |
 |-------|---------------|-----------------|---------------------|------------|----------------|
 | **0 (Baseline)** | 2.03% | $120,000 | — | $0 | — |
-| **1** | 2.8% | $153,000 | +$33,000 | $11,500 | 2.9x |
-| **2** | 3.2% | $175,000 | +$55,000 | $23,000 | 2.4x |
-| **3** | 3.5% | $197,000 | +$77,000 | $34,500 | 2.2x |
-| **6** | 4.5% | $255,000 | +$135,000 | $69,000 | 2.0x |
-| **12** | 5.0% | $285,000 | +$165,000 | $138,000 | 1.2x |
-| **Year 1 Net** | 5.0% | +$1.98M gain | — | $138,000 | 14.3x |
+| **1** | 2.08% | $123,000 | +$3,000 | $11,500 | 0.26x |
+| **2** | 2.23% | $132,000 | +$12,000 | $23,000 | 0.65x |
+| **3** | 2.38% | $139,500 | +$19,500 | $34,500 | 1.0x ✅ |
+| **6** | 3.0% | $180,000 | +$60,000 | $69,000 | 2.46x ✅ |
+| **12** | 3.25% | $208,000 | +$88,000 | $138,000 | 4.56x ✅ |
 
 ### Year 1 Summary
 
-- **Total Revenue Increase:** $1,980,000
+- **Total Revenue Increase:** $628,500
 - **Total Investment:** $138,000
-- **Net Profit:** $1,842,000
-- **ROI:** 14.3x
-- **Payback Period:** 35 days
+- **Net Profit:** $490,500
+- **ROI:** 4.56x (2x industry average)
+- **Payback Period:** 60-75 days
 
-**What This Means:** Hit 3.5% target in 90 days, reach 5.0% by 12 months, generate $1.98M additional annual revenue for $138K investment.
+**What This Means:** Achieves 1.0x ROI breakeven at Month 3, reaches 2.46x at 6 months, ends Year 1 at 4.56x—double the industry average.
 
 ---
 
-## 🔥 Scenario 3: Aggressive (120% of Target)
+## 🔥 Scenario 3: Optimistic (Top 10% Performance)
 
-**Assumption:** Exceeds projections due to strong execution + favorable conditions
+**Assumption:** Exceeds expectations through exceptional execution + favorable market conditions
 
 ### Performance Metrics
 
 | Metric | Baseline | 90-Day Target | 6-Month Target | 12-Month Target |
 |--------|----------|---------------|----------------|-----------------|
-| **Add-to-Cart Rate** | 2.03% | 4.0% | 5.5% | 6.5% |
-| **Commercial Traffic %** | <1% | 28% | 45% | 50% |
-| **Organic CTR** | 1.20% | 2.2% | 2.6% | 2.9% |
-| **Mobile Bounce Rate** | 85% | 60% | 50% | 45% |
+| **Add-to-Cart Rate** | 2.03% | 2.55% | 3.25% | 3.60% |
+| **Commercial Traffic %** | <1% | 15-18% | 28-32% | 38-42% |
+| **Organic CTR** | 1.20% | 1.65% | 2.0% | 2.4% |
+| **Mobile Bounce Rate** | 85% | 65% | 55% | 48% |
 
 ### Financial Impact
 
 | Period | Revenue Increase | Cumulative Investment | Net Profit | ROI |
 |--------|------------------|----------------------|------------|-----|
-| **Month 1** | +$45K | $11,500 | +$33,500 | 3.9x |
-| **Month 2** | +$77K | $23,000 | +$54,000 | 3.3x |
-| **Month 3** | +$110K | $34,500 | +$75,500 | 3.2x |
-| **Month 6** | +$190K/mo | $69,000 | +$1,071,000 | 16.5x |
-| **Year 1** | +$240K/mo | $138,000 | +$2,742,000 | 20.9x |
+| **Month 1** | +$5K | $11,500 | -$6,500 | 0.43x |
+| **Month 2** | +$16K | $23,000 | -$7,000 | 0.70x |
+| **Month 3** | +$26K | $34,500 | -$8,500 | 0.75x |
+| **Month 6** | +$75K/mo | $69,000 | +$219,000 | 4.17x |
+| **Year 1** | +$105K/mo (avg) | $138,000 | +$632,000 | 5.58x |
 
 ### Year 1 Summary
 
-- **Total Revenue Increase:** $2,880,000
+- **Total Revenue Increase:** $820,000
 - **Total Investment:** $138,000
-- **Net Profit:** $2,742,000
-- **ROI:** 20.9x
-- **Payback Period:** 28 days
+- **Net Profit:** $632,000
+- **ROI:** 5.58x (Top 10% of industry)
+- **Payback Period:** 45-55 days
 
-**What This Means:** Best-case scenario where everything exceeds expectations. Still achievable with strong product-market fit and execution.
+**What This Means:** Best-case scenario with faster traffic quality shift and higher conversion improvements. Achievable with strong execution.
 
 ---
 
 ## 📈 Scenario Comparison Chart
 
-| Scenario | 90-Day A2C | 12-Month A2C | 90-Day Revenue | 12-Month Revenue | Year 1 ROI | Payback |
-|----------|------------|--------------|----------------|------------------|------------|---------|
-| **Conservative (70%)** | 3.0% | 4.2% | +$55K/mo | +$100K/mo | 8.7x | 42 days |
-| **Expected (100%)** | 3.5% | 5.0% | +$77K/mo | +$165K/mo | 14.3x | 35 days |
-| **Aggressive (120%)** | 4.0% | 6.5% | +$110K/mo | +$240K/mo | 20.9x | 28 days |
+| Scenario | 90-Day A2C | 12-Month A2C | 90-Day Improvement | 12-Month Revenue | Year 1 ROI | Payback |
+|----------|------------|--------------|-------------------|------------------|------------|---------|
+| **Baseline (Industry Avg)** | 2.28% | 3.10% | +12% improvement | +$65K/mo | 2.23x | 75-90 days |
+| **Expected (Above Avg)** | 2.38% | 3.25% | +17% improvement | +$88K/mo | 4.56x | 60-75 days |
+| **Optimistic (Top 10%)** | 2.55% | 3.60% | +26% improvement | +$105K/mo | 5.58x | 45-55 days |
 
 ### Visual ROI Comparison
 
 ```text
-Conservative (8.7x):  ████████
-Expected (14.3x):     ██████████████
-Aggressive (20.9x):   ████████████████████
+Baseline (2.23x):     ██
+Expected (4.56x):     ████▌
+Optimistic (5.58x):   █████▌
 ```
 
 ---
 
 ## 🎯 What Determines Which Scenario You Hit?
 
-### Conservative Scenario Factors
+### Baseline Scenario Factors
 
-**You'll likely hit conservative if:**
+**You'll likely hit baseline if:**
 
 - Limited internal resources for approvals/implementation
 - Slow decision-making on design/content
 - Technical limitations or platform constraints
 - Competitive market makes SEO gains harder
-- Seasonal fluctuations negatively impact results
+- Conservative approach to B2B positioning
 
 **Mitigation:**
 
@@ -177,17 +176,19 @@ Aggressive (20.9x):   ███████████████████�
 ### Expected Scenario Factors (Most Common)
 
 **You'll likely hit expected if:**
+
 - Reasonable collaboration and approval timelines
 - HBNO provides product info, brand assets promptly
 - No major technical limitations
 - Market conditions remain stable
 - Execution follows proven playbook
 
-**This is the baseline assumption** - most clients hit 90-110% of target.
+**This is the baseline assumption** - most clients hit expected scenario with proper execution.
 
-### Aggressive Scenario Factors
+### Optimistic Scenario Factors
 
 **You'll likely exceed targets if:**
+
 - Exceptionally fast approval and decision-making
 - Strong product-market fit for B2B audience
 - Favorable competitive landscape (low B2B SEO competition)
@@ -195,10 +196,11 @@ Aggressive (20.9x):   ███████████████████�
 - Additional marketing efforts (email, ads) amplify results
 - HBNO goes "all-in" on B2B positioning
 
-**Indicators for aggressive scenario:**
-- CTR improvements exceed 100% in Month 1
-- Commercial traffic shifts faster than projected (30%+ by Month 2)
-- Product page optimizations consistently beat +25% targets
+**Indicators for optimistic scenario:**
+
+- CTR improvements exceed 80% in Month 1
+- Commercial traffic shifts faster than projected (15%+ by Month 2)
+- Product page optimizations consistently beat +20% targets
 
 ---
 
@@ -210,24 +212,30 @@ Aggressive (20.9x):   ███████████████████�
 
 | Scenario | Probability | ROI | Weighted ROI |
 |----------|-------------|-----|--------------|
-| Conservative | 20% | 12.1x | 2.4x |
-| Expected | 60% | 17.4x | 10.4x |
-| Aggressive | 20% | 25.3x | 5.1x |
-| **Weighted Average** | 100% | — | **17.9x** |
+| Baseline | 20% | 2.23x | 0.45x |
+| Expected | 60% | 4.56x | 2.74x |
+| Optimistic | 20% | 5.58x | 1.12x |
+| **Weighted Average** | 100% | — | **4.31x** |
 
-**Interpretation:** Even accounting for risk of underperformance, expected ROI is 17.9x.
+**Interpretation:** Even accounting for risk of underperformance, expected ROI is 4.31x—nearly double the industry average.
 
 ### Downside Protection
 
-**What if results are worse than conservative?**
+**What if results are worse than baseline?**
 
-Even if you only achieve **50% of target:**
-- Add-to-cart: 2.03% → 3.0% (+48%)
-- Revenue increase: +$60K/month
-- Year 1 ROI: 6.3x
-- Payback: 56 days
+Even if you only achieve **50% of expected target:**
 
-**Even at 50% target achievement, you still get 6.3x ROI** - better than most investments.
+- Add-to-cart: 2.03% → 2.20% (+8%)
+- Revenue increase: +$10K/month
+- Year 1 ROI: 0.87x
+- Payback: 15+ months
+
+**At 75% of expected target:**
+
+- Add-to-cart: 2.03% → 2.70% (+33%)
+- Revenue increase: +$45K/month
+- Year 1 ROI: 2.9x (above industry average)
+- Payback: 4-5 months
 
 ---
 
@@ -235,66 +243,71 @@ Even if you only achieve **50% of target:**
 
 ### Year 2-3 Projections (Assuming Expected Scenario)
 
-**Year 2 (Optimization Mode - $7,500/month Starter Tier):**
-- Maintain 5.0% add-to-cart rate
+**Year 2 (Optimization Mode - $11,500/month Growth Tier):**
+
+- Maintain 3.4% add-to-cart rate
 - Continue B2B SEO momentum
-- Add 4-6 product optimizations per month
-- Investment: $90,000
-- Revenue: $3.42M (maintain Year 1 level)
-- Net profit (Year 2 only): $3.33M
-- ROI: 37.0x
+- Add 8-12 product optimizations per month
+- Investment: $138,000
+- Revenue: $2.64M annual
+- Net profit (Year 2 only): $1.06M
+- ROI: 8.7x
 
 **Year 3 (Compounding B2B Growth):**
+
 - B2B traffic compounds (SEO authority builds)
-- Add-to-cart maintains or improves to 5.5-6.0%
+- Add-to-cart maintains or improves to 3.6-3.8%
 - Wholesale program generates additional B2B revenue
-- Revenue: $4.0M+ (organic growth + B2B expansion)
-- Cumulative 3-year revenue gain: $9.4M+
+- Revenue: $2.82M+ (organic growth + B2B expansion)
+- Cumulative 3-year revenue gain: $3.8M+
 
 ### 3-Year Cumulative ROI
 
-**Total 3-Year Investment:** $306,000  
-**Total 3-Year Revenue Gain:** $9,400,000+  
-**3-Year ROI:** 30.7x  
-**Total Net Profit:** $9,094,000
+**Total 3-Year Investment:** $414,000  
+**Total 3-Year Revenue Gain:** $3,808,500  
+**3-Year ROI:** 8.2x  
+**Total Net Profit:** $2,794,500
 
 ---
 
 ## 📊 Comparison to Alternative Investments
 
-### HBNO's $114K/Year Investment Options
+### HBNO's $138K/Year Investment Options
 
 | Investment Option | Year 1 Return | ROI | Payback | Risk Level |
 |-------------------|---------------|-----|---------|------------|
-| **Product Page Optimization (Growth Tier)** | $1,980,000 | 17.4x | 20 days | Low |
-| Paid Advertising (Google Ads) | $228,000 | 2.0x | 180+ days | Medium |
-| Email Marketing Platform + Strategy | $171,000 | 1.5x | 240+ days | Low |
-| Trade Show Exhibiting (B2B events) | $57,000 | 0.5x | Never | High |
-| Hiring Full-Time Marketing Manager | -$60,000 | Negative | Never | Low |
-| Product Photography Refresh | $34,000 | 0.3x | Never | Low |
+| **Product Page Optimization (Growth Tier)** | $628,500 | 4.56x | 60-75 days | Low-Medium |
+| Paid Advertising (Google Ads) | $276,000 | 2.0x | 180+ days | Medium |
+| Email Marketing Platform + Strategy | $207,000 | 1.5x | 240+ days | Low |
+| Trade Show Exhibiting (B2B events) | $69,000 | 0.5x | Never | High |
+| Hiring Full-Time Marketing Manager | -$72,000 | Negative | Never | Low |
+| Product Photography Refresh | $41,000 | 0.3x | Never | Low |
 
-**Product Page Optimization delivers 8-17x better ROI than alternatives.**
+**Product Page Optimization delivers 2-4x better ROI than most alternatives, with industry-leading performance.**
 
 ---
 
 ## 🎯 Which Scenario Should You Plan For?
 
-### Our Recommendation: Plan for Expected, Hope for Aggressive
+### Our Recommendation: Plan for Expected, Monitor for Optimistic
 
 **Budgeting:**
-- Base financial projections on **Expected Scenario** (5.0% add-to-cart, +$165K/month)
+
+- Base financial projections on **Expected Scenario** (3.25% add-to-cart, +$88K/month avg)
 - This is the most likely outcome (60% probability)
 - Conservative enough to avoid disappointment
-- Aggressive enough to justify investment
+- Achieves 4.56x ROI—double industry average
 
 **Resource Planning:**
-- Allocate internal resources assuming **Expected Scenario** timeline (90 days to target)
+
+- Allocate internal resources assuming **Expected Scenario** timeline (90 days to 1.0x ROI)
 - Plan for weekly collaboration and approvals
 - Prepare product info, brand assets, technical access upfront
 
 **Upside Opportunity:**
-- If trending toward Aggressive Scenario in Month 1-2, consider upgrading to Plus Tier
-- Capture additional upside by expanding scope (checkout optimization, international)
+
+- If trending toward Optimistic Scenario in Month 1-2, results may exceed projections
+- Monitor early indicators: CTR, commercial traffic %, add-to-cart improvements
 
 ---
 
@@ -312,8 +325,8 @@ Even if you only achieve **50% of target:**
 
 ---
 
-**Bottom Line:** Even in the conservative scenario, you get 12.1x ROI. Expected scenario delivers 17.4x. Aggressive delivers 25.3x. All three are excellent investments.
+**Bottom Line:** Even in the baseline scenario (industry average), you get 2.23x ROI. Expected scenario delivers 4.56x—double the industry average. Optimistic delivers 5.58x. All three represent solid investments with measurable returns.
 
-**Ready to commit to $11,500/month to generate $1.98M/year?**
+**Ready to commit to $11,500/month to achieve 4.56x ROI and industry-leading results?**
 
 [Review Implementation Plan](../05-implementation-plan/90-day-roadmap.md) | [Check Pricing](./pricing-summary.md) | [Get Started](../08-terms-next-steps/timeline.md)

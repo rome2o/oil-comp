@@ -23,18 +23,20 @@
 
 **Expected Outcomes:**
 
-- Add-to-cart: 2.03% → 3.5% in 150 days (+72%)
-- Add-to-cart: 3.5% → 5.0% in 18 months (+146%)
-- Revenue increase (90 days): +$77K/month
-- Revenue increase (12 months): +$165K/month
-- **ROI (12 months): 12.2x**
-- **Payback: 30 days**
+- **90 days:** 17% add-to-cart improvement (2.03% → 2.38%), 1.0x ROI breakeven
+- **6 months:** 35% add-to-cart improvement (2.03% → 2.75%), 1.8x ROI
+- **12 months:** 48% add-to-cart improvement (2.03% → 3.0%), 3.2x ROI
+- Revenue increase (90 days): +$19.5K/month
+- Revenue increase (6 months): +$45K/month
+- Revenue increase (12 months): +$60K/month
+- **ROI (12 months): 3.2x**
+- **Payback: 90 days**
 
 **Why Choose Starter:**
 
 - Limited budget constraints
 - Want to test approach before scaling
-- Comfortable with slower pace (150 days to 3.5%, 18 months to 5.0%)
+- Comfortable with slower pace (90 days to 1.0x ROI, 12 months to 3.0%)
 
 ---
 
@@ -55,22 +57,22 @@
 
 **Expected Outcomes:**
 
-- Add-to-cart: 2.03% → 3.5% in 90 days (+72%)
-- Add-to-cart: 3.5% → 4.5% in 6 months (+122%)
-- Add-to-cart: 4.5% → 5.0%+ in 12 months (+146%)
-- Revenue increase (90 days): +$77K/month
-- Revenue increase (6 months): +$135K/month
-- Revenue increase (12 months): +$165K/month
-- **ROI (12 months): 9.6x**
-- **Payback: 10 days**
+- **90 days:** 17% add-to-cart improvement (2.03% → 2.38%), 1.0x ROI breakeven
+- **6 months:** 48% add-to-cart improvement (2.03% → 3.0%), 2.46x ROI
+- **12 months:** 60% add-to-cart improvement (2.03% → 3.25%), 4.56x ROI
+- Revenue increase (90 days): +$19.5K/month
+- Revenue increase (6 months): +$60K/month
+- Revenue increase (12 months): +$88K/month (avg)
+- **ROI (12 months): 4.56x**
+- **Payback: 60-75 days**
 
 **Why Choose Growth:**
 
-- Hit 3.5% target in 90 days (conservative, achievable)
-- Hit 5.0% target in 12 months (realistic for traffic transformation)
+- Hit 1.0x ROI breakeven in 90 days (conservative, achievable)
+- Hit 2.46x ROI in 6 months (realistic for traffic transformation)
 - Address BOTH traffic quality + product pages simultaneously
 - Multiplier effect: Better traffic × Better pages = exponential results
-- Fastest path to profitability (10-day payback)
+- Industry-leading ROI (4.56x vs 2.23x average)
 - **Honest timeline that accounts for Google processing toxic backlinks**
 
 ---
@@ -93,18 +95,20 @@
 
 **Expected Outcomes:**
 
-- Add-to-cart: 2.03% → 3.5% in 75 days (+72%)
-- Add-to-cart: 3.5% → 5.0%+ in 10 months (+146%)
-- Revenue increase (75 days): +$77K/month
-- Revenue increase (10 months): +$165K/month
-- **ROI (10 months): 8.3x**
-- **Payback: 8 days**
+- **75 days:** 22% add-to-cart improvement (2.03% → 2.48%), 0.8x ROI
+- **6 months:** 52% add-to-cart improvement (2.03% → 3.08%), 2.8x ROI
+- **10 months:** 65% add-to-cart improvement (2.03% → 3.35%), 5.2x ROI
+- Revenue increase (75 days): +$25K/month
+- Revenue increase (6 months): +$65K/month
+- Revenue increase (10 months): +$93K/month (avg)
+- **ROI (10 months): 5.2x**
+- **Payback: 55-65 days**
 
 **Why Choose Plus:**
 
-- Need maximum speed (75 days to 3.5%, 10 months to 5.0%)
+- Need maximum speed (75 days to significant improvement, 10 months to 65%+ improvement)
 - Want to optimize entire funnel (traffic + pages + checkout)
-- Aggressive growth goals beyond 5.0%
+- Aggressive growth goals beyond 3.25%
 - International B2B expansion plans
 - Need custom development and integrations
 
@@ -120,14 +124,15 @@
 | **B2B Content** | Minimal | Extensive | Full Authority Building |
 | **A/B Testing** | Limited | Advanced | Comprehensive |
 | **Support** | Email (24-48hr) | Priority (same-day) | Dedicated (real-time) |
-| **Strategy Calls** | Monthly | Bi-weekly | Weekly |
-| **90-Day A2C Target** | 3.2% (+58%) | 3.5% (+72%) | 3.8% (+87%) |
-| **12-Month A2C Target** | 4.0% (+97%) | 5.0% (+146%) | 6.0%+ (+195%) |
-| **12-Month Revenue** | +$60K/month | +$165K/month | +$240K/month |
-| **12-Month Impact** | +$720K | +$1.98M | +$2.88M |
-| **ROI (12 months)** | 8.0x | 11.9x | 13.7x |
-| **Payback Period** | 45 days | 10 days | 18 days |
-| **Time to 12M Target** | 18 months | 12 months | 9 months |
+| **Strategy Calls** | Monthly | Weekly | 2x Weekly |
+| **90-Day A2C Improvement** | +15% | +17% | +22% |
+| **6-Month A2C Improvement** | +35% | +48% | +52% |
+| **12-Month A2C Improvement** | +48% | +60% | +65% (10mo) |
+| **12-Month Revenue Increase** | +$60K/month | +$88K/month | +$93K/month (10mo) |
+| **12-Month Total Revenue** | +$540K | +$628.5K | +$708K (10mo) |
+| **ROI (12 months)** | 3.2x | 4.56x | 5.2x (10mo) |
+| **Payback Period** | 90 days | 60-75 days | 55-65 days |
+| **Time to 1.0x ROI** | 4-5 months | 3 months | 2.5 months |
 
 ---
 
@@ -140,10 +145,11 @@
 - ✅ You've already achieved goals and need maintenance mode
 
 ### Choose **Growth** if: ⭐ MOST CLIENTS
-- ✅ You want maximum ROI (17.4x - highest return per dollar)
-- ✅ You want to hit 5.0% in 90 days (not 6 months)
+
+- ✅ You want industry-leading ROI (4.56x vs 2.23x industry average)
+- ✅ You want to hit 1.0x ROI breakeven in 90 days
 - ✅ You understand traffic quality + product pages = multiplier effect
-- ✅ You want proven results fast (20-day payback)
+- ✅ You want proven results with honest timelines (60-75 day payback)
 - ✅ **You want the best balance of speed, impact, and investment**
 
 ### Choose **Plus** if:
@@ -157,68 +163,70 @@
 
 ## 💡 Why Growth Tier Has the Best ROI
 
-### The Math Behind 11.9x ROI
+### The Math Behind 4.56x ROI
 
 **Investment:** $11,500/month × 12 months = $138,000/year
 
-**Return:** $165,000/month × 12 months = $1,980,000/year
+**Return:** $628,500 cumulative Year 1
 
-**Net Profit:** $1,980,000 - $138,000 = $1,842,000
+**Net Profit:** $628,500 - $138,000 = $490,500
 
-**ROI:** $1,842,000 ÷ $138,000 = **13.4x net** (14.3x gross, 11.9x after first-year costs)
+**ROI:** $628,500 ÷ $138,000 = **4.56x**
 
-### Why Higher ROI than Plus Tier?
+### Why Industry-Leading ROI?
 
-**Efficiency Principle:** Diminishing returns beyond 5.0% target
-- Going from 2.03% → 5.0% = high-leverage improvements (trust signals, mobile UX, commercial keywords)
-- Going from 5.0% → 6.0% = harder optimizations (personalization, advanced testing, checkout)
-- **Growth tier maximizes ROI per dollar by focusing on highest-impact work**
+**Dual-Track Efficiency:** Simultaneous optimization delivers multiplier effect
+
+- Product pages + traffic quality = compound improvements
+- Going from 2.03% → 3.25% = highest-leverage improvements (trust signals, mobile UX, commercial keywords)
+- **Growth tier maximizes ROI per dollar by focusing on proven, high-impact optimizations**
 
 **Plus Tier Benefits:**
-- Higher absolute revenue (+$240K vs +$165K)
-- But 52% more investment for 45% more revenue
-- ROI: 13.7x (vs 11.9x for Growth at 12 months)
-- Still excellent, but Growth is most efficient
+
+- Faster timeline and higher absolute revenue
+- But 52% more investment for incremental gains
+- ROI: 5.2x (10 months vs 12 months for Growth)
+- Faster payback but similar efficiency
 
 ---
 
-## 🚀 ROI Scenarios: Conservative vs Expected vs Aggressive
+## 🚀 ROI Scenarios: Baseline vs Expected vs Optimistic
 
-### Conservative Scenario (70% of Target)
+### Baseline Scenario (Industry Average Performance)
 
-**Assumes:** Only 70% of projected improvements achieved
-
-| Tier | Add-to-Cart | Revenue Increase | ROI | Payback |
-|------|-------------|------------------|-----|---------|
-| Starter | 3.0% (+48%) | +$42K/month | 6.5x | 56 days |
-| Growth | 4.0% (+97%) | +$115K/month | 12.2x | 30 days |
-| Plus | 4.8% (+137%) | +$168K/month | 11.2x | 35 days |
-
-**Growth tier still delivers 12.2x ROI even in conservative scenario**
-
-### Expected Scenario (100% of Target)
-
-**Assumes:** Full projected improvements achieved (base case)
+**Assumes:** Performance matches industry average CRO ROI (2.23x)
 
 | Tier | Add-to-Cart | Revenue Increase | ROI | Payback |
 |------|-------------|------------------|-----|---------|
-| Starter | 3.5% (+72%) | +$60K/month | 9.2x | 40 days |
-| Growth | 5.0% (+146%) | +$165K/month | 17.4x | 20 days |
-| Plus | 6.0% (+195%) | +$240K/month | 16.0x | 25 days |
+| Starter | 2.28% (+12%) | +$17K/month | 2.1x | 90 days |
+| Growth | 2.85% (+40%) | +$52K/month | 2.23x | 75 days |
+| Plus | 3.10% (+53%) | +$68K/month | 2.3x | 65 days |
 
-**Growth tier delivers 17.4x ROI in expected scenario**
+**Growth tier delivers 2.23x ROI matching industry average—minimal risk scenario**
 
-### Aggressive Scenario (120% of Target)
+### Expected Scenario (Above Industry Average)
 
-**Assumes:** Exceeds projections (best-case)
+**Assumes:** Dual-track optimization exceeds industry average (base case)
 
-| Tier | Add-to-Cart | Revenue Increase | ROI | Payback |
+| Tier | Add-to-Cart | Revenue Increase (Cumulative Y1) | ROI | Payback |
 |------|-------------|------------------|-----|---------|
-| Starter | 4.0% (+97%) | +$87K/month | 13.4x | 28 days |
-| Growth | 6.0% (+195%) | +$240K/month | 25.3x | 14 days |
-| Plus | 7.0% (+245%) | +$320K/month | 21.3x | 18 days |
+| Starter | 3.0% (+48%) | $430K | 3.2x | 90 days |
+| Growth | 3.25% (+60%) | $628.5K | 4.56x | 60-75 days |
+| Plus | 3.35% (+65%, 10mo) | $708K | 5.2x | 55-65 days |
 
-**Growth tier delivers 25.3x ROI in aggressive scenario**
+**Growth tier delivers 4.56x ROI—double the industry average**
+
+### Optimistic Scenario (Top 10% Performance)
+
+**Assumes:** Exceptional execution and favorable market conditions
+
+| Tier | Add-to-Cart | Revenue Increase (Cumulative Y1) | ROI | Payback |
+|------|-------------|------------------|-----|---------|
+| Starter | 3.15% (+55%) | $510K | 4.0x | 75 days |
+| Growth | 3.60% (+77%) | $820K | 5.58x | 50-60 days |
+| Plus | 3.75% (+85%, 10mo) | $920K | 6.3x | 45-55 days |
+
+**Growth tier delivers 5.58x ROI—top 10% of industry performance**
 
 ---
 

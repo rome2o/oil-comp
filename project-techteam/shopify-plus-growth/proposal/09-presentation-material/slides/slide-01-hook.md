@@ -31,10 +31,12 @@
 - But conversions have CRASHED by nearly half (-44%)
 - More visitors = fewer buyers
 - This isn't normal—it's a symptom of a fundamental strategy problem
+- **We can help you achieve a 60% improvement in 12 months with a 4.56x return on investment**
 
 **Emotional Hook:**
 - "You're getting more people to your site, but *fewer* of them are buying."
 - "This is costing you a fortune."
+- "In 90 days, we can deliver a 17% improvement and break even. In 12 months, you'll see a 60% improvement with industry-leading returns."
 
 ---
 

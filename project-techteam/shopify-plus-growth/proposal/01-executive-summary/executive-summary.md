@@ -65,32 +65,35 @@ Our comprehensive SEO analysis reveals that **low add-to-cart rates aren't just 
 
 Improving both traffic quality AND add-to-cart rate creates a multiplier effect:
 
-**Scenario 1: Product Pages Only (Original Target)**
+**Scenario 1: Product Pages Only (Conservative Approach)**
 
-- Add-to-Cart: 2.03% → 3.5% at 90 days
+- Add-to-Cart: 2.03% → 2.38% at 90 days
 - Same traffic quality (90% informational)
-- Revenue increase: +$77K/month at 90 days
+- Revenue increase: +$23K/month at 90 days
+- Limited by traffic quality bottleneck—can't convert wrong audience
 
-**Scenario 2: Traffic Quality + Product Pages (v2 Approach - Phased Timeline)**
+**Scenario 2: Traffic Quality + Product Pages (Ultra-Conservative, Realistic Timeline)**
 
-- **90 Days:** 2.03% → 3.5% A2C (+$77K/month) - Page optimization drives initial gains
-- **6 Months:** 3.5% → 4.5% A2C (+$135K/month) - Traffic quality begins shifting
-- **12 Months:** 4.5% → 5.0%+ A2C (+$165K+/month) - Full traffic transformation complete
+- **90 Days:** 2.03% → 2.38% A2C (+$23K/month) - Page optimization drives initial gains, traffic quality begins shifting
+- **6 Months:** 2.38% → 3.0% A2C (+$67K/month) - Traffic quality improvement accelerates conversion gains
+- **12 Months:** 3.0% → 3.25% A2C (+$105K/month) - Sustained improvement as traffic transformation matures
 
 **Why Traffic Quality Takes Longer:**
 
 - 1,621 toxic backlinks require 3-6 months for Google to process after disavowal
 - Existing informational content rankings take 4-6 months to shift
 - New transactional content needs 2-4 months to establish authority
-- Traffic mix at 90 days: ~75/25 (informational/transactional), improving to 40/60 by 12 months
+- Traffic mix at 90 days: ~75/25 (informational/transactional), improving to 60/40 by 6 months, 40/60 by 12 months
+- **Reality check:** Even optimized pages can't convert "how-to" searchers into bulk buyers—we need the right audience
 
 This is achievable because:
 
 1. Your checkout already works well—no need to fix what isn't broken
-2. Product page optimization delivers immediate improvements (90 days to 3.5%)
-3. **Commercial keyword targeting is highly predictable** - shifting from "how-to" to "buy bulk" queries takes 6-12 months
+2. Product page optimization delivers measurable improvements (90 days to 2.38%, foundation for growth)
+3. **Traffic quality transformation is systematic but gradual** - shifting from "how-to" to "buy bulk" queries takes 6-12 months for full effect
 4. We've identified specific, actionable improvements through data analysis
 5. Your top 3 products (Rosemary, Peppermint, Lavender) alone generate $32K/month—small improvements have big impact
+6. **Conservative projections = credible results** - Industry average CRO ROI is 2.23x; we're targeting 4.56x (2x better than average)
 
 ---
 
@@ -160,47 +163,64 @@ This is **not** generic "conversion rate optimization" or "SEO services." This i
 
 **What You Get:**
 
-**Monthly Deliverables:**
+**What's Included:**
 
 - **Traffic Quality Optimization:**
-  - B2B keyword research & gap analysis
-  - Commercial intent content strategy
-  - CTR optimization for existing rankings
-  - Comprehensive SEO cleanup (toxic backlink disavowal)
+  - B2B keyword research & commercial intent gap analysis
+  - Strategic shift from informational → transactional keywords
+  - CTR optimization for existing rankings (1.20% → 2.0%+ target)
+  - Comprehensive SEO cleanup (1,621 toxic backlink disavowal)
+  - B2B content strategy and authority building
+  
 - **Product Page Optimization:**
-  - 8-12 product page optimizations per month
+  - 8-12 product pages optimized per month (prioritized by revenue)
   - 2-3 A/B tests running continuously
-  - Trust signal strategy implementation
-  - Exit-intent strategies for abandoners
+  - Mobile-first design implementation (addresses 85% bounce rate)
+  - Trust signal integration (reviews, certifications, COAs)
+  - Exit-intent strategies and abandonment recovery
+  
 - **Technical & Performance:**
   - Site speed & Core Web Vitals optimization
-  - Advanced schema markup implementation
-- Bi-weekly analytics and insights reports
-- Monthly strategic planning call
+  - Advanced schema markup for rich results
+  - Heatmap and session recording analysis
+  
+- **Reporting & Strategy:**
+  - Bi-weekly analytics and insights reports
+  - Monthly strategic planning call
+  - Performance tracking dashboard
 
-**Expected Outcomes:**
+**Note:** You're not buying hours—you're buying outcomes. We deliver defined results with fixed monthly pricing ($11,500). No surprise costs, no scope creep, no hourly billing.
+
+**Expected Outcomes (Ultra-Conservative Projections):**
 
 **90-Day Results:**
 
-- Add-to-Cart Rate: 2.03% → 3.5% (+72% improvement)
-- Monthly Revenue: $120K → $197K (+$77K increase)
-- **ROI: 6.7x** | **Payback: 35 days**
+- **17% add-to-cart improvement** (2.03% → 2.38%)
+- Monthly Revenue: $120K → $143K (+$23K increase)
+- **1.0x ROI breakeven milestone** ✅ | **Payback: 60-75 days (Month 3)**
+- Traffic Quality: Beginning shift to 10-15% commercial intent
 
 **6-Month Results:**
 
-- Add-to-Cart Rate: 2.03% → 4.5% (+122% improvement)
-- Traffic Quality: Shift toward 35-40% commercial
-- Monthly Revenue: $120K → $255K (+$135K increase)
-- **ROI: 11.7x**
+- **48% add-to-cart improvement** (2.03% → 3.0%)
+- Traffic Quality: 20-25% commercial intent (shift accelerating)
+- Monthly Revenue: $120K → $187K (+$67K increase)
+- **2.46x cumulative ROI milestone** ✅
 
 **12-Month Results:**
 
-- Add-to-Cart Rate: 2.03% → 5.0% (+146% improvement)
-- Traffic Quality: 40%+ commercial
-- Organic CTR: 1.20% → 2.4%+
-- Monthly Revenue: $120K → $285K (+$165K increase)
-- Site Conversion: 0.72% → 1.8% (+150% improvement)
-- **Annual ROI: 14.3x** (for every $1 invested, gain $14.30 over 12 months)
+- **60% add-to-cart improvement** (2.03% → 3.25%)
+- Traffic Quality: 30-40% commercial intent
+- Organic CTR: 1.20% → 2.0%+
+- Monthly Revenue: $120K → $225K (+$105K increase)
+- Site Conversion: 0.72% → 1.15% (+60% improvement)
+- **Cumulative ROI: 4.56x** (Industry average: 2.23x—we're targeting **2x better than average**)
+
+**Why These Numbers Are Conservative:**
+- Industry standard add-to-cart is 8-10%; we're targeting 3.25% (conservative)
+- Traffic quality transformation takes 12 months for full effect (realistic timeline)
+- CRO services average 2.23x Year 1 ROI; our 4.56x target is achievable but not aggressive
+- Month 1-2 focus on foundation-building, not immediate massive gains
 
 ### Alternative Tiers
 
@@ -208,99 +228,100 @@ This is **not** generic "conversion rate optimization" or "SEO services." This i
 
 - 4-6 product pages/month optimized
 - Basic SEO cleanup
-- Focus: Top sellers only
-- Expected 90 days: +$55K/month revenue
-- Expected 12 months: +$135K/month revenue
-- ROI: 7.3x (90 days) | 18x (12 months)
+- Monthly reporting and quarterly strategy calls
+- Expected 90 days: **+8% improvement** (2.03% → 2.20%), +$15K/month revenue, 0.67x cumulative ROI
+- Expected 12 months: **+40% improvement** (2.03% → 2.85%), +$75K/month revenue, **3.33x cumulative ROI**
+- Slower path, budget-conscious, meets industry baseline
 
 **Plus Tier - $17,500/month**
 
 - 14-20 product pages/month optimized
-- Advanced SEO + content strategy
-- AI-powered personalization
-- Expected 90 days: +$110K/month revenue
-- Expected 6 months: +$190K/month revenue
-- ROI: 6.3x (90 days) | 10.9x (6 months)
+- Advanced SEO + aggressive content strategy
+- Weekly reporting and bi-weekly strategy calls
+- Comprehensive funnel optimization with AI/personalization
+- Expected 90 days: **+23% improvement** (2.03% → 2.50%), +$32K/month revenue, 1.3x cumulative ROI
+- Expected 12 months: **+72% improvement** (2.03% → 3.50%), +$125K/month revenue, **5.58x cumulative ROI**
+- Fastest path, maximum velocity, 2.5x industry average
 
 ---
 
 ## The Execution: 90-Day Roadmap
 
-### Month 1: Foundation & Quick Wins (48 hours)
+### Month 1: Foundation & Quick Wins
 
-**Focus:** Traffic quality assessment + optimize top revenue-generating products
+**Focus:** Traffic quality assessment + prepare top revenue-generating product optimizations
 
-**Traffic Quality Track (20 hours):**
+**Traffic Quality Track:**
 - **Week 1-2:** B2B keyword gap analysis, identify commercial intent opportunities
-- **Week 3-4:** "Striking distance" CTR optimization campaign (positions 4-20)
-- **Deliverables:** Target keyword list (50+ B2B terms), CTR improvement on 30+ existing rankings
+- **Week 3-4:** CTR optimization strategy, establish baseline tracking
 
-**Product Page Track (28 hours):**
+**Product Page Track:**
 - **Week 1-2:** Comprehensive funnel analysis, heatmaps, mobile audit
-- **Week 3-4:** Redesign Rosemary, Peppermint, Lavender product pages + first A/B tests
+- **Week 3-4:** Design and launch first 8-12 product page optimizations
 
 **Expected Results:**
 
-- Add-to-Cart: 2.03% → 2.8% (+38%)
-- Organic CTR: 1.20% → 1.6% (+33%)
-- Revenue increase: +$42K/month
-- Establish baseline tracking & testing framework
+- **2.5% add-to-cart improvement** (2.03% → 2.08%)
+- Baseline tracking established for traffic quality metrics
+- Revenue increase: +$3K/month (foundation phase)
+- 8-12 product pages deployed for Month 2 validation
+- **Focus:** Foundation-building, not immediate massive gains
 
-### Month 2: B2B Content & Scale (52 hours)
+### Month 2: Validation & B2B Content Launch
 
-**Focus:** Launch B2B content strategy + expand product optimizations
+**Focus:** Validate product page improvements + launch B2B content strategy
 
-**Traffic Quality Track (26 hours):**
-- **Week 5-6:** Create 2 B2B pillar content pieces ("Bulk Buyer's Guide", "Technical Specs Guide")
-- **Week 7-8:** Optimize top 10 B2B product/category pages with commercial keywords
+**Traffic Quality Track:**
+- **Week 5-6:** Launch "Bulk Essential Oils" landing page, begin commercial keyword targeting
+- **Week 7-8:** Optimize category pages with B2B focus, CTR improvement campaign
 
-**Product Page Track (26 hours):**
-- **Week 5-6:** Next 5 product pages redesigned
-- **Week 7-8:** Trust signal implementation (reviews, UGC, guarantees)
-
-**Expected Results:**
-
-- Add-to-Cart: 2.8% → 4.0% (+97% from baseline)
-- Organic CTR: 1.6% → 2.0% (+67% from baseline)
-- Traffic mix: 85% informational / 15% commercial (shift beginning)
-- Revenue increase: +$97K/month
-
-### Month 3: Authority Building & Optimization (46 hours)
-
-**Focus:** Link building + advanced personalization + sustained growth
-
-**Traffic Quality Track (22 hours):**
-- **Week 9-10:** Digital PR campaign for pillar content, competitor backlink replication
-- **Week 11-12:** Implement advanced schema markup, unlinked brand mention outreach
-
-**Product Page Track (24 hours):**
-- **Week 9-10:** Personalization for returning visitors, cart abandoners
-- **Week 11-12:** Additional 3-4 product pages optimized
+**Product Page Track:**
+- **Week 5-6:** A/B test Month 1 optimizations, validate improvements
+- **Week 7-8:** Deploy next 8-12 product pages, trust signal implementation
 
 **Expected Results:**
 
-- Add-to-Cart: 4.0% → 5.0% (+146% from baseline)
-- Organic CTR: 2.0% → 2.3% (+92% from baseline)
-- Traffic mix: 70% informational / 30% commercial
-- Revenue increase: +$165K/month
-- 5-10 high-quality backlinks acquired
+- **11% add-to-cart improvement** (2.03% → 2.25%)
+- First A/B tests validated (2-3 weeks of data)
+- Traffic mix beginning to shift (5-10% commercial)
+- Revenue increase: +$12K/month
+
+### Month 3: Scaling & Optimization
+
+**Focus:** Scale validated improvements + expand B2B reach
+
+**Traffic Quality Track:**
+- **Week 9-10:** B2B authority content, backlink outreach begins
+- **Week 11-12:** Schema markup implementation, commercial content expansion
+
+**Product Page Track:**
+- **Week 9-10:** Deploy third batch of 8-12 product pages
+- **Week 11-12:** Trust signals expanded, mobile UX refinements
+
+**Expected Results:**
+
+- **17% add-to-cart improvement** (2.03% → 2.38%), **1.0x cumulative ROI breakeven** ✅
+- Traffic mix: 10-15% commercial (shift underway, takes 6-12 months for full effect)
+- Revenue increase: +$23K/month
 - Sustainable optimization system established
+- **Payback achieved:** 60-75 days, profitable from Month 4 forward
 
 ---
 
 ## Risk Management & Guarantees
 
-### Team Protection (Protects Both Sides)
+### Fixed-Price Protection (Protects Both Sides)
 
-**Hard Hour Caps:**
-- Growth Tier: Maximum 50 hours/month
-- Work stops at cap—requires discussion to continue
-- Prevents scope creep and overwork
+**Fixed Monthly Investment:**
+- Growth Tier: $11,500/month, period
+- No hourly billing, no surprise costs, no overages
+- You pay for outcomes, not hours worked
 
 **Scope Management:**
-- Any work beyond agreed deliverables requires written approval
+- Defined deliverables each month (see 90-Day Roadmap)
+- Any work beyond agreed scope requires written approval
 - Mid-month scope changes delivered next month
-- Emergency work charged at 1.5x rate (with approval)
+- We scope work to fit the budget—you never pay more than the tier price
 
 ### Performance Tracking
 
@@ -345,11 +366,13 @@ Product page optimization has industry-proven results:
 
 ### Realistic Projections
 
-Our ROI projections are conservative:
-- We target 4.0% add-to-cart (half of industry standard)
-- Financial models assume 60-100% goal achievement
-- Payback periods are real: 35-56 days demonstrated
-- No promises of overnight transformation—steady, measurable progress
+Our ROI projections are ultra-conservative and validated:
+- We target 3.25% add-to-cart by Year 1 (industry standard is 8-10%)
+- Financial models based on real traffic quality transformation timelines (6-12 months)
+- Payback period: 60-75 days (Month 3 breakeven)
+- Year 1 ROI: 4.56x (industry average is 2.23x—we're targeting 2x better)
+- No promises of overnight transformation—systematic, measurable progress
+- **Honesty over hype:** We'd rather set realistic expectations and exceed them
 
 ---
 
@@ -389,11 +412,16 @@ Our ROI projections are conservative:
 
 **Investment:** $11,500/month (Growth Tier recommended)
 
-**Outcome:** +$77K/month at 90 days, +$165K/month at 12 months | 11.9x ROI | 10-day payback
+**Outcome:** 
+- 90 days: +$23K/month, 1.0x ROI breakeven ✅
+- 6 months: +$67K/month, 2.46x ROI ✅
+- 12 months: +$105K/month, 4.56x ROI (2x industry average) ✅
 
-**Timeline:** Phased approach - 3.5% at 90d, 4.5% at 6m, 5.0% at 12m
+**Timeline:** Ultra-conservative phased approach - 2.38% at 90d (breakeven), 3.0% at 6m, 3.25% at 12m
 
-**Protection:** Deliverable-based scope, clear outcomes, month-to-month flexibility
+**Protection:** Fixed-price deliverable-based scope, clear outcomes, month-to-month flexibility after 6 months
+
+**Reality Check:** Traffic quality transformation takes 6-12 months. We focus on achievable results, not impossible promises.
 
 **Next Step:** Review proposal, schedule discussion call, select tier
 
